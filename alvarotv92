@@ -1,0 +1,1434 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="⭐ALVAROTV⭐" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" ,ALVAROTV INFO
+http://sendeyo.com/en/0f566f04f8
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" , EN VIVO
+http://activefrance.net/live/W8MEP61/2X2H702/1015823.ts
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + 1 HD" , ESPN DEPORTES
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96329.m3u8
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" tvg-name="DISNEY + & STAR + HD" ,DISNEY + & STAR +
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmPnyWa_E6lvsqP01GhmWT2-/m3u8
+
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/cLhJHFRZ/ESPN1.png" tvg-id="ESPN.Latin.South.Andina.(ESPNS)..ec" tvg-name="ɆSPN HD" ,ɆSPN HD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96706.m3u8
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/cLhJHFRZ/ESPN1.png" tvg-id="815841.peru" tvg-name="ɆSPN SD" ,ɆSPN SD
+http://activefrance.net/live/W8MEP61/2X2H702/30737.ts
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/8z8DnB3H/ESPN-MEX.png" tvg-name="MX | E$PN 1 HD" ,MX | E$PN 1 HD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96365.m3u8
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/cCPnFXDP/ESPN-2.png" tvg-id="785048.peru" tvg-name="ɆSPN 2 HD" ,ɆSPN 2 HD
+http://activefrance.net/live/W8MEP61/2X2H702/312516.ts
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/cCPnFXDP/ESPN-2.png" tvg-id="785048.peru" tvg-name="ɆSPN 2 SD" ,ɆSPN 2 SD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/2095.m3u8
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/rFM7dnv7/ESPN-2-MX.png" tvg-name="MX | E$PN 2 HD" ,MX | E$PN 2 HD
+http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/401652.ts
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/59q981v9/ESPN-3.png" tvg-id="785100.peru" tvg-name="ɆSPN 3 HD" ,ɆSPN 3 HD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94807.m3u8
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/59q981v9/ESPN-3.png" tvg-id="785100.peru" tvg-name="Ɇ$PN 3 SD" ,Ɇ$PN 3 SD
+http://activefrance.net/live/W8MEP61/2X2H702/30735.ts
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/g2B7TYnP/ESPN-3-MX.png" tvg-name="MX | ESPN 3 HD" ,MX | ESPN 3 HD off
+http://daleplay.club:80/play/bz2Cn4uIOfB9ySMxZn-dgJfNFoudTQanlpDOr-jDqjM4wsguliFSqMaGYGKRqfcE/m3u8
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/PfM7Ybbc/ESPN-4.png" tvg-id="785030.peru" tvg-name="ɆSPN 4 HD" ,ɆSPN 4 HD
+http://activefrance.net/live/W8MEP61/2X2H702/69178.ts
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/PfM7Ybbc/ESPN-4.png" tvg-id="785030.peru" tvg-name="ɆSPN 4 SD" ,ɆSPN 4 SD off
+http://daleplay.club:80/play/bz2Cn4uIOfB9ySMxZn-dgJfNFoudTQanlpDOr-jDqjOD_qi48iLQ62l_MuQfehRD/m3u8
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/Zn069hxJ/ESPN-5.png" tvg-id="785028.peru" tvg-name="ɆSPN 5 HD" ,ɆSPN 5 HD
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/9539.ts
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/Zn069hxJ/ESPN-5.png" tvg-id="785028.peru" tvg-name="ɆSPN 5 SD" ,ɆSPN 5 SD off
+http://daleplay.club:80/play/bz2Cn4uIOfB9ySMxZn-dgJfNFoudTQanlpDOr-jDqjMIpzi7SkfxBBYzHKg2HFoa/m3u8
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/W1Z66TL3/ESPN-6.png" tvg-id="785061.peru" tvg-name="ɆSPN 6 HD" ,ɆSPN 6 HD
+http://daleplay.club:80/live/020524.020202.052424./mjkN8LDcJYvn/339552.ts
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/W1Z66TL3/ESPN-6.png" tvg-id="785061.peru" tvg-name="ɆSPN 6 SD" ,ɆSPN 6 SD off
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmOc5Vl2GWswQcpM8wQNQ9w3/m3u8
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/0jN0pSPR/ESPN-7.png" tvg-id="785029.peru" tvg-name="ɆSPN 7 HD" ,ɆSPN 7 HD
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/9543.ts
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/0jN0pSPR/ESPN-7.png" tvg-id="785029.peru" tvg-name="ɆSPN 7 SD" ,ɆSPN 7 SD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/2098.m3u8
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/KYBb2kX2/ESPN-Premium.png" tvg-name="ɆSPN PREMIUM HD" ,ɆSPN PREMIUM HD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96708.m3u8
+
+#EXTINF:-1 group-title="⭐ESPN ALVAROTV⭐⚽" tvg-logo="https://i.postimg.cc/KYBb2kX2/ESPN-Premium.png" tvg-name="ɆSPN PREMIUM SD" ,ɆSPN PREMIUM SD off
+http://daleplay.club:80/play/XeOAkD_0Ce-_oOsyS_TduQ5XdfEPN_T1vo7zgzPthmN-j44RHmKZ_jz_5wSzITpl/m3u8
+
+
+
+#EXTINF:-1 group-title="⭐LA LIGA | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" ,1 |LA LIGA | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1033362.ts
+
+
+#EXTINF:-1 group-title="⭐LA LIGA | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" ,2 |LA LIGA | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1033358.ts
+
+
+#EXTINF:-1 group-title="⭐LA LIGA | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 3 |LA LIGA | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1033357.ts
+
+#EXTINF:-1 group-title="⭐LA LIGA | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 4 |LA LIGA | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1026672.ts
+
+#EXTINF:-1 group-title="⭐LA LIGA | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" ,5 |LA LIGA | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/76718.ts
+
+#EXTINF:-1 group-title="⭐LA LIGA | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" ,6 |LA LIGA | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/655462.ts
+
+
+#EXTINF:-1 group-title="⭐SERIE A | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 1 |SERIE A | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1018098.ts
+
+#EXTINF:-1 group-title="⭐SERIE A | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 2 |SERIE A | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1018099.ts
+
+
+
+#EXTINF:-1 group-title="⭐SERIE A | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 3 |SERIE A | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1018097.ts
+
+
+#EXTINF:-1 group-title="⭐SERIE A | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 4 |SERIE A | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1018095.ts
+
+
+#EXTINF:-1 group-title="⭐SERIE A | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 5 |SERIE A | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/76674.ts
+
+
+
+#EXTINF:-1 group-title="⭐PREMIER LEAGUE | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 1 |PREMIER LEAGUE | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1015547.ts
+
+#EXTINF:-1 group-title="⭐PREMIER LEAGUE | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 2 |PREMIER LEAGUE | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1015548.ts
+
+
+#EXTINF:-1 group-title="⭐PREMIER LEAGUE | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 3 |PREMIER LEAGUE | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1015550.ts
+
+
+#EXTINF:-1 group-title="⭐PREMIER LEAGUE | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 5 |PREMIER LEAGUE | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1015551.ts
+
+
+#EXTINF:-1 group-title="⭐PREMIER LEAGUE | ⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001264-eb63beb63d/700/Futbol.webp?ph=348e8b9008" , 7 |PREMIER LEAGUE | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1015553.ts
+
+
+
+#EXTINF:-1 group-title="1⭐WIN SPORTS🇪🇨" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/700/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS+ exclusivo
+http://activefrance.net/live/W8MEP61/2X2H702/190260.ts
+
+#EXTINF:-1 group-title="1⭐WIN SPORTS🇪🇨" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/700/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS+ VIP
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/2116.m3u8
+
+
+#EXTINF:-1 group-title="1⭐WIN SPORTS🇪🇨" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/700/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS+ 
+http://zuiowy.net:8080/live/Alvaro.Escobar/QGGqw2qTZS/461.ts
+
+
+
+#EXTINF:-1 group-title="1⭐WIN SPORTS🇪🇨" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/700/winsportsMas.webp?ph=348e8b9008" ,WIN SPORT exclusivo
+http://activefrance.net/live/W8MEP61/2X2H702/190259.ts
+
+
+#EXTINF:-1 group-title="1⭐WIN SPORTS🇪🇨" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001310-7a5a77a5a8/700/winsports-4.webp?ph=348e8b9008" ,WIN SPORTS VIP
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/2115.m3u8
+
+
+#EXTINF:-1 group-title="1⭐WIN SPORTS🇪🇨" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001310-7a5a77a5a8/700/winsports-4.webp?ph=348e8b9008" ,WIN SPORTS
+http://tvlatino.club:2082/live/Jonatan2024/yaDWd7M4A2Eg/209215.ts
+
+
+
+#EXTINF:-1 group-title="2⭐DIRECTV SPORTS" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001240-4b5264b529/700/DirectvSports1.webp?ph=348e8b9008" ,DIRECTV SPORTS exclusivo
+http://activefrance.net/live/W8MEP61/2X2H702/197711.ts
+
+
+#EXTINF:-1 group-title="2⭐DIRECTV SPORTS" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001240-4b5264b529/700/DirectvSports1.webp?ph=348e8b9008" ,DIRECTV SPORTS VIP
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/1913.m3u8
+
+
+#EXTINF:-1 group-title="2⭐DIRECTV SPORTS" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001240-4b5264b529/700/DirectvSports1.webp?ph=348e8b9008" ,DIRECTV SPORTS opc2«
+http://daleplay.club:8080/live/A82204C10D35/2204C10D35/50492.ts
+
+#EXTINF:-1 group-title="2⭐DIRECTV SPORTS" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001242-940a2940a3/700/DirectvSports2-5.webp?ph=348e8b9008" ,DIRECTV SPORTS 2 exclusivo
+http://activefrance.net/live/W8MEP61/2X2H702/197712.ts
+
+#EXTINF:-1 group-title="2⭐DIRECTV SPORTS" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001242-940a2940a3/700/DirectvSports2-5.webp?ph=348e8b9008" ,DIRECTV SPORTS 2 VIP
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96714.m3u8
+
+#EXTINF:-1 group-title="2⭐DIRECTV SPORTS" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001244-baf7bbaf7d/700/DirectvSportsPlus.webp?ph=348e8b9008" ,DIRECTV SPORTS+ opc1
+http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/54471.ts
+#EXTINF:-1 group-title="2⭐DIRECTV SPORTS" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001244-baf7bbaf7d/700/DirectvSportsPlus.webp?ph=348e8b9008" ,DIRECTV SPORTS+ opc2
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/9559.ts
+
+#EXTINF:-1 group-title="2⭐DIRECTV SPORTS" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001244-baf7bbaf7d/700/DirectvSportsPlus.webp?ph=348e8b9008" ,DIRECTV SPORTS+ opc3
+http://ultrapremium.cloud:8080/live/984888471tv/jlnvov/471.ts
+
+
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" ,CINE TERROR
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/125896.m3u8
+
+
+
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" ,CINE ACCION 2023
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/124294.m3u8
+
+
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" ,PELICULAS 2023
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/125186.m3u8
+
+
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" ,NETFLIX CINE + HD
+http://activefrance.net/W8MEP61/2X2H702/620973
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" ,NETFLIX CINE HD
+http://activefrance.net/W8MEP61/2X2H702/620974
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" ,NETFLIX DRAMA HD
+http://activefrance.net/W8MEP61/2X2H702/620975
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" ,NETFLIX ESPAÑOL HD
+http://activefrance.net/W8MEP61/2X2H702/620976
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" ,NETFLIX HISTORIA HD
+http://activefrance.net/W8MEP61/2X2H702/620988
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" ,NETFLIX PELÍCULAS HD
+http://activefrance.net/W8MEP61/2X2H702/620990
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" ,NETFLIX SCI-FI HD
+http://activefrance.net/W8MEP61/2X2H702/620991
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/GOLDTV/gold tv.png" ,NETFLIX TELEVISION HD
+http://activefrance.net/W8MEP61/2X2H702/620992
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/LATINO/HBOTV.png" ,LATINO - HBO
+http://activefrance.net/W8MEP61/2X2H702/30601
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/LATINO/HBOTV2.png" ,LATINO - HBO 2
+http://activefrance.net/W8MEP61/2X2H702/30600
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/LATINO/HBO+.png" ,LATINO - HBO PLUS
+http://activefrance.net/W8MEP61/2X2H702/30598
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/usa/HBO_Family_East_HD.png" ,LATINO - HBO FAMILY
+http://activefrance.net/W8MEP61/2X2H702/30599
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/LATINO/HBOTV.png" ,LATINO - HBO ESTE
+http://activefrance.net/W8MEP61/2X2H702/69064
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/LATINO/HBOSIGNATURETV.png" ,LATINO - HBO SIGNATURE
+http://activefrance.net/W8MEP61/2X2H702/30597
+
+#EXTINF:-1 group-title="🔵HBO🛑NETFLIX🔵" tvg-logo="http://go4.pw/usa/HBO_Family_East_HD.png" ,LATINO - HBO FAMILY
+http://activefrance.net/W8MEP61/2X2H702/30599
+
+
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.ibb.co/8syJWxL/alvarotvkids.png" ,24/7: LOS PITUFOS fhd
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/129566.m3u8
+
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.ibb.co/8syJWxL/alvarotvkids.png" ,Peppa Pig
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/93482.ts
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.ibb.co/8syJWxL/alvarotvkids.png" ,24/7: PAW PATROL
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/129547.m3u8
+
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.ibb.co/8syJWxL/alvarotvkids.png" ,BEBE MUSICA INFANTIL
+http://chiletv.ddns.me:33200/live/zcenter184/962795487/51767.ts
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.ibb.co/8syJWxL/alvarotvkids.png" ,24/7: MICKEY MOUSE
+http://venuschiletv.lat:8880/live/Pamela01/zF6FSVA5twpF/398035.ts
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.ibb.co/8syJWxL/alvarotvkids.png" ,24/7 CINE INFANTIL
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/125613.m3u8
+
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.postimg.cc/y87Fkxcw/CNSD.png" tvg-id="cartoonnetwork.mx" tvg-name="NIÑOS | CARTOONITO SD" ,NIÑOS | CARTOONITO
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94798.m3u8
+
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.postimg.cc/MK776VM7/CNHD.png" tvg-id="cartoonnetwork.mx" tvg-name="NIÑOS | CARTOON NETWORK HD" ,NIÑOS | CARTOON NETWORK FHD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94799.m3u8
+
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.postimg.cc/yxwZ1YBr/btvhd.png" tvg-id="babytv.mx" tvg-name="NIÑOS | BABY TV HD" ,NIÑOS | BABY TV HD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94790.m3u8
+
+
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.postimg.cc/hGbb2xg4/NJRHD.png" tvg-id="nickjr.mx" tvg-name="NIÑOS | NICK JR HD" ,NIÑOS | NICK JR HD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94793.m3u8
+
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.postimg.cc/rF01v7cP/DJRHD2.png" tvg-id="disneyjunior.mx" tvg-name="NIÑOS | DISNEY JR HD" ,NIÑOS | DISNEY JR HD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94794.m3u8
+
+
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.postimg.cc/ydDhsGcx/DKHD.png" tvg-id="discoverykids.mx" tvg-name="NIÑOS | DISCOVERY KIDS  HD" ,NIÑOS | DISCOVERY KIDS  HD
+http://activefrance.net/live/W8MEP61/2X2H702/273358.ts
+
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.postimg.cc/bY205KqF/THD.png" tvg-id="tooncast.mx" tvg-name="NIÑOS | TOONCAST HD" ,NIÑOS | TOONCAST HD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94797.m3u8
+
+
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.postimg.cc/3x2gwpkj/NTHD.png" tvg-id="nickelodeon.co" tvg-name="NIÑOS | NICKTOONS HD" ,NIÑOS | NICKTOONS HD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94800.m3u8
+
+
+#EXTINF:-1 group-title="6👨‍👨‍👧‍👦INFANTILES" tvg-logo="https://i.postimg.cc/qqtKHCf3/DXDHD.png" tvg-name="INF | DISNEY XD HD" ,INF | DISNEY XD HD
+http://daleplay.club:80/play/bz2Cn4uIOfB9ySMxZn-dgJfNFoudTQanlpDOr-jDqjNe6W07CJsPM03d9gDsxpFe/m3u8
+
+
+
+
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/ALBANIA/AnimalPlanet.png" tvg-id="animalplanet.mx" ,ANIMAL PLANET FHD
+http://activefrance.net/W8MEP61/2X2H702/140171
+
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" tvg-id="EPG123.66491.schedulesdirect.org" , NATIONAL GEOGRAPHIC FHD
+http://activefrance.net/W8MEP61/2X2H702/140311
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/EUROPE/FRANCE/NATIONIALGEOGRAPHICCHANNELHD.png" tvg-id="Canal National Geographic (España)" , NATIONAL GEOGRAPHIC FHD
+http://activefrance.net/W8MEP61/2X2H702/140312
+
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/LATINO/MEXICO/NATGEOWILD.png" tvg-id="EPG123.66491.schedulesdirect.org" ,  NAT GEO WILD HD
+http://activefrance.net/W8MEP61/2X2H702/140310
+
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/ASIA/MALAYSIA/discovery_asia.png" tvg-id="Canal Discovery Channel (México)" , DISCOVERY CHANNEL FHD
+http://activefrance.net/W8MEP61/2X2H702/140239
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/AMERICA/BRASIL/DISCOVERY-WORLDHD-1.png" tvg-id="Canal Discovery World Latinoamérica" , DISCOVERY WORLD FHD
+http://activefrance.net/W8MEP61/2X2H702/140245
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/ALBANIA/15.png" tvg-id="Canal History (México)" , HISTORY FHD
+http://activefrance.net/W8MEP61/2X2H702/140292
+
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/ALBANIA/15.png" tvg-id="Canal History (México)" , HISTORY HD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94877.m3u8
+
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/AMERICA/BRASIL/HISTORY-2-1.png" , H2 HD
+http://activefrance.net/W8MEP61/2X2H702/970141
+
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/AMERICA/BRASIL/HISTORY-2-1.png" , H2 FHD
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/9798.ts
+
+
+
+
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/EUROPE/POLONIA/ANIMALPLANETHD.png" ,LATINO - ANIMAL PLANET.
+http://activefrance.net/W8MEP61/2X2H702/30608
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/LATINO/NATGEOWILD.png" ,LATINO - NATGEO WILD
+http://activefrance.net/W8MEP61/2X2H702/30610
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/NATIONAL.png" ,LATINO - NATIONAL GEOGRAPHIC.
+http://activefrance.net/W8MEP61/2X2H702/30609
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/EUROPE/FRANCE/DISCOVERYFHD.png" ,LATINO - DISCOVERY SCIENCE
+http://activefrance.net/W8MEP61/2X2H702/30604
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/LATINO/DiscoveryInv.png" ,LATINO - INVESTIGATION DISCOVERY
+http://activefrance.net/W8MEP61/2X2H702/30602
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/LATINO/DiscoveryInv.png" ,LATINO - ID
+http://activefrance.net/W8MEP61/2X2H702/69068
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/ALBANIA/15.png" ,LATINO - HISTORY
+http://activefrance.net/W8MEP61/2X2H702/30628
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/LATINO/Caracol_Novelas_2017 (1).png" ,LATINO - CARACOL NOVELAS
+http://activefrance.net/W8MEP61/2X2H702/213025
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/LATINO/estrella.png" ,LATINO - ESTRELLA ᵛᶦᵖ TV
+http://activefrance.net/W8MEP61/2X2H702/195246
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/AMERICA/USA/UNIMAS.png" ,LATINO - UNIMAS | HD
+http://activefrance.net/W8MEP61/2X2H702/194524
+#EXTINF:-1 group-title="7 👁️‍🗨️ DOCUMENTALES 👁️‍🗨️" tvg-logo="http://go4.pw/LATINO/unicable.png" ,LATINO - UNICABLE
+http://activefrance.net/W8MEP61/2X2H702/30678
+
+
+
+
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/Caracol_Novelas_2017 (1).png" ,LATINO - CARACOL NOVELAS
+http://activefrance.net/W8MEP61/2X2H702/213025
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/Rcn.png" tvg-id="rcnhd.co" ,CO - RCN ᵛᶦᵖ ◉ 
+http://activefrance.net/W8MEP61/2X2H702/190242
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/Rcn.png" tvg-id="rcn.co" ,CO - RCN
+http://activefrance.net/W8MEP61/2X2H702/30703
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/CaracolTV.png" tvg-id="caracol.co" ,CO - CARACOL ᵛᶦᵖ ◉ 
+http://activefrance.net/W8MEP61/2X2H702/190239
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-id="caracolhd.co" ,CO - CARACOL 2 ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190240
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/13C.png" tvg-id="13c.cl" ,CHI - 13C ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/187661
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/CHILE/LARED.png" tvg-id="lared.cl" ,CHI - LARED ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/187660
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/CHILE/MEGATV.png" tvg-id="mega.cl" ,CHI - MEGA HD ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/187657
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/Ecuavisa.png" ,EC - ECUAVISA ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190265
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/EQUADOR/Teleamazonas.png" ,EC - TELEAMAZONAS ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190262
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/HONDURAS/TELEMETRO.png" ,PN - TELEMETRO
+http://activefrance.net/W8MEP61/2X2H702/214648
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/HONDURAS/TVN.png" ,PN - TVN
+http://activefrance.net/W8MEP61/2X2H702/214649
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/PANAMERICANA.png" tvg-id="panamericanatv.pe" ,PER - PANAMERICANA ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/187631
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/PERU/AMERICANTV.png" tvg-id="americatelevision.pe" ,PER - AMERICA TELEVISION
+http://activefrance.net/W8MEP61/2X2H702/30574
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/Latina.png" tvg-id="frecuencialatina.pe" ,PER - LATINA HD ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/187628
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/vtv.png" ,UY - VTV PLUS
+http://activefrance.net/W8MEP61/2X2H702/30555
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/vtv.png" ,UY - VTV HD
+http://activefrance.net/W8MEP61/2X2H702/30554
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/VENEZUILA/TELESUR.png" ,VE - TELESUR
+http://activefrance.net/W8MEP61/2X2H702/30549
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/VENEZUILA/TELEVEN.png" ,VE - TELEVEN
+http://activefrance.net/W8MEP61/2X2H702/30552
+#EXTINF:-1 group-title="✳️LATINOS TV✳️" tvg-logo="http://go4.pw/LATINO/HONDURAS/Canal_5.png" ,HOND - CANAL 5 HD
+http://activefrance.net/W8MEP61/2X2H702/214633
+
+
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gs5TMl5VI71v5H2bJBoyRYkb1Jd.jpg" tvg-name="Fancy Dance (2024)" ,Fancy Dance (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96144.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qmYiApzK6e54NRus1iY7oiefS4q.jpg" tvg-name="Un actor malo (2024)" ,Un actor malo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96145.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fdaMSEGmDTEUDH5qq3jnrcF0pMi.jpg" tvg-name="Wild Wild Punjab (2024)" ,Wild Wild Punjab (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96239.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fCjC1RRbEJUpDjM55RNUMXQen0b.jpg" tvg-name="Goyo (2024)" ,Goyo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96240.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UgIqUyDhxRsMEGcZ3V9WortIp1.jpg" tvg-name="Los vigilantes (2024)" ,Los vigilantes (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96241.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cUT2d0Czgh3HjGrKL4J8Wo5VMw9.jpg" tvg-name="Quizás es cierto lo que dicen de nosotras (2024)" ,Quizás es cierto lo que dicen de nosotras (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96242.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uyEFqfRezkNrxh9Lg8fj8IcbkHx.jpg" tvg-name="Desaparecidos en la noche (2024)" ,Desaparecidos en la noche (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96243.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e7jW5JDUsXQAgmCgNSvi0vnKqkI.jpg" tvg-name="Perspectiva (2024)" ,Perspectiva (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96786.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xHqSU6Rw58hV84wQ5SR3lUmuqVL.jpg" tvg-name="Los descendientes: Corazón rebelde (2024)" ,Los descendientes: Corazón rebelde (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96787.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pw38upiqFVNUzSLw4AHQZz0J0AC.jpg" tvg-name="El campeón (2024)" ,El campeón (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96788.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zQSAJVLpLSSU9zhmZeWcBr7ydWm.jpg" tvg-name="La abadesa (2024)" ,La abadesa (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96789.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2Xkdb7J3juzcLe8IrOheNkDgklZ.jpg" tvg-name="Divorcio en negro (2024)" ,Divorcio en negro (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96790.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jXeeV5YrACBgc9CGvggdsA6PEmd.jpg" tvg-name="Liga de la Justicia: Crisis en Tierras Infinitas – Parte 3 (2024)" ,Liga de la Justicia: Crisis en Tierras Infinitas – Parte 3 (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96792.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6efQJ7pu9GPketUDBAhJtgZLkvD.jpg" tvg-name="Un lugar tranquilo: Día uno (2024)" ,Un lugar tranquilo: Día uno (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96793.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z4cqhkfYCshmayWTGtKhK8ozmoI.jpg" tvg-name="La grandeza de la vida (2024)" ,La grandeza de la vida (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96794.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qFm7icnTn3gMG0HyNTqtkKeBH6W.jpg" tvg-name="The Harlem Hellfighters: Unsung Heroes (2024)" ,The Harlem Hellfighters: Unsung Heroes (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96795.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zp0Y7Nsl4UnWiwX4LxXQXgDfXSz.jpg" tvg-name="Bad Boys: Ride or Die (2024)" ,Bad Boys: Ride or Die (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96796.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hEgn31cJan85fy5SMxYy1SHI8Cf.jpg" tvg-name="Soy Celine Dion (2024)" ,Soy Celine Dion (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96836.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxZxaCN07rIZxiMlpXsPbWUJYIZ.jpg" tvg-name="La dinastía Ga'a (2024)" ,La dinastía Ga'a (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96940.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ8mTt2L9PtpEniMJ9dzpQ9avLK.jpg" tvg-name="Una vez más (2024)" ,Una vez más (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/80350.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kr36D6FiF8mNrsPz4fL6OUAvrrJ.jpg" tvg-name="Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1 (2024)" ,Liga de la Justicia: Crisis en Tierras Infinitas - Parte 1 (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/80351.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aLInRxGU9kp1o2djoS2xK75Ilmk.jpg" tvg-name="Arthur's Whisky (2024)" ,Arthur's Whisky (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/80352.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YZmezBcTwL9KUn5kkygAvrJ1fx.jpg" tvg-name="Criptoestafas (2024)" ,Criptoestafas (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/80353.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnG0VwIw9oBFVn58Z9cixVLsn93.jpg" tvg-name="Role Play (2023)" ,Role Play (2023)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/80354.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnG0VwIw9oBFVn58Z9cixVLsn93.jpg" tvg-name="Good Grief (2017)" ,Good Grief (2017)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/80355.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bnG0VwIw9oBFVn58Z9cixVLsn93.jpg" tvg-name="Lift Off (2024)" ,Lift Off (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/80513.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/UZ0ydgbXtnrq8xZCI5lHVXVcH9.jpg" tvg-name="The Painter (2024)" ,The Painter (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/80514.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rwu27eJfUbuHa8zubVXMRWptiZ8.jpg" tvg-name="Race for Glory: Audi vs Lancia (2024)" ,Race for Glory: Audi vs Lancia (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/80515.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8WBBbP2FPgxNAAsqwvqMqDmH0B.jpg" tvg-name="Sarkaaru Noukari (2024)" ,Sarkaaru Noukari (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/80516.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/njQ2villCID6ZcCAXgJNu9OS96G.jpg" tvg-name="Acaba con los vecinos (2024)" ,Acaba con los vecinos (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/80517.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhOPqjS8D3uCvFHb695WIHi0UKA.jpg" tvg-name="Pete Davidson: Turbo Fonzarelli (2024)" ,Pete Davidson: Turbo Fonzarelli (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/80518.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1G1t12Ac3Txxb1fMgIJBoZxEKVJ.jpg" tvg-name="La noche que volvimos a casa (2024)" ,La noche que volvimos a casa (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/80519.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lzjO0tzGnoHAeAP2kqGcgD5SICk.jpg" tvg-name="Lift Off (2024)" ,Lift Off (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85773.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cND79ZWPFINDtkA8uwmQo1gnPPE.jpg" tvg-name="60 minutos (2024)" ,60 minutos (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85774.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tshllXJDIctUlD1kMPQdIh37L2V.jpg" tvg-name="Argylle (2024)" ,Argylle (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85775.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg" tvg-name="Cazadores en tierra inhóspita (2024)" ,Cazadores en tierra inhóspita (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85776.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umRkEsTwKU5nVbLVNw22cYB2fjm.jpg" tvg-name="Jaque Mate (2024)" ,Jaque Mate (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85777.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/umRkEsTwKU5nVbLVNw22cYB2fjm.jpg" ,
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85778.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gBdhYoROX6SHE3vVnBfEHI7Ojma.jpg" tvg-name="Beekeeper: El protector (2024)" ,Beekeeper: El protector (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85779.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AesxH5I0wBBuHhu68E7yhaCdm.jpg" tvg-name="The Phantom Warrior (2024)" ,The Phantom Warrior (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85780.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jf0VOTuKY2UUqK8NtXrxhtY9CVP.jpg" tvg-name="Megamind contra el sindicato del mal (2024)" ,Megamind contra el sindicato del mal (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85781.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6Isg2ASUQXzFwLBTFnItfkOlqo9.jpg" tvg-name="Monsters: El infierno del dragón (2024)" ,Monsters: El infierno del dragón (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85782.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6cpb2IP2c8gEbS2E2VfLKfx04cP.jpg" tvg-name="Orión y la oscuridad (2024)" ,Orión y la oscuridad (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85783.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aTpSP0gl5X5UNG8q3ptbfklEFuf.jpg" tvg-name="Snoopy presenta: Bienvenido a la pandilla, Franklin (2024)" ,Snoopy presenta: Bienvenido a la pandilla, Franklin (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85784.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zjmRuNZcLZAKWk5WE5wM57Js5xk.jpg" tvg-name="El aprendiz de tigre (2024)" ,El aprendiz de tigre (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85785.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3jVwnnSD4YxkGZM1F6RdLAu8Ayy.jpg" tvg-name="Aftermath (2024)" ,Aftermath (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85786.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg" tvg-name="Código 8 (Parte 2) (2024)" ,Código 8 (Parte 2) (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85787.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ea8609DKrceNJocKEUpDom6mHzx.jpg" tvg-name="Dioses de la profundidad (2023)" ,Dioses de la profundidad (2023)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85788.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2ZgXNi458jc7DqdAMhsHpF1sX0I.jpg" tvg-name="I.S.S. (2024)" ,I.S.S. (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85789.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEyfMRY7frsy1v5yesdQEWjf1qz.jpg" tvg-name="Si fueras el último (2024)" ,Si fueras el último (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85790.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ws9TseyG7Gl0w3gAjl8hNvhXCQ.jpg" tvg-name="The Spaceman (2024)" ,The Spaceman (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85791.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lROigi5V0ZHrhg9EpKRWQUlHg4C.jpg" tvg-name="Una historia de amor en Soweto (2024)" ,Una historia de amor en Soweto (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85792.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iIaxCfXYPeYzWGHDaBZ8oiMtHoJ.jpg" tvg-name="Cinco citas a ciegas (2024)" ,Cinco citas a ciegas (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85793.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEIBWFDzFtVSVl5MO7zyAXpKvwX.jpg" tvg-name="Chicas malas (2024)" ,Chicas malas (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85794.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eMJPQmvTC39ctlnWlFLJbXqrbSP.jpg" tvg-name="Ricky Stanicky: El Impostor (2024)" ,Ricky Stanicky: El Impostor (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85795.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjx6CMGEqYheoOhwUrDDAyke9z1.jpg" tvg-name="Los segundones (2024)" ,Los segundones (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85796.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2veVEL9tIzL3JOLQmFAk0ZBGQ0r.jpg" tvg-name="Mátame si te atreves, cariño (2024)" ,Mátame si te atreves, cariño (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85797.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pr4ZJ10SaLVwZ9J5PFI7tKo99r4.jpg" tvg-name="Pacto de sangre (2024)" ,Pacto de sangre (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85798.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vMkM6i1EobVxq9i9al6hnG5cLh0.jpg" tvg-name="Einstein y la bomba (2024)" ,Einstein y la bomba (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85799.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ksj8IPyvNIDOBk15wcxEH4tsG0O.jpg" tvg-name="Kids Are Growing Up: A Story About a Kid Named Laroi (2024)" ,Kids Are Growing Up: A Story About a Kid Named Laroi (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85800.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6nBcC0uMXOuZnUdqYdpLCfrHdBR.jpg" tvg-name="La gran noche del pop (2024)" ,La gran noche del pop (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85801.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dXjSeS3w97setnrNv4m6tlqqXzn.jpg" tvg-name="Bosco (2024)" ,Bosco (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85802.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wiCUrxdZBYtbvkojp4SXrFhKsEZ.jpg" tvg-name="Lo que ignoramos (2024)" ,Lo que ignoramos (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85803.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vdEtrHGY7wuJ9WTnlYkTsnklAdF.jpg" tvg-name="Los desfiles (2024)" ,Los desfiles (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85804.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nmPLUp5lVMiGomkN3db1WPeNrz3.jpg" tvg-name="Suncoast (2024)" ,Suncoast (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85805.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6tJWxRfBKWGIPFkfLTod2CgCexU.jpg" tvg-name="Damsel (2024)" ,Damsel (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85806.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1RxPBKMpHlcm5PORiPo6LHUV2ft.jpg" tvg-name="A través de mi ventana 3: A través de tu mirada (2024)" ,A través de mi ventana 3: A través de tu mirada (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85807.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgqpB2f3lAwV5O5Aeudvvv1Nvvy.jpg" tvg-name="Ceniza (2024)" ,Ceniza (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85808.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxZTNl6uQOnVe3h3xxYI1aVFQwM.jpg" tvg-name="Me llamo Loh Kiwan (2024)" ,Me llamo Loh Kiwan (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85809.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sZSf89I56LeFdBg2AugV0tDk4Qu.jpg" tvg-name="Los juegos del amor (2024)" ,Los juegos del amor (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85810.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zO3peoe35QT5Dgfm5QUK7VEP89n.jpg" tvg-name="Agencia Bien de amores (2024)" ,Agencia Bien de amores (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85811.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6EFeZN1MWAJvsU9vyFlMyrbKcN.jpg" tvg-name="Upgrade: Primera clase (2024)" ,Upgrade: Primera clase (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85812.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jpa9FO979rt16205hnup44sMK38.jpg" tvg-name="De las cenizas (2024)" ,De las cenizas (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85813.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg" tvg-name="Mea Culpa (2024)" ,Mea Culpa (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85814.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg" tvg-name="Atrapados en el abismo (2024)" ,Atrapados en el abismo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85815.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vO4ok0SkjbTfLCICxx0uMzOBoEJ.jpg" tvg-name="Camp Pleasant Lake (2024)" ,Camp Pleasant Lake (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85816.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHy9CZdMeH1cnQnsTcyaGu7Yiz.jpg" tvg-name="La piscina (2024)" ,La piscina (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85817.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pxM0EWBHs5QRkqVCL4bOAaHlQ8e.jpg" tvg-name="Imaginary (2024)" ,Imaginary (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/85939.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGGxia9ocfbwJywmeqBXkZb3n2m.jpg" tvg-name="El libro de Clarence (2024)" ,El libro de Clarence (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/86037.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg" tvg-name="El retorno de los Thunderman (2024)" ,El retorno de los Thunderman (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/86038.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j7k08BqGftAUMkfBQXs9ckNqrYK.jpg" tvg-name="Gallo Rojo (2024)" ,Gallo Rojo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/86039.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/blq050GHBt0Fzx1j9FvohaEuknJ.jpg" tvg-name="Madame Web (2024)" ,Madame Web (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/86308.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ayaApnFGwc6hHJHry59GjfWuTSK.jpg" tvg-name="Bob Marley: One Love (2024)" ,Bob Marley: One Love (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/86317.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cawaXqf12YFiThhngc1wbt5MfBs.jpg" tvg-name="Misión hostil (2024)" ,Misión hostil (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/86318.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmnVOIaTsGcRpZ9rLv2msbtqi3C.jpg" tvg-name="Road House (De profesión: duro) (2024)" ,Road House (De profesión: duro) (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/86527.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wASttItE7cVqjZGmrnRREay1p2g.jpg" tvg-name="Perro y gata (2024)" ,Perro y gata (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/86528.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fRaBjht3S1HU6lJrz2SoFwwOZQM.jpg" tvg-name="El Arca de Noé (2024)" ,El Arca de Noé (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/86529.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooo4D4kyZyFee5aiNfwZ43oKOkc.jpg" tvg-name="Shirley (2024)" ,Shirley (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/86538.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ooo4D4kyZyFee5aiNfwZ43oKOkc.jpg" tvg-name="Shirley (2024)" ,Shirley (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/86539.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mJdA4HiJa6oT8Uk4nD6UZtodBTE.jpg" tvg-name="Los Casagrande: La película (2024)" ,Los Casagrande: La película (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/86725.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wtqyNRawswvOfDmDI6n5bCS13pk.jpg" tvg-name="El corazón del cazador (2024)" ,El corazón del cazador (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/87149.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/li9PN0QuQRbilaX1XOBmmkst5DX.jpg" tvg-name="El salario del miedo (2024)" ,El salario del miedo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/87150.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7MfqsfCA4Z1ppTAQ2DB9qWlh9VD.jpg" tvg-name="El juego bonito (2024)" ,El juego bonito (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/87151.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5US9yKtf3STseAhYawGAnRH75S3.jpg" tvg-name="Lisa Frankenstein (2024)" ,Lisa Frankenstein (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/87283.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9NcwZYTErGSS7jzRDYPTjQOCQe3.jpg" tvg-name="The American Society of Magical Negroes (2024)" ,The American Society of Magical Negroes (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/87404.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i91SgC0uQa3fb68foFS3zgaMUuD.jpg" tvg-name="Fabricante de lágrimas (2024)" ,Fabricante de lágrimas (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/87473.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xCHmhHeO7aOCMlzcNukGH6Q7EiD.jpg" tvg-name="Dune: Parte dos (2024)" ,Dune: Parte dos (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/87579.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKCVf0em0cYHfnfiJ1EtMjWV78m.jpg" tvg-name="La gran exclusiva (2024)" ,La gran exclusiva (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/87580.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vm1oNqOZycJvW1GindPX45nIpuG.jpg" tvg-name="Cómo conquistar a Billy Walsh (2024)" ,Cómo conquistar a Billy Walsh (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/87581.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iGGxia9ocfbwJywmeqBXkZb3n2m.jpg" tvg-name="El libro de Clarence (2024)" ,El libro de Clarence (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/87582.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfHimsMYceQPDKXZBLPHsKK6xXe.jpg" tvg-name="Jade (2024)" ,Jade (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/87680.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A5muc6PtApC9ubfmJW3ADRnIIfi.jpg" tvg-name="Contagio de miedo (2024)" ,Contagio de miedo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/87681.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zS8BSQdbOesql0EWbs17kPvLoAT.jpg" tvg-name="Kung Fu Panda 4 (2024)" ,Kung Fu Panda 4 (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/88524.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yUPuiXIcfBIl0KLViFZQS0AW6O0.jpg" tvg-name="Cold Meat (2024)" ,Cold Meat (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/88525.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s4p4lA5P8kV336z1WrjxYS1r2TK.jpg" tvg-name="Sombras del pasado (2024)" ,Sombras del pasado (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/88526.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/x7QXH6T8oTKlUbKt8TD1rPimzCr.jpg" tvg-name="El Pájaro Loco ¡Lío en el campamento! (2024)" ,El Pájaro Loco ¡Lío en el campamento! (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/88535.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zaRzz2BxjxIVb7ja0gSedj1Hn1E.jpg" tvg-name="El Roomie (2024)" ,El Roomie (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/88770.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cYrTM8yaHJJ5rKG5u3BpHI5Q80L.jpg" tvg-name="Robo (2024)" ,Robo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/88771.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcKGtvP2TPZB6OGlHgkhQ1rvuBB.jpg" tvg-name="Reunion (2024)" ,Reunion (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/88900.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7xdbXo63wcUZ3TLwrjwg35m1TEm.jpg" tvg-name="Descansar en paz (2024)" ,Descansar en paz (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/88901.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fIUqk6Pjo3uf5RiOGT19KQ53ekq.jpg" tvg-name="Cazafantasmas: Imperio helado (2024)" ,Cazafantasmas: Imperio helado (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/88902.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ztmAcRfeRzvZaVi8wGUsvGm7ub3.jpg" tvg-name="Creating a Universe - The Making of Rebel Moon (2024)" ,Creating a Universe - The Making of Rebel Moon (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/88995.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r3PJPXuSArGK8tM6lBUyPUTtIbJ.jpg" tvg-name="¿Qué hizo Jennifer? (2024)" ,¿Qué hizo Jennifer? (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/88996.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yeWgiZhSUC7XKEPT1EzXP6E9xta.jpg" tvg-name="Frida (2024)" ,Frida (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89018.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yA4UTLrCEQ68WIc78KYcgWnb1cF.jpg" tvg-name="El Viaje (2024)" ,El Viaje (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89019.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AgmmOYxb013TGeXfR5EHeqJV7Nu.jpg" tvg-name="Popular Theory (2024)" ,Popular Theory (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89020.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kgWPRttsBx1q5SZ72HCVHRUyDqO.jpg" tvg-name="Pared con pared (2024)" ,Pared con pared (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89021.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBNx7t73x1KyfNkNNiyou8qy88.jpg" tvg-name="Immaculate (2024)" ,Immaculate (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89022.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kWrUxGpSvFUC9fYEWE9nqXKCO2c.jpg" tvg-name="Respira (2024)" ,Respira (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89025.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qqndPiOVIj8gHt61On2vwBlKInt.jpg" tvg-name="Damaged (2024)" ,Damaged (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89042.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mbz1Pn6ZFPl6WHFFEaYu4XhkR2t.jpg" tvg-name="Sentinel (2024)" ,Sentinel (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89043.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dpaexomgoNF3ZtlSLfwNxnzfvvG.jpg" tvg-name="Night of the Skinwalkers (2024)" ,Night of the Skinwalkers (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89044.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6OhBod23e2i3XbEkPgpXupEb5q.jpg" tvg-name="Bray Wyatt: Becoming Immortal (2024)" ,Bray Wyatt: Becoming Immortal (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89045.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o54GvASPrDvMugfqaXN12CSlFjq.jpg" tvg-name="Iwájú: A Day Ahead (2024)" ,Iwájú: A Day Ahead (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89046.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8gvsZeHVM6H9ifFgeyD18GbJfvL.jpg" tvg-name="La red antisocial: De los memes al caos (2024)" ,La red antisocial: De los memes al caos (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89047.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q1DDwFuWeQlwR0lcjFiEsM8iRkd.jpg" tvg-name="Arthur (2024)" ,Arthur (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89054.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uL8C0mvkwr9N13GOr9OtblyWez4.jpg" tvg-name="Un mal día lo tiene cualquiera (2024)" ,Un mal día lo tiene cualquiera (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89075.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kJhQfICVsZGeYGGRudgcqiD1zQY.jpg" tvg-name="Monkey Man (2024)" ,Monkey Man (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89082.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uztoTgy0lM7Lh7UtSzUbd5ilLoy.jpg" tvg-name="Antares de la Luz: La secta del fin del mundo (2024)" ,Antares de la Luz: La secta del fin del mundo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89099.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uztoTgy0lM7Lh7UtSzUbd5ilLoy.jpg" tvg-name="Metallic Rouge (2024)" ,Metallic Rouge (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89264.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uztoTgy0lM7Lh7UtSzUbd5ilLoy.jpg" tvg-name="Drive-Away Dolls (2024)" ,Drive-Away Dolls (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89265.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uztoTgy0lM7Lh7UtSzUbd5ilLoy.jpg" tvg-name="The 81st Golden Globes Awards  (2024)" ,The 81st Golden Globes Awards  (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89266.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uztoTgy0lM7Lh7UtSzUbd5ilLoy.jpg" tvg-name="Romantik HÄ±rsÄ±z (2024)" ,Romantik HÄ±rsÄ±z (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89267.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/btmngK5iXaxyAEl0ScIWCQG2ITr.jpg" tvg-name="Sayen: La cazadora (2024)" ,Sayen: La cazadora (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89284.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uBOS7RbRFmEkXQ98drgL9H4jjXc.jpg" tvg-name="Operación Esperanza: Los niños perdidos en el Amazonas (2024)" ,Operación Esperanza: Los niños perdidos en el Amazonas (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89285.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40LmsGBJD7YvuZ2p54cox7kb6H1.jpg" tvg-name="En esa dirección (2024)" ,En esa dirección (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89286.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2YJ94cEfV8ORTPUqdBrwMosJbR.jpg" tvg-name="Luna sin miel (2024)" ,Luna sin miel (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89290.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8w7FBwXI2z6SZmdT5rN6aoEHE17.jpg" tvg-name="La mesita del comedor (2022)" ,La mesita del comedor (2022)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89291.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/spWV1eRzlDxvai8LbxwAWR0Vst4.jpg" tvg-name="Arcadian (2024)" ,Arcadian (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89365.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/heci4aAOBfN5I2BQ1QpVFE2o5qi.jpg" tvg-name="La idea de tenerte (2024)" ,La idea de tenerte (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89366.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vcrqc0Qh4SJd6TDCe1uWjqO9XJ6.jpg" tvg-name="Mil veces hasta siempre (2024)" ,Mil veces hasta siempre (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89367.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bqxgqG4C4kOOUiJQwQc6xZOu3A3.jpg" tvg-name="Miller's Girl (2024)" ,Miller's Girl (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89368.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s38XHjbFXd7Wv2zJKwWnq5Qyl5l.jpg" tvg-name="Fiesta en la Madriguera (2024)" ,Fiesta en la Madriguera (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89477.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLFF3SDQWlaYNdfUV3ad0ukqOfi.jpg" tvg-name="La Joven Francesa (2024)" ,La Joven Francesa (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89478.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lCijwCyk5uhi7a0G0ICcUZ5hwZi.jpg" tvg-name="La gran película de Baby Shark (2024)" ,La gran película de Baby Shark (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89479.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v2YJ94cEfV8ORTPUqdBrwMosJbR.jpg" tvg-name="Luna sin miel (2024)" ,Luna sin miel (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89480.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2iQoSPyAGHseY5NhMM28orLkxjq.jpg" tvg-name="Noche de Bodas (2024)" ,Noche de Bodas (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89756.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1GD96U4q3cWYg6vVyLY5AMBmyH7.jpg" tvg-name="El ministerio de la Guerra Sucia (2024)" ,El ministerio de la Guerra Sucia (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89769.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/smiEA0WTErj1FlowpAuEGPJKyZp.jpg" tvg-name="El correo (2024)" ,El correo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89770.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nFBjI5qFkqfvEvEx6VaylKGSOqp.jpg" tvg-name="Colateral (2024)" ,Colateral (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89939.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fXg7Avh7eQzkeasMqwGiDxlQRqi.jpg" tvg-name="Домаќинство за почетници (2024)" ,Домаќинство за почетници (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89946.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/f4kCaBqXQkflj9sUWZOosS9WbCD.jpg" tvg-name="Cheaters (2024)" ,Cheaters (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89947.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bb0439BdFDXbc9bKXeXXs4Va7ss.jpg" tvg-name="Force of Nature: The Dry 2 (2024)" ,Force of Nature: The Dry 2 (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89948.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2YqZ6IyFk7menirwziJvfoVvSOh.jpg" tvg-name="Godzilla y Kong: El nuevo imperio (2024)" ,Godzilla y Kong: El nuevo imperio (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89992.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uZNdH2zfws2BIy9ENtoFTFp0hPG.jpg" tvg-name="Sasquatch Sunset (2024)" ,Sasquatch Sunset (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89993.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A1KxxBCExMI1FxTl5HvjLlawv0d.jpg" tvg-name="Vampiras: The Brides (2024)" ,Vampiras: The Brides (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/89994.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/i1ausTx0g7ucOfUqjvkrvzgQmnn.jpg" tvg-name="Strictly Confidential (2024)" ,Strictly Confidential (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90674.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7AZJjwaK0j4P3Z6S62MMP6zbUTD.jpg" tvg-name="Wanted Man (2024)" ,Wanted Man (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90725.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t2QbM7VgCPMZmSwGMNKuNIiRFZM.jpg" tvg-name="Telma, la unicornio (2024)" ,Telma, la unicornio (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90726.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rfP2N2EwPCfdAcwm6m4eDj5wqNv.jpg" tvg-name="Golden Kamuy (2024)" ,Golden Kamuy (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90727.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6swWpho5jKxMIez9diNJm0Kqhj.jpg" tvg-name="Abigail (2024)" ,Abigail (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90728.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ceiGl0SNZpR01o5lfYImt2QgKuq.jpg" tvg-name="El especialista (2024)" ,El especialista (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90769.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEDO2naLenL8pzkzGzsrmmZkwPv.jpg" tvg-name="Float (2024)" ,Float (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90770.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aEDO2naLenL8pzkzGzsrmmZkwPv.jpg" ,
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90771.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yzwERLkcxNh9uve42IAUBHckU0s.jpg" tvg-name="Scrambled (2024)" ,Scrambled (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90845.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6dSKsk00OzZY8ZMaL5vJlJjJwJM.jpg" tvg-name="En buenas manos 2 (2024)" ,En buenas manos 2 (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90846.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epK6j9geWlba2zrxT1O8RWGyEBO.jpg" tvg-name="Mi querida oni (2024)" ,Mi querida oni (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90847.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSnBSv7oHgm1kZmiM8IqithlTmJ.jpg" tvg-name="Atlas (2024)" ,Atlas (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90848.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wSnBSv7oHgm1kZmiM8IqithlTmJ.jpg" ,
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90849.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAvQOUhmvlo0yrLj2Swnj9gSX5k.jpg" tvg-name="Perra Vida (2024)" ,Perra Vida (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90872.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3hkYVMej2Cy4gHpeDTSjq4YVpvR.jpg" tvg-name="La primera profecía (2024)" ,La primera profecía (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90873.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iNHa3E72FFVmOz7jmjXnNU27ys1.jpg" tvg-name="South Park: The End of Obesity (2024)" ,South Park: The End of Obesity (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90914.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxzHKNtkRbH5EVIVJmKc50aEfIV.jpg" tvg-name="Civil War (2024)" ,Civil War (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90915.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nECkrgbCbWoFa230KbCZFVTT3L.jpg" tvg-name="Franco Escamilla: Ladies' man (2024)" ,Franco Escamilla: Ladies' man (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90916.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eXLxwq481XBFMY3pEDoNePKgcUd.jpg" tvg-name="Crew (2024)" ,Crew (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90917.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6XQ1WAbqhBMrEB1UAEiB8Hpy5Ge.jpg" tvg-name="La final: Caos en Wembley (2024)" ,La final: Caos en Wembley (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/90918.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgYhI7bzV3IVh4aUzfFi1C1j2sW.jpg" tvg-name="Kill Boy (2024)" ,Kill Boy (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91022.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oiA1nWqckPwl3sOkoDFQNOLyY1k.jpg" tvg-name="Tratamos demasiado bien a las mujeres (2024)" ,Tratamos demasiado bien a las mujeres (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91023.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1OQAW3dtFEnQkrwrVsioTLatMuO.jpg" tvg-name="Los colores del mal: Rojo (2024)" ,Los colores del mal: Rojo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91024.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Adh7xmtgSIUGZBaMj9VLTmq2G8z.jpg" tvg-name="Tarot (2024)" ,Tarot (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91025.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Adh7xmtgSIUGZBaMj9VLTmq2G8z.jpg" ,
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91026.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eFc0qIyLedBdNBy0BlY4eiAq3eA.jpg" tvg-name="Air Force One: Secuestro aéreo (2024)" ,Air Force One: Secuestro aéreo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91099.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ns9Tr9fda1YuPK2k6BqwqmEOkgl.jpg" tvg-name="Biónicos (2024)" ,Biónicos (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91100.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q6G2asNhF8v9htu53JkmtHge23f.jpg" tvg-name="Kali: Ángel Vengador (2024)" ,Kali: Ángel Vengador (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91101.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDLiovEqXBSxSQNYqIayzWmtfDp.jpg" tvg-name="La vida entre leopardos (2024)" ,La vida entre leopardos (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91102.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eV9Zm2z7fd6VvgnqvnVUQ6QVxb4.jpg" tvg-name="Una parte de ti (2024)" ,Una parte de ti (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91103.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/olmMIqztS1ClgqFixpbEGoAS2Qy.jpg" tvg-name="Chabuca (2024)" ,Chabuca (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91104.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gXg0cuvdri0u9yZPKOHmRPgGpR0.jpg" tvg-name="Evidências do Amor (2024)" ,Evidências do Amor (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91105.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ndTzO9h8WoRTzwl4gu3isEJtONZ.jpg" tvg-name="Demasiado mayor para cuentos de hadas 2 (2024)" ,Demasiado mayor para cuentos de hadas 2 (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91108.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npqKtCydaOCrPBKVsSNoGfLVD14.jpg" tvg-name="Baki Hanma vs. Kengan Ashura (2024)" ,Baki Hanma vs. Kengan Ashura (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91220.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/npqKtCydaOCrPBKVsSNoGfLVD14.jpg" tvg-name="I AM NOT OK (2024)" ,I AM NOT OK (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91221.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a3KR3MwDE3VnvLbl4NyMHScFwka.jpg" tvg-name="Taken from Rio Bravo (2024)" ,Taken from Rio Bravo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91222.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9LjeEVkW6dZB11TbmjU3B88CE2w.jpg" tvg-name="En las profundidades del Sena (2024)" ,En las profundidades del Sena (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91223.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hdp1l2kJ0iYxZPykWRiod6O30FX.jpg" tvg-name="Back to Black (2024)" ,Back to Black (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91224.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUmRm043sZx4p5q93lklw0c6jMJ.jpg" tvg-name="A fuego lento (2023)" ,A fuego lento (2023)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91225.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/Aiqfn4XtXUPr7QNsDsAKNQ1aOKV.jpg" tvg-name="Rivales (2024)" ,Rivales (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91226.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/za4jDcPQ5IV4p27UGcC5uEgsNGG.jpg" tvg-name="Strangers: Capítulo 1 (2024)" ,Strangers: Capítulo 1 (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91227.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pWkpI5w07073TpTiJRgTig85gLC.jpg" tvg-name="Hit Man. Asesino por casualidad (2024)" ,Hit Man. Asesino por casualidad (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/91335.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/epxMmvLaQmInLeRNOIMfRaJrhSZ.jpg" tvg-name="Menudas piezas (2024)" ,Menudas piezas (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/94999.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4RULoFP65zhaFg2ErvN2arSSL5z.jpg" tvg-name="Misterios de los guerreros de terracota (2024)" ,Misterios de los guerreros de terracota (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95000.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2D7SsqU8VZOl838KR7q9pzljaLe.jpg" tvg-name="Ultraman: El ascenso (2024)" ,Ultraman: El ascenso (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95011.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7nQBoWWYm8Uq2HCm1eieSb1XEYd.jpg" tvg-name="Buscando a Coque (2024)" ,Buscando a Coque (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95049.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bEyfMRY7frsy1v5yesdQEWjf1qz.jpg" tvg-name="Si fueras el último (2024)" ,Si fueras el último (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95294.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGHUlykWn9V2IIQ4ZaATIAq9VLB.jpg" tvg-name="Furiosa: De la saga Mad Max (2024)" ,Furiosa: De la saga Mad Max (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95417.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOXgCNK2PKf7xlpsZzybMscFsqm.jpg" tvg-name="Detonantes (2024)" ,Detonantes (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95627.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eIIklEb7D9MrRxsb4vyXnm08d0G.jpg" tvg-name="Sin tiempo para espiar: Una peli de Una casa de locos (2024)" ,Sin tiempo para espiar: Una peli de Una casa de locos (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95628.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2cRSlgUeXJcQZAMRbOQAsf8xfpP.jpg" tvg-name="Amor en toda la cara (2024)" ,Amor en toda la cara (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95629.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nDrUZE24mSB54cuHEjslMLvfFRQ.jpg" tvg-name="Los infalibles (2024)" ,Los infalibles (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95630.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lsuUGtUzrzEnlIUjVRSqFNUMZEz.jpg" tvg-name="Maharaj (2024)" ,Maharaj (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95631.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vICC15G7L5WIqW3lVFxeae4kvKp.jpg" tvg-name="Sight (2024)" ,Sight (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95632.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fwQU9Ud2djI3Wst0rA5fBjDaL4B.jpg" tvg-name="A Family Affair (2024)" ,A Family Affair (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95682.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wateX8mly9JBXM06HsmUQtwrt8T.jpg" tvg-name="Canta y no llores (2024)" ,Canta y no llores (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95683.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qBT4nnXe4ncyHCP8LhKvTqLFCp3.jpg" tvg-name="Firma Aquí (2024)" ,Firma Aquí (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95726.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3f28IXwRBEZjR75Pm4jCiBw3HZc.jpg" tvg-name="Superdetective en Hollywood: Axel F. (2024)" ,Superdetective en Hollywood: Axel F. (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95727.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vwtCWNLUJpxe5GTvH4CNpNX0zLH.jpg" tvg-name="Creciendo juntos (2024)" ,Creciendo juntos (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95728.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3HoBhPg6T5st6K09QfZh4lGB0hz.jpg" tvg-name="La academia del Sr. Kleks (2024)" ,La academia del Sr. Kleks (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95729.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8ICsXZQHPfYijFw6FyEXJ5ccIPq.jpg" tvg-name="You'll Never Find Me (2024)" ,You'll Never Find Me (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/95730.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6QR2FOCQr41gSduN70WulRIhJb7.jpg" tvg-name="Garfield: La película (2024)" ,Garfield: La película (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96138.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg" tvg-name="El reino del planeta de los simios (2024)" ,El reino del planeta de los simios (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96139.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j61AYdBcEk6WZZzxmhfoNZccn4j.jpg" tvg-name="Por tus muertos (2024)" ,Por tus muertos (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96140.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jga2jfUWXuVdaBn3WojJooLTSeC.jpg" tvg-name="El último late night (2024)" ,El último late night (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96141.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kql7GXTCeCoCZGYAwz1Hs7lAcv5.jpg" tvg-name="Su último combate (2024)" ,Su último combate (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96142.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1ObAkAchhaiF9meWubUzGMis5TN.jpg" tvg-name="Políticamente incorrectos (2024)" ,Políticamente incorrectos (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/96143.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kO7NBqYOhPh3r96ruyGTj6bTkP2.jpg" tvg-name="The Beast (La bestia) (2024)" ,The Beast (La bestia) (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97307.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyQXRZD0CHC4sf3lMph3X3cJzSw.jpg" tvg-name="La joven y el mar (2024)" ,La joven y el mar (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97308.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyrCsHUhOfpuci51lHcdAnO3db0.jpg" tvg-name="Daddio (2024)" ,Daddio (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97309.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tIbIgFQBYiXj6dRTGwy5rkeMMdc.jpg" tvg-name="Trampa en alta mar (2024)" ,Trampa en alta mar (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97310.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/q8LdEq7DyeeHRWjhy8USd1CmesU.jpg" tvg-name="Al rescate de Fondo de Bikini: La película de Arenita Mejillas (2024)" ,Al rescate de Fondo de Bikini: La película de Arenita Mejillas (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97313.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tcYL8G5mj0FjnVbVEoW4hNT6qP6.jpg" tvg-name="Una película barata (2024)" ,Una película barata (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97314.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/kA7QCSkdfM0R3qXM4FjUJyFd6gl.jpg" tvg-name="Horizon: An American Saga - Capítulo 1 (2024)" ,Horizon: An American Saga - Capítulo 1 (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97315.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ee8946ezadtSzkoff0BCxAF7MbN.jpg" tvg-name="Pequeñas cartas indiscretas (2024)" ,Pequeñas cartas indiscretas (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97321.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s8ynA37Ct6cWmO3UVgZCqfVm0TW.jpg" tvg-name="Emma y el jaguar negro (2024)" ,Emma y el jaguar negro (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97558.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2kEL2QFPyqGcFhGvzVos58dQXKS.jpg" tvg-name="No negociable (2024)" ,No negociable (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97559.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QKLoe7hSPkhILm8nsuyblvCmu7.jpg" tvg-name="V de Víctor (2024)" ,V de Víctor (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97560.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ot8WWwG8SllHGXowtgMz9vWcrJJ.jpg" tvg-name="Skywalkers: Una historia de amor (2024)" ,Skywalkers: Una historia de amor (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97561.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yEQKiZOVzVZquN7R6BRyY4n6JET.jpg" tvg-name="Sangre en los labios (2024)" ,Sangre en los labios (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97650.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qjQX2r8PLbGNFvBUa8kVHvLRkAG.jpg" tvg-name="Al borde del abismo (2024)" ,Al borde del abismo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97651.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9QusyGRq3X8zmbrqGM1ynGuPFB5.jpg" tvg-name="El precio de la novia (2024)" ,El precio de la novia (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97652.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qGLnbmNnOAI1IgjtWdfVWnJkGku.jpg" tvg-name="10 vidas (2024)" ,10 vidas (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97691.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oYx9AVIrZaVZ2PezSZvOOjtB75a.jpg" tvg-name="Infiltrada en la NASA (2024)" ,Infiltrada en la NASA (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97692.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8UgIqUyDhxRsMEGcZ3V9WortIp1.jpg" tvg-name="Los vigilantes (2024)" ,Los vigilantes (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97693.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dGGXoFRiXiHi72GKst6ulBny87I.jpg" tvg-name="Stranger in the Woods (2024)" ,Stranger in the Woods (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97694.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/67sr5ncUA1653KnQVMONQ2n929m.jpg" tvg-name="A Semente do Mal (2024)" ,A Semente do Mal (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97757.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6R2q7tIqEF7W4p5YIK3t7CQrOa.jpg" tvg-name="Violeta se fue a los cielos (2011)" ,Violeta se fue a los cielos (2011)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97759.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wTpzSDfbUuHPEgqgt5vwVtPHhrb.jpg" tvg-name="Gru 4. Mi villano favorito (2024)" ,Gru 4. Mi villano favorito (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97774.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sildryP1raUQgULCVVZ2hRuZWZu.jpg" tvg-name="Mon Laferte, te amo (2024)" ,Mon Laferte, te amo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97824.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/etE1CtyVneDf9kDTJvtWG0Iol90.jpg" tvg-name="El abuelo y Kid (2024)" ,El abuelo y Kid (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97825.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNOJ1JrzkLnOCNQRlmxzc1m8ApB.jpg" tvg-name="A fondo (2024)" ,A fondo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97881.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tpShmsWxRPsCvvDexMfSnMmLo4o.jpg" tvg-name="La noche que luché contra Dios (2024)" ,La noche que luché contra Dios (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/97882.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A09gQ5TTsvHcMqOIdL9PHj283E2.jpg" tvg-name="Guardiana de dragones (Dragonkeeper) (2024)" ,Guardiana de dragones (Dragonkeeper) (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/98405.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3AvLBac3KejQ1cO0d183t4rALua.jpg" tvg-name="El brillo de la televisión (2024)" ,El brillo de la televisión (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/98406.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eM0dIjnUmv4UFdy6vxTantBbXTW.jpg" tvg-name="Misiones cruzadas (2024)" ,Misiones cruzadas (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/98407.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vAKgqTeBMOS9saeQiYQlMtKCnDC.jpg" tvg-name="La belleza y el enigma vuelven (2024)" ,La belleza y el enigma vuelven (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/98409.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zDWHsjfdsvZZkMWo1u1Ep7Y77FQ.jpg" tvg-name="Los instigadores (2024)" ,Los instigadores (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/98410.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/50xgtaDR0xJkLSVghdTGUeMoPHP.jpg" tvg-name="Twisters (2024)" ,Twisters (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/98841.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/huPpcGEVt8GFJI9Xj4nf6cPMFqM.jpg" tvg-name="Bikeriders. La ley del asfalto (2024)" ,Bikeriders. La ley del asfalto (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/98933.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sh0Q8ykk3NYcJSZK0Hl48vRMLj3.jpg" tvg-name="Paracaídas (2024)" ,Paracaídas (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/98934.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ew4MFhQR6NiTdJiiFFGHo8z1qiT.jpg" tvg-name="The King Tide (2024)" ,The King Tide (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/98935.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d2Fkw6AMX7f0USFk2IuaRNIIp0p.jpg" tvg-name="Exhuma (2024)" ,Exhuma (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/99129.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tWDZF3PuigBvYisM83ZPuWM4v89.jpg" tvg-name="Fly Me to the Moon (2024)" ,Fly Me to the Moon (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/99130.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LUy0JxMlCynStB2pCxTInwtjVx.jpg" tvg-name="La madre de la novia (2024)" ,La madre de la novia (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/99131.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1UHp2QEBPnTrcx0i6aYw6jWtDbI.jpg" tvg-name="El sindicato (2024)" ,El sindicato (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/99456.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hZnUGX0nVdLEBcQT9pRNxnEkSzo.jpg" tvg-name="Jackpot (2024)" ,Jackpot (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/99457.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ohtCcB46D3ki1FGoh1QvA1R14sk.jpg" tvg-name="No puedo vivir sin ti (2024)" ,No puedo vivir sin ti (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/99458.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3FbjpuKjtE03DNEuoImle42fQxA.jpg" tvg-name="You Shall Not Sleep Tonight (2024) (2024)" ,You Shall Not Sleep Tonight (2024) (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/99460.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/naYxXiVGudVNbJ3KgbG91Bg6xOQ.jpg" tvg-name="Red de traición (2024)" ,Red de traición (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/99590.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLzqOr0U65QOj2tgwjFNd5xBYxh.jpg" tvg-name="El salto (2024)" ,El salto (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/99591.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gwSMCIcXyioznvgZ13UeAoKrPRB.jpg" tvg-name="Stella. Víctima y culpable (2024)" ,Stella. Víctima y culpable (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/99691.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1HRf4gjq0aW1MX86pUhhMcnF9QB.jpg" tvg-name="Jack en la caja maldita 3 (2024)" ,Jack en la caja maldita 3 (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/99692.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1G1t12Ac3Txxb1fMgIJBoZxEKVJ.jpg" tvg-name="La noche que volvimos a casa (2024)" ,La noche que volvimos a casa (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/99693.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vf5xQf7EOc9ROboeiC2WElSzdMV.jpg" tvg-name="El hombre bueno (2024)" ,El hombre bueno (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/99851.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/taB7tftLYfMFNAu4wMriqrz70QY.jpg" tvg-name="El planeta de Janet (2024)" ,El planeta de Janet (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/99852.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qj6zfxitPOQngpsAUkDA2FWX4wQ.jpg" tvg-name="Un millón de minutos (2024)" ,Un millón de minutos (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/99853.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQnbNiadeGzGSjWLaXyeNxpAUIx.jpg" tvg-name="Del revés 2 (Inside Out 2) (2024)" ,Del revés 2 (Inside Out 2) (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/99863.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ukpk3ZFeDOmznIBFbSpdXb6o1pt.jpg" tvg-name="Inexpertos (2024)" ,Inexpertos (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/100560.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dWqWJ5lHlj85lqVBi5OxehN6zW7.jpg" tvg-name="María Montessori (2024)" ,María Montessori (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/100561.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6G5JqqyBHLc4sCiaKYDEOFqS92k.jpg" tvg-name="Ooh La La!! (2024)" ,Ooh La La!! (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/100563.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6OzUKFrKS0uPaj6At5Jcbhu44Jo.jpg" tvg-name="Sucedió en Roma (2024)" ,Sucedió en Roma (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/100564.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5kjsKg1nKuGX01mApvXdksxQ7Np.jpg" tvg-name="Alguien como tú (2024)" ,Alguien como tú (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/100565.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AciufhhttCCBfUgnGB0YKCPl5Mz.jpg" tvg-name="Sabor a libertad (2024)" ,Sabor a libertad (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/100566.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uUXRqplQ9TWmKzDkFmWN1NuPsmb.jpg" tvg-name="Longlegs (2024)" ,Longlegs (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/100567.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AciufhhttCCBfUgnGB0YKCPl5Mz.jpg" tvg-name="Sabor a libertad (2024)" ,Sabor a libertad (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/100570.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7M8gZDAQsJP3BjibSt1kZ1tBvXl.jpg" tvg-name="Kinds of Kindness (2024)" ,Kinds of Kindness (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/100571.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hpic0UkV1imMnAxL26QOktRXtDg.jpg" tvg-name="La casa (2024)" ,La casa (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/100572.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/AkxCTNZZmcirQ1kYP2dKFx04nV5.jpg" tvg-name="Las chicas de Niza (2024)" ,Las chicas de Niza (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/100920.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jtEZi4eZxDjxcDIeMbkQ8HmvRs1.jpg" tvg-name="Borderlands (2024)" ,Borderlands (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101090.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aQnbNiadeGzGSjWLaXyeNxpAUIx.jpg" tvg-name="Del revés 2 (Inside Out 2) (2024)" ,Del revés 2 (Inside Out 2) (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101249.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lQziV6stVMBsi6snbyrlRa0WWue.jpg" tvg-name="Una mujer italiana (Cabrini) (2024)" ,Una mujer italiana (Cabrini) (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101250.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fqUakfM8wH4IWULIkhRyZqNZveD.jpg" tvg-name="Príncipes salvajes (2024)" ,Príncipes salvajes (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101252.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/imZhdkfRxvHrzxRejRqodI9sJbr.jpg" tvg-name="El exorcismo de Georgetown (2024)" ,El exorcismo de Georgetown (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101253.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oY9SRUcRqdrjyINFoGewobSP7FB.jpg" tvg-name="La trampa (2024)" ,La trampa (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101396.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tkMKRTXw9G2wEmcUKD4LNu8kZLz.jpg" tvg-name="La promesa de Irene (2024)" ,La promesa de Irene (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101437.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/o9EyKeQ7tcmNfO96t58T8jNvK0N.jpg" tvg-name="Half Baked: Totally High (2024)" ,Half Baked: Totally High (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101438.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/98CXMBLkXEAobDHpP51FoJTWEt1.jpg" tvg-name="La fuga (2024)" ,La fuga (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101439.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6PCnxKZZIVRanWb710pNpYVkCSw.jpg" tvg-name="The Killer (2024)" ,The Killer (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101440.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/urxfB5bYVG50wveanuaVhncpkUC.jpg" tvg-name="La liberación (2024)" ,La liberación (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101441.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/SFewWt1tXEqGq08oZqH1q78gzM.jpg" tvg-name="La maldición de Cenicienta (2024)" ,La maldición de Cenicienta (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101442.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3JJSLb9nQutbMRY9lwpMVoKEBhm.jpg" tvg-name="Yolo (2024)" ,Yolo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101457.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h1YarEjeYurkAwXgfY1RDMVCiin.jpg" tvg-name="Fuerza bruta: Castigo (2024)" ,Fuerza bruta: Castigo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101461.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1WDT9yacW9bceozkmlZKDTNFMj5.jpg" tvg-name="Un desastre es para siempre (2024)" ,Un desastre es para siempre (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101700.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tDLiovEqXBSxSQNYqIayzWmtfDp.jpg" tvg-name="La vida entre leopardos (2024)" ,La vida entre leopardos (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101702.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vGBMCxCYkQ3SrvMuCMvBSvbxPNK.jpg" tvg-name="Nina (2024)" ,Nina (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101703.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ur1asYaaZFrMVxkV69gQHP5Kmjo.jpg" tvg-name="Mejor viuda que mal acompañada (2024)" ,Mejor viuda que mal acompañada (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101944.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ymTgBQ8rCouE27oHpAUfgKEgRAj.jpg" tvg-name="Rebel Ridge (2024)" ,Rebel Ridge (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/101958.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mu1YNlNz6Zx005A1IAE2JNHtAbB.jpg" tvg-name="MaXXXine (2024)" ,MaXXXine (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/128516.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6YJYmo6XeNGgWeFK6I4eXpz7eWt.jpg" tvg-name="You Gotta Believe (2024)" ,You Gotta Believe (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/128517.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sKWzntwYMysb7lvoxkJ41bHrnn3.jpg" tvg-name="Caída libre (2024)" ,Caída libre (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/128865.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDCyEUNFce9g7NJxlhDzV0BBMMo.jpg" tvg-name="Diabólica (2024)" ,Diabólica (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/128869.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/beLbZExOZ64LzbqJbbbjhlqbezi.jpg" tvg-name="Disco, Ibiza, Locomía (2024)" ,Disco, Ibiza, Locomía (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/129477.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/23zwte7xCAPHFPZGoUsZ8WxybR4.jpg" tvg-name="As Neves (2024)" ,As Neves (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/129538.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ejGvY8gVc8J9Hjln0xWRV94CqMk.jpg" tvg-name="Boxeador (2024)" ,Boxeador (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/129539.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sXTlI8tWGmB2CL8OQZsjMZvj1cb.jpg" tvg-name="Correr Para Vivir (2024)" ,Correr Para Vivir (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/129540.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2EnPKqX41YK6VPGp7LTd9Yhkra3.jpg" tvg-name="Tuesday (2024)" ,Tuesday (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/129543.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rUxbklEr8ukGeQHbQOmXFkWyTtV.jpg" tvg-name="Calladita (2024)" ,Calladita (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/129544.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hgA5hN3NjNNSTXYOmAI6KNKOzbp.jpg" tvg-name="Mátalos a todos 2 (2024)" ,Mátalos a todos 2 (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/129546.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVF4hqkBD1maZueHDEhhe02kNhj.jpg" tvg-name="Bandida: La número uno (2024)" ,Bandida: La número uno (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/129548.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oujEGO5eXnP8PsFRPJHZfUzlKFK.jpg" tvg-name="Respira (2024)" ,Respira (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/129550.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eDN1S4NrfDdS6MyahgLLsukpoBw.jpg" tvg-name="La reina del convento (2024)" ,La reina del convento (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/129553.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sn9pXNT0ODNQ7kHV0dteOWtHIVy.jpg" tvg-name="Longing (2024)" ,Longing (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/129554.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qKtIhusUZoo508v5cqCUj5ubvwQ.jpg" tvg-name="Entre los Templos (2024)" ,Entre los Templos (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/129555.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pEV0y4SeLBlZ3LpF6l9Ilqkb21p.jpg" tvg-name="Technoboys (2024)" ,Technoboys (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/129556.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qQ1NdBqWXvPc9xVkqrqxYFHBOf4.jpg" tvg-name="The Duel (2024)" ,The Duel (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/129557.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPeFaSGkPGfq8Mcs6ebWWzZDYiK.jpg" tvg-name="Tu madre o la mía: Guerra de suegras (2024)" ,Tu madre o la mía: Guerra de suegras (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/129558.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/e2eQxBsDxoqpaYUy5yZosvrBuVz.jpg" tvg-name="Segundo premio (2024)" ,Segundo premio (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/131439.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/82Ljm5kxoW0DR6xRej94GgnjxoX.jpg" tvg-name="Héroes al amanecer (2024)" ,Héroes al amanecer (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/131447.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/a6smAQMuCEjGb5i3dtsGfRacoTt.jpg" tvg-name="Hasta el fin del mundo (2024)" ,Hasta el fin del mundo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/131446.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6WVeSBqx5QF9vdqffw9p3zlOpfa.jpg" tvg-name="Jugando con fuego (2024)" ,Jugando con fuego (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/131441.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4c3IdUFnS8qd3qrMol1b3Rq5MqF.jpg" tvg-name="Romper el círculo (2024)" ,Romper el círculo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/131444.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l9slQ1zMnE9fDH4uF0Zk542IC3H.jpg" tvg-name="Harold y el lápiz mágico (2024)" ,Harold y el lápiz mágico (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/131440.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0ZdpHIvojr6k9KMizU2e47bxDM.jpg" tvg-name="Divorciados (2024)" ,Divorciados (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/131437.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uvkLYn18A9ZfjSzJuaqA8hiRWyX.jpg" tvg-name="Las tres hijas (2024)" ,Las tres hijas (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/131443.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/inEhHhxWx9uPb4jFtstDy3Gpu0o.jpg" tvg-name="Agente cinturón negro (2024)" ,Agente cinturón negro (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/131442.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rEUBskXY35Vs3Nv50N8uKyPtIEq.jpg" tvg-name="Las hermanas fantásticas (2024)" ,Las hermanas fantásticas (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/131448.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/abNsPyjwSYwOVsx2m0mWrq22xGk.jpg" tvg-name="Los feos (2024)" ,Los feos (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/131438.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aedMyPKufo1MfMy6bIzS5b7jVav.jpg" tvg-name="Bienvenidos al paraíso (2024)" ,Bienvenidos al paraíso (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/131436.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yAnPejO5hukIQZWNHrEK6XlBQHc.jpg" tvg-name="Rosalie (2024)" ,Rosalie (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/131445.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/X9iFHeIYgfqoZImvdidx8b9v4R.jpg" tvg-name="El Cuervo (2024)" ,El Cuervo (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/132656.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rtvvyUXTLVDWWYlHBaBlA4CeTLg.jpg" tvg-name="Parpadea dos veces (2024)" ,Parpadea dos veces (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/132657.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNNVMzJg7NVqxRu8mDLEwIiQgDJ.jpg" tvg-name="Wolfs (2024)" ,Wolfs (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/132841.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jC0ciJhQXTP26D2Dht3Mf2dAVHL.jpg" tvg-name="Sol de justicia (2024)" ,Sol de justicia (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/132842.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c1vHz6Sl8U2GhV88ev6xOVZgBGz.jpg" tvg-name="Un auténtico caballero (2024)" ,Un auténtico caballero (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/132844.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/45Yxq9aEfMgPEq6bGZG0BgbDQge.jpg" tvg-name="Corrupción en Bangkok: Entre el cielo y el infierno (2024)" ,Corrupción en Bangkok: Entre el cielo y el infierno (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/132845.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyjEPno8omeDYVNqUZS2RiEpuRC.jpg" tvg-name="Apartment 7A (2024)" ,Apartment 7A (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/132846.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uhcy6NF87KmnpolBoJNHFqkTcbT.jpg" tvg-name="+Cuñados (2024)" ,+Cuñados (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/133004.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9TFSqghEHrlBMRR63yTx80Orxva.jpg" tvg-name="Deadpool y Lobezno (2024)" ,Deadpool y Lobezno (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/133006.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/6340ZG3qHfS7q8ES5rwf4AQ0U1w.jpg" tvg-name="Los iniciados: El diario de las sombras (2024)" ,Los iniciados: El diario de las sombras (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/133007.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1xbYcoEb9gqezNnLgjWcZI5Hlsl.jpg" tvg-name="Will y Harper (2024)" ,Will y Harper (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/133008.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/tPvFmQZM5HMspryyYbrtW02NR0G.jpg" tvg-name="1992 (2024)" ,1992 (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/133009.mkv
+#EXTINF:-1 group-title="VOD-ESTRENOS 2024" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mtsJxwjeOeX3BmBOSX2edzeQ6nM.jpg" tvg-name="The Wasp (2024)" ,The Wasp (2024)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/133010.mkv
+
+
+
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mHVcoTEqmIBdXSjXxfsKWu7GGga.jpg" tvg-name="31 (2016)" ,31 (2016)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39445.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1lkaFSVU0tN3z21CJV98P9dseMe.jpg" tvg-name="247°F (2011)" ,247°F (2011)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39446.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/k4XZ47wFZF1aUv7bjLM4Pae2TYm.jpg" tvg-name="La cura del bienestar (2017)" ,La cura del bienestar (2017)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39447.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGgg5ro9t9YdPZCjLa7j24nk1K1.jpg" tvg-name="Aracnofobia (1990)" ,Aracnofobia (1990)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39448.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/tGgg5ro9t9YdPZCjLa7j24nk1K1.jpg" ,
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39449.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/40FuQAiHjCvh9fYFigGAVWJ6Czu.jpg" tvg-name="Candyman (2021)" ,Candyman (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39450.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fxNpz0oi2LuU82VQ4p2QtKeqgF3.jpg" tvg-name="Danger close: la batalla de Long Tan (2019)" ,Danger close: la batalla de Long Tan (2019)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39451.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/v197Yp1gFcgqpTt5chz0yelhBCb.jpg" tvg-name="Crush (2013)" ,Crush (2013)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39452.MP4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dZiSpoGmcX3xuICpqwqeUcjV7Ix.jpg" tvg-name="金牌雙龍 (1990)" ,金牌雙龍 (1990)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39453.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDMUHIanrtvejBFVfYDHMfX4DIY.jpg" tvg-name="Guardianes del día (2006)" ,Guardianes del día (2006)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39454.MP4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cC96OjOeYXmBF6RuePlxA709tkz.jpg" tvg-name="Tentación diabólica (1990)" ,Tentación diabólica (1990)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39455.avi
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iKVRMzPKB0gFlgPdBDMa7duAaxo.jpg" tvg-name="¡Comidos vivos! (1980)" ,¡Comidos vivos! (1980)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39456.avi
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oyQQOW3Be36MRRC3Rwd7Qubugxj.jpg" tvg-name="Posesión infernal (Evil Dead) (2013)" ,Posesión infernal (Evil Dead) (2013)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39457.avi
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2peRx0F8tO8crFVkOeKUK2q8BR.jpg" tvg-name="Extinction (2015)" ,Extinction (2015)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39458.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogmrboi0JzQ8HS6TK588BMzRA33.jpg" tvg-name="La puerta 2 (1990)" ,La puerta 2 (1990)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39459.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/8b7vk8uOqSMS9YxQibCsihoVoC3.jpg" tvg-name="Ginger Snaps III: El origen (2004)" ,Ginger Snaps III: El origen (2004)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39460.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b6XxYgUhnlPmBu1miP19pnizWg0.jpg" tvg-name="Encuentros paranormales (2011)" ,Encuentros paranormales (2011)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39461.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zUhBDAVSudPf8P2fwEp0s8bukW4.jpg" tvg-name="Encuentros paranormales 2 (2012)" ,Encuentros paranormales 2 (2012)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39462.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jA9Z4qdAvnAD2kTDCnzr4rYlq8G.jpg" tvg-name="La fosa común (1990)" ,La fosa común (1990)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39463.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oY7zaqkuiO7uVvKzl1yL7iIHauR.jpg" tvg-name="Halloween: Resurrection (2002)" ,Halloween: Resurrection (2002)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39464.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2xj2z8qqs6r5FTSe4tAuqCrYjK5.jpg" tvg-name="Halloween: H20. Veinte años después (1998)" ,Halloween: H20. Veinte años después (1998)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39465.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfE0u0Th1thZ4slkEtIgvreauh4.jpg" tvg-name="Hellraiser I - Los que traen el infierno (1987)" ,Hellraiser I - Los que traen el infierno (1987)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39466.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3QI77LO2TSeLfZ0CHdbw0uITef.jpg" tvg-name="Hellraiser VIII - Hellworld (2005)" ,Hellraiser VIII - Hellworld (2005)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39467.avi
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xbrPRC7doDPEoC3z35q6MXqLEBM.jpg" tvg-name="Hostel (2006)" ,Hostel (2006)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39468.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upsBscthfBpP7iK0rw2sDTxnkFf.jpg" tvg-name="Hostel 3: De vuelta al horror (2011)" ,Hostel 3: De vuelta al horror (2011)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39469.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2LQS9JNfbRlsalAe2BlTDXquSyH.jpg" tvg-name="La casa de cera (2005)" ,La casa de cera (2005)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39470.avi
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2fLuqmK1cox7qboPuARvzVQxTNm.jpg" tvg-name="La garra (1980)" ,La garra (1980)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39471.avi
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mYWk0btcYNlxcSy0q29JGhj3eDa.jpg" tvg-name="Escupiré sobre tu tumba 3 (2015)" ,Escupiré sobre tu tumba 3 (2015)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39472.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0G73SD2Ij0BQGgKqkjjO6Mx4wn.jpg" tvg-name="It Follows (2015)" ,It Follows (2015)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39473.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/h2beMolh0YpSLTYUiKeIBrhJ74N.jpg" tvg-name="Building 'Jacob's Ladder' (1990)" ,Building 'Jacob's Ladder' (1990)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39474.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nAmJf2AOffuZ1fvY5Al1e8uFrpp.jpg" tvg-name="Tiburón 3 (1983)" ,Tiburón 3 (1983)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39475.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iJemaoRW5LFDvi3p6jWMMMIDR4P.jpg" tvg-name="KM 31: Kilómetro 31 (2006)" ,KM 31: Kilómetro 31 (2006)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39476.avi
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bLFow6tnwCZ2LPiUbSu94V8klpl.jpg" tvg-name="La tierra de los muertos vivientes (2005)" ,La tierra de los muertos vivientes (2005)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39477.avi
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gCMEnRU8CLiA81FNdx9ToBTrNem.jpg" tvg-name="La matanza de Texas 3 (1990)" ,La matanza de Texas 3 (1990)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39478.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qcjBD4ueysFvd4qGTNcfSodmwn6.jpg" tvg-name="Déjame entrar (2010)" ,Déjame entrar (2010)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39479.MP4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rZ4So8jnGPppSoDPjxCmXfJmvAg.jpg" tvg-name="Digital - Smoke and Mirrors (2008)" ,Digital - Smoke and Mirrors (2008)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39480.avi
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qRkKJLHR5c1rhFjhDFugpynxAs0.jpg" tvg-name="Razas de noche (1990)" ,Razas de noche (1990)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39481.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sbicFO23YT3XitaPwHh2StYve6A.jpg" tvg-name="La noche de los muertos vivientes (1990)" ,La noche de los muertos vivientes (1990)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39482.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3NSeL6kdni2lIxkLGmNcGWuixar.jpg" tvg-name="La huérfana (2009)" ,La huérfana (2009)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39483.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9sRhEqcDvaHkXwVbzhR87h0nvRh.jpg" tvg-name="Ouija (2014)" ,Ouija (2014)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39484.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yr6VLo3diWRMuDZUTqgXt9M8kPW.jpg" tvg-name="Ouija: el origen del mal (2016)" ,Ouija: el origen del mal (2016)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39485.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/PIPSZnlY25b7Sd58ozeQ6Pji5f.jpg" tvg-name="Desde la Oscuridad (2014)" ,Desde la Oscuridad (2014)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39486.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m0OCqNmVudMtbGlv4iTcyYrbp9m.jpg" tvg-name="Pandemic (2016)" ,Pandemic (2016)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39487.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g3wRjKk9IhztDnvc8e94Kw8tLBK.jpg" tvg-name="Pandorum (2009)" ,Pandorum (2009)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39488.avi
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xFbnc2QPG5H5gYWsGbZT4q8Akya.jpg" tvg-name="Psicosis (1960)" ,Psicosis (1960)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39489.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7bC3tMBjAfwT0rOaRuxzgLSweFG.jpg" tvg-name="Psycho (Psicosis) (1998)" ,Psycho (Psicosis) (1998)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39490.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/m4PRC48MuDaOddqNJVgBWgOb5MA.jpg" tvg-name="Psicosis II: El regreso de Norman (1983)" ,Psicosis II: El regreso de Norman (1983)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39491.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yNvRt7i4UUKNlh5zxyrQOcEoTji.jpg" tvg-name="Psicosis III (1986)" ,Psicosis III (1986)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39492.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/icHMCEp6oeExOuGafhc7qT9FBan.jpg" tvg-name="Psicosis IV: El comienzo (1990)" ,Psicosis IV: El comienzo (1990)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39493.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nlAi9cw2uLZ9hHwhzCMOG6TZMHc.jpg" tvg-name="Resident Evil (2002)" ,Resident Evil (2002)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39494.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hrMDwajbeAPFuTwzvWBKLwYuiD.jpg" tvg-name="Resident Evil: La maldición (2012)" ,Resident Evil: La maldición (2012)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39495.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/19Oj8E8OQiFvs63u4uN8tjAYAsQ.jpg" tvg-name="Resident Evil: Degeneración (2008)" ,Resident Evil: Degeneración (2008)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39496.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cP3giyle6Dq2Ii9hqps5c44h0Aa.jpg" tvg-name="Robert the Doll (2015)" ,Robert the Doll (2015)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39497.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pO39MWOrEmJYthKyWT79BYCVRrO.jpg" tvg-name="Scream (Vigila quién llama) (1996)" ,Scream (Vigila quién llama) (1996)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39498.MP4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5tOcZpqnY8tOGXMleCtOyWBSHq.jpg" tvg-name="Silent Hill (2006)" ,Silent Hill (2006)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39499.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/xBC7bHZ5UglTw4LMd2lTSgXvQXl.jpg" tvg-name="Silent Hill: Revelation (2012)" ,Silent Hill: Revelation (2012)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39500.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fy77hEGu1Sek6oyek2odciegKd1.jpg" tvg-name="Sinister 2 (2015)" ,Sinister 2 (2015)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39501.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qJO54b6LsBmEkMxdW8ZziL9Mnam.jpg" tvg-name="Smile (2022)" ,Smile (2022)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39502.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7YR0SU05k6F4LJStMxBvFk8NEis.jpg" tvg-name="El gato infernal (1990)" ,El gato infernal (1990)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39503.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ZVh9VV6Bamy95diQ5eJ4amQLZl.jpg" tvg-name="Gira sangrienta (1980)" ,Gira sangrienta (1980)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39504.avi
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/c9ur7kcf0AwyWz0kE62vM0MCa2f.jpg" tvg-name="The Bride (2015)" ,The Bride (2015)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39505.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1LmAWXnqnYm7IHZUVhmXru24TnX.jpg" tvg-name="Nunca digas su nombre (2017)" ,Nunca digas su nombre (2017)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39506.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/b0S5zj0vA6XsPB3jcMTNaBRN5n5.jpg" tvg-name="El exorcista III (1990)" ,El exorcista III (1990)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39507.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/7Outnica9M83FVMXQpQUanfGZhN.jpg" tvg-name="En el bosque (2016)" ,En el bosque (2016)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39508.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/g7AFVBSrdkh3IovdedH5rCSG8Hi.jpg" tvg-name="Los hijos del Diablo (2015)" ,Los hijos del Diablo (2015)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39509.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDdae8EOH6o2mE2H7K35qw6Te61.jpg" tvg-name="Surviving the Hills: The Making of 'The Hills Have Eyes' (2006)" ,Surviving the Hills: The Making of 'The Hills Have Eyes' (2006)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39510.MP4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vR6Zaevn3imnkXsbdgBiAdIHNgK.jpg" tvg-name="Cadáver (2018)" ,Cadáver (2018)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39511.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/upBsuweJjBftrkJGqVf8PHCdH0l.jpg" tvg-name="Making 'The Shining' (1980)" ,Making 'The Shining' (1980)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39512.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/oAjpyj08T5RizLVsxEYoyqtk0Ec.jpg" tvg-name="La llave del mal (2005)" ,La llave del mal (2005)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39513.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4a1YmAsd38bg8QbiofUngDFaLiP.jpg" tvg-name="Los extraños (2008)" ,Los extraños (2008)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39514.avi
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/p3ysBtfK6bPVLXRwsPzVdRlmkdI.jpg" tvg-name="La cosa (The Thing) (2011)" ,La cosa (The Thing) (2011)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39515.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1hdbKq3n88HIklvF90EJklPLt1P.jpg" tvg-name="La semilla del mal (2009)" ,La semilla del mal (2009)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39516.avi
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/10xkcoVSGoxLCuJCHMv1yaMcUdr.jpg" tvg-name="El velo (2016)" ,El velo (2016)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39517.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/1VXcpUJabzDwmPm3wNGmRAIj5mS.jpg" tvg-name="The Visit (2015)" ,The Visit (2015)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39518.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/77pqeCDToMB0EpfJyT8JUiupze1.jpg" tvg-name="13 fantasmas (2001)" ,13 fantasmas (2001)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39519.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/iTwQqKDjJqwHia08INc2YGnwcIJ.jpg" tvg-name="Tokyo Ghoul (2017)" ,Tokyo Ghoul (2017)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39520.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gGg2haDaZF3vklYQXPPQ6ccCNj0.jpg" tvg-name="Temblores (1990)" ,Temblores (1990)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39521.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uGogIG6BHjoKnKJTRnFA5YwmFu0.jpg" tvg-name="Temblores 2: La respuesta (1996)" ,Temblores 2: La respuesta (1996)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39522.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aJVaLsVY11U3Wh1BpCWPgkplRVu.jpg" tvg-name="Temblores 3: Regreso a Perfección (2001)" ,Temblores 3: Regreso a Perfección (2001)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39523.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hzjNWXlOnL85gkmW404OvAxGXtj.jpg" tvg-name="Temblores 4: Comienza la leyenda (2004)" ,Temblores 4: Comienza la leyenda (2004)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39524.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eJ2kxo6yzwYvqUOGOBjXTaO8oYQ.jpg" tvg-name="Temblores 5: El legado (2015)" ,Temblores 5: El legado (2015)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39525.mkv
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y2YZnTT9zdxRdXBKRb0K7BoM0jF.jpg" tvg-name="Temblores 6: Un día en el infierno (2018)" ,Temblores 6: Un día en el infierno (2018)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39526.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/pzxHNiKjHL8Sz7DZ7POXXqohxet.jpg" tvg-name="Eliminado (2014)" ,Eliminado (2014)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39527.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wZkoNGc0kZz4nFEOCgwEwaHY4Ve.jpg" tvg-name="Eliminado 3" ,Eliminado 3
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39528.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bmbL9vUfFAOXyQ18kYho6RfXX6U.jpg" tvg-name="H.G. Wells' The War of the Worlds (2005)" ,H.G. Wells' The War of the Worlds (2005)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39529.mp4
+#EXTINF:-1 group-title="VOD-HORROR" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bsQZDSRHrRkkLWC1PgMT89dr9xA.jpg" tvg-name="Bienvenidos a Zombieland (2009)" ,Bienvenidos a Zombieland (2009)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/39530.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j9uWE05XqlJozwXaklJoLEDEKue.jpg" tvg-name="10 palomas (2021)" ,10 palomas (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40579.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eeoK2gRfAxZyYn9SiBgAlzfTiBI.jpg" tvg-name="American Me (Sin remisión) (1992)" ,American Me (Sin remisión) (1992)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40580.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hMIQiwLpBfTfe3ZbRlNx4225Mgg.jpg" tvg-name="Amina (2021)" ,Amina (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40581.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/LGVocIkhF8pTlvER7m3KktzsUS.jpg" tvg-name="Instinto básico 2: Adicción al riesgo (2006)" ,Instinto básico 2: Adicción al riesgo (2006)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40582.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ezRMlFvXBSo04TLuH8Hbc4swF7Z.jpg" tvg-name="Circle of Deception (2021)" ,Circle of Deception (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40583.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRAI60Ko79OCzDZDzAgqxlfo3Vo.jpg" tvg-name="Dobles parejas (1992)" ,Dobles parejas (1992)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40584.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRAI60Ko79OCzDZDzAgqxlfo3Vo.jpg" tvg-name="El Padrino Epílogo La Muerte De Michael Corleone (2020)" ,El Padrino Epílogo La Muerte De Michael Corleone (2020)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40585.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hRAI60Ko79OCzDZDzAgqxlfo3Vo.jpg" tvg-name="Fortress (2021)" ,Fortress (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40586.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/madwZl3i6ybIFJ80d8MlRFspZ8M.jpg" tvg-name="A Sister's Grudge (2021)" ,A Sister's Grudge (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40587.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5LqRCLqvQ1d0qa7F9ofbq3dosJs.jpg" tvg-name="La belleza y el enigma (2021)" ,La belleza y el enigma (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40588.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aMGhaSkhkFwz33hKEsBrJ3ptx3g.jpg" tvg-name="Hoffa, un pulso al poder (1992)" ,Hoffa, un pulso al poder (1992)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40589.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/88d8OAdtfvuo4dDU1eJxhjhdxZe.jpg" tvg-name="La casa Gucci (2021)" ,La casa Gucci (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40590.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/lmTEYi3TszbIHUJjqHkRM3L4wbd.jpg" tvg-name="Tras la pista del asesino (2021)" ,Tras la pista del asesino (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40591.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jds6n8dUaixg0diKYlCta5nS6BV.jpg" tvg-name="Monstruo (2021)" ,Monstruo (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40592.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nSGAA9bZSzrICdCy48xZcWMOpes.jpg" tvg-name="Con su propia justicia (2021)" ,Con su propia justicia (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40593.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3eceDLSJQ4GbSdnBj08QkmKoqni.jpg" tvg-name="El callejón de las almas perdidas (2021)" ,El callejón de las almas perdidas (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40594.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cPZyCym0wCXVPqkLDEwSc0H0XRx.jpg" tvg-name="Ocean's 8 (2018)" ,Ocean's 8 (2018)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40595.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/rDWIeM3bOOxh0uP9wd9baGOtx2p.jpg" tvg-name="Ocean's Eleven. Hagan juego (2001)" ,Ocean's Eleven. Hagan juego (2001)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40596.avi
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3iczTMycAI1YXKOKFsBdcV1Ys7U.jpg" tvg-name="Ocean's Thirteen (2007)" ,Ocean's Thirteen (2007)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40597.avi
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/guLJDVIqumv9C4iEpuuzqZIhEi1.jpg" tvg-name="Ocean's Twelve (2004)" ,Ocean's Twelve (2004)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40598.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5UtacHd5pZYtXR38Esb8bhanULK.jpg" tvg-name="Acción Jacinto (2021)" ,Acción Jacinto (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40599.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxmJqXFFnXLlvPIdCW2k3UGLCgZ.jpg" tvg-name="Reservoir Dogs (1992)" ,Reservoir Dogs (1992)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40600.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hxmJqXFFnXLlvPIdCW2k3UGLCgZ.jpg" tvg-name="On the Silk Road (2021)" ,On the Silk Road (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40601.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDrUIKP3I1QkUieImwpo3verZPj.jpg" tvg-name="Bordertown: Murales de sangre (2021)" ,Bordertown: Murales de sangre (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40602.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/JZU0wyDH5etYhOIdCSJmn4KyYs.jpg" tvg-name="En tierras peligrosas (2021)" ,En tierras peligrosas (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40603.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/9G26DnAeMbA4sp58Gi0Vze6eQv4.jpg" tvg-name="Taxi Driver (1976)" ,Taxi Driver (1976)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40604.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cx5gY1b20Ist7ZMIQjKwnvqWmH2.jpg" tvg-name="The Birthday Cake (2021)" ,The Birthday Cake (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40605.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/eqLicrlG3FTXROqpV7Q9QBCTKYj.jpg" tvg-name="The Gateway (2021)" ,The Gateway (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40606.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ogft6ISyzMI0EkFIOD59CmW6ZLz.jpg" tvg-name="Los timadores (1990)" ,Los timadores (1990)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40607.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/wN9CuMsgohrfud5Y9eP3WL0M5Tu.jpg" tvg-name="Más dura será la caída (2021)" ,Más dura será la caída (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40608.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/s6O6T7N7qL4rVGSCPZeWyT9F499.jpg" tvg-name="Santos criminales (2021)" ,Santos criminales (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40609.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uKaVvOUHdSat4SmHDFknNRx9taY.jpg" tvg-name="Misfit #EresOTeHaces (2021)" ,Misfit #EresOTeHaces (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40610.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/nwpgjpVBMkmm3yORpE8sAnZodqL.jpg" tvg-name="La novena puerta (1999)" ,La novena puerta (1999)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40611.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/gxPoQhBppZEocBMliFnKI4KaYej.jpg" tvg-name="The Deliverance of Amy Stronghold (2021)" ,The Deliverance of Amy Stronghold (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40612.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4pLdsQ7iXziTljdl1EaBCYlw0T.jpg" tvg-name="Yara (2021)" ,Yara (2021)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/40613.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/jjL3zIPfMs2Ll7pIJFNroprYJrF.jpg" tvg-name="激怒 (2022)" ,激怒 (2022)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/99790.mkv
+#EXTINF:-1 group-title="VOD-CRIMEN" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/bhnVEC1tMFgR3dLZwyyW6xiBwBr.jpg" tvg-name="Mystic River (2003)" ,Mystic River (2003)
+http://tv.iprotv.live:80/movie/ProYeCtoX998/NuevaProyectoRw/100179.mkv
+
+
+
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="http://open.universof.com:25461/images/ed84d71e3e1c49c2ba600f12dce4607e.png" tvg-id="PLAYBOY TV" ,PLAYBOY TV
+http://37.187.180.15:25461/gol971/4589e/88
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="http://open.universof.com:25461/images/60794a5a1204301ecb0ffd815773b3a0.png" ,DORCEL TV
+http://37.187.180.15:25461/gol971/4589e/10254
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="http://open.universof.com:25461/images/918eb3ec334b4715d1da9371341f1077.png" ,VENUS HD
+http://37.187.180.15:25461/gol971/4589e/10220
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="http://open.universof.com:25461/images/9db65f872e0ce807694d10c9a3adf827.png" ,BRAZZERS
+http://37.187.180.15:25461/gol971/4589e/15423
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="http://open.universof.com:25461/images/b205274c1bc638344d8b7cf99ba2e286.png" ,Redlight HD
+http://37.187.180.15:25461/gol971/4589e/15428
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="http://open.universof.com:25461/images/544a2936f41e55f054c2dac1ea52b4b6.png" ,PENTHOUSE GOLD HD
+http://37.187.180.15:25461/gol971/4589e/10253
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="http://open.universof.com:25461/images/f3cd8c22e3d47bbff8b348b7f26a9d9b.png" ,HUSTLER HD
+http://37.187.180.15:25461/gol971/4589e/10240
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="http://open.universof.com:25461/images/ab1e69f318e18dff9d5677168990759a.png" ,BLACKED RAW
+http://37.187.180.15:25461/gol971/4589e/13160
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/vivid-red-hd.png" tvg-id="Vivid TV" ,VIVID RED HD
+http://37.187.180.15:25461/gol971/4589e/10218
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="http://open.universof.com:25461/images/a72790d4f0016eb520ebc4c8b6d9caad.png" ,EROX
+http://37.187.180.15:25461/gol971/4589e/12719
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" tvg-id="Dep|| beIN LA Liga FHD ES" ,MIA KHALIFA
+http://gradina1.info/live/C0:23:8d:01:33:94/C0:23:8d:01:33:94/12962.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="http://zuiowy.net:8080/images/d8422307073df3eac9952ea741f19281.png" , PRIVATE TV sd
+http://digital.nicesecrethotdigital.xyz:80/live/UTV4PEDR5V/rJ@UEVVSKcmg/755230.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="http://zuiowy.net:8080/images/2a66a113872083b52b44265ef4246c52.png" , BRAZZERS TV sd
+http://digital.nicesecrethotdigital.xyz:80/live/UTV4PEDR5V/rJ@UEVVSKcmg/755114.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="http://zuiowy.net:8080/images/8c3b60f820723f6c320fd7cd2d18c9a0.png" , VENUS TV sd
+http://digital.nicesecrethotdigital.xyz:80/live/UTV4PEDR5V/rJ@UEVVSKcmg/759974.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,XXX | DREAM PORN TV
+http://digital.nicesecrethotdigital.xyz:80/live/UTV4PEDR5V/rJ@UEVVSKcmg/777164.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,XXX | EVIL ANGEL TV
+http://digital.nicesecrethotdigital.xyz:80/live/UTV4PEDR5V/rJ@UEVVSKcmg/791737.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,XXX | FANTAXY TV
+http://digital.nicesecrethotdigital.xyz:80/live/UTV4PEDR5V/rJ@UEVVSKcmg/791739.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,XXX | PENTHOUSE
+http://tipxpto12.club:8080/live/PUUg7XLw7vKG/qL2dgaN98Z7Y/74443.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,XXX | PURE BABES
+http://tipxpto12.club:8080/live/PUUg7XLw7vKG/qL2dgaN98Z7Y/74438.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,XXX | TINY 4K
+http://flx.lat:8080/live/AQ72/43NCShNRYKeY/103467.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,XXX | VIXEN TV
+http://tipxpto12.club:8080/live/PUUg7XLw7vKG/qL2dgaN98Z7Y/74397.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" , PLAYBOY TV
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/10085.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" , BRAZZERS TV
+http://stklatino.dynns.com:2082/live/vivianacornejo/MNzxQD7F3Mr6/30378.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" , NEW SENSSATIONS
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/10086.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" , BLUE HUSTLER
+http://smx4t.ffyhit.xyz:80/live/te49304/3e3QNhE9WB/759895.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" , VENUS TV
+http://tipxpto12.club:8080/live/PUUg7XLw7vKG/qL2dgaN98Z7Y/74413.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" , PENTHOUSE TV
+http://smx4t.ffyhit.xyz:80/live/te49304/3e3QNhE9WB/791756.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" , SEXMEX 1
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/10089.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" , BRAZZERS 1
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/10088.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" , BANGBROS
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/10095.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" , BABES TV
+http://tipxpto12.club:8080/live/PUUg7XLw7vKG/qL2dgaN98Z7Y/74404.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" , BLACKED 1
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/10096.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,SEXTREME TV
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/2959.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" , SIRENS
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/10097.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" , PURE TABOO
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/10101.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,EROTIC TV 1
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/33157.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,EROTIC TV 2
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/77934.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,ONLY FANS
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/33147.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,BRATTY SIS
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/33144.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,LATINAS TV
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/33142.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,DOGFART NET
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/33140.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,BARELY LEGAL TV
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/33134.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,EXXXOTICA TV
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/33123.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,HER LIMIT
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/33119.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,MY PERVY FAMILY
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/33113.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,ASIAN TEENS
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/33112.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,NAGHTY TV
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/33086.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,GANGBANG
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/33081.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,SCHOOL TV
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/33077.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,STUDENT TV
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/33076.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,SWINGER TV
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/33075.ts
+#EXTINF:-1 group-title="XXX | 🔞" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001248-a4c66a4c68/700/alvarotvAdultos.webp?ph=348e8b9008" ,GANGBANG BLACK
+http://abcnew.site:8880/live/29ca01293n03/rw32er23/60669.ts
