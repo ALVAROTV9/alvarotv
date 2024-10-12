@@ -1,5 +1,8 @@
 
 #EXTM3U
+
+#lista n3u8 de uso publico#
+
 #EXTINF:-1 group-title="✯EXCLUSIVØ #PPV✯" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" ,DISNEY + & STAR + 5 HD
 http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/161666
 #EXTINF:-1 group-title="✯EXCLUSIVØ #PPV✯" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" ,DISNEY + & STAR + 1 HD
@@ -213,6 +216,55 @@ http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/460
 #EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" ,DEP• TNT SPORTS AR (HD) »3«
 http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/461
 
+
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/CINECANAL.png" ,LATINO - CINECANAL
+http://activefrance.net/W8MEP61/2X2H702/30632
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/CINEMAX.png" ,LATINO - CINEMAX
+http://activefrance.net/W8MEP61/2X2H702/30631
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/HBOTV.png" ,LATINO - HBO
+http://activefrance.net/W8MEP61/2X2H702/30601
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/HBOTV2.png" ,LATINO - HBO 2
+http://activefrance.net/W8MEP61/2X2H702/30600
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/HBO+.png" ,LATINO - HBO PLUS
+http://activefrance.net/W8MEP61/2X2H702/30598
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/usa/HBO_Family_East_HD.png" ,LATINO - HBO FAMILY
+http://activefrance.net/W8MEP61/2X2H702/30599
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/HBOSIGNATURETV.png" ,LATINO - HBO SIGNATURE
+http://activefrance.net/W8MEP61/2X2H702/30597
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/GOLDENEDGE.png" ,LATINO - GOLDEN EDGE
+http://activefrance.net/W8MEP61/2X2H702/30653
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/GOLDEN.png" ,LATINO - GOLDEN
+http://activefrance.net/W8MEP61/2X2H702/30654
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/FOXMOVIESPREMUIM.png" ,LATINO - FOX MOVIES
+http://activefrance.net/W8MEP61/2X2H702/30664
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/FOXACTIONTV.png" ,LATINO - FOX ACTION
+http://activefrance.net/W8MEP61/2X2H702/30663
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/FOXMOVIESPREMUIM.png" ,LATINO - FOX CINEMA
+http://activefrance.net/W8MEP61/2X2H702/30662
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/FOX.png" ,LATINO - FOX.
+http://activefrance.net/W8MEP61/2X2H702/30665
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/FOXCLASSICS.png" ,LATINO - FOX CLASSIC
+http://activefrance.net/W8MEP61/2X2H702/30661
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/Studio-Universal.png" ,LATINO - STUDIO UNIVERSAL
+http://activefrance.net/W8MEP61/2X2H702/30652
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/PARAMOUNTTV.png" ,LATINO - PARAMOUNT
+http://activefrance.net/W8MEP61/2X2H702/30621
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/WARNERCHANNEL.png" ,LATINO - WARNER CHANNEL
+http://activefrance.net/W8MEP61/2X2H702/30674
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/AXNTV.png" ,LATINO - AXN
+http://activefrance.net/W8MEP61/2X2H702/30666
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/SYFY.png" ,LATINO - SYFY
+http://activefrance.net/W8MEP61/2X2H702/30671
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/sony.png" ,LATINO - SONY
+http://activefrance.net/W8MEP61/2X2H702/30657
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/AETV.png" ,LATINO - A&E
+http://activefrance.net/W8MEP61/2X2H702/30645
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/AMCTV.png" ,LATINO - AMC
+http://activefrance.net/W8MEP61/2X2H702/30644
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/TRUTVCHANNEL.png" ,LATINO - TRU TV
+http://activefrance.net/W8MEP61/2X2H702/69087
+#EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/ASIA/TURKEY/FX.png" ,LATINO - FX
+http://activefrance.net/W8MEP61/2X2H702/30656
 
 
 #EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/1072750469e15c2f861461f4b1671183.jpg" , Los Pitufos
