@@ -303,6 +303,78 @@ http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321981
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321985
 #EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/be900df6e14f9e6979280757a0d836f2.png" ,KIDS | NICK JUNIOR
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321983
+
+
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/8CPfscB9/DC.png" ,Discovery Channel HD
+http://activefrance.net/W8MEP61/2X2H702/30606
+
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/8CPfscB9/DC.png" ,Discovery Channel SD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53458
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/3NgxtQF2/dhym.png" tvg-id="discoveryhomeandhealth.ar" ,Discovery Home & Health HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53459
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/3NgxtQF2/dhym.png" tvg-id="discoveryhomeandhealth.ar" ,Discovery Home & Health SD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53460
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/ryZBMDFD/photo-output.jpg" ,Discovery Investigation HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53462
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/ryZBMDFD/photo-output.jpg" ,Discovery Investigation SD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53463
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/8cncbTSZ/photo-output.jpg" ,DISCOVERY Science HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53464
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/xTxMsS5D/photo-output.jpg" ,DISCOVERY Theater HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53465
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/xTxMsS5D/photo-output.jpg" tvg-id="discoveryhdtheater.ar" ,DISCOVERY Theater SD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53466
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/J4knhZwG/DT.png" ,DISCOVERY Turbo SD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53467
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/J4knhZwG/DT.png" tvg-id="discoveryturbo.co" ,DISCOVERY Turbo HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53468
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/Hn3ghYFD/DW.png" tvg-id="discoveryworldhd.ar" ,DISCOVERY World SD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53469
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/Hn3ghYFD/DW.png" ,DISCOVERY World HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53470
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/J4DzLVmW/photo-output.jpg" tvg-id="DiscoveryFamilia.us" ,Discovery Familia HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53472
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/MHyWBWVL/68ztl-ZE-1.png" ,EL GOURMET HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53474
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/tgYp5dFW/HHD.jpg" tvg-id="historychannel.mx" ,HISTORY HD
+http://activefrance.net/W8MEP61/2X2H702/273336
+
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/FK8mnfxq/HHSD.jpg" tvg-id="historychannel.mx" ,HISTORY SD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53482
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/sxRzstq4/HC2-HD.jpg" ,History 2 HD
+http://activefrance.net/W8MEP61/2X2H702/273337
+
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/76zDvxsL/H2SD.jpg" tvg-id="history2.mx" ,History 2 SD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53488
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/JhDCJrWQ/NGFHD.jpg" tvg-id="nationalgeographic.co" ,NATIONAL Geographic FHD
+http://activefrance.net/W8MEP61/2X2H702/30609
+
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/66dwYp4j/NGHD.jpg" tvg-id="nationalgeographic.co" ,NAT Geo HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53491
+
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/D0h9t14C/APHD.jpg" ,ANIMAL Planet HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/54172
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/Qx8Lmk3C/EFHD.jpg" tvg-id="eentertainment.mx" ,E! Entretainment FHD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/122959
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/G3Jwvg66/e-entertainment-television-logo-EF3-AA17-F85-seeklogo.png" tvg-id="eentertainment.mx" ,E! Eⓝtretainment HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/126151
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/t4JKQq7H/CCHD.jpg" ,CANAL COCINA HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/126557
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/W4Jxz5MW/TCLFHD.jpg" tvg-id="afizzionados.mx" ,TLC FHD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/126558
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/0QRFw7n8/TCLHD.jpg" ,TLC HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/126559
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/kMyz26bm/HDHOLA.jpg" tvg-id="holatv.co" ,HOLA! TV
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/126560
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/655SnWrG/1bf1d4bf0ed8c37e1c8efc5b17401467.jpg" tvg-id="discoverycivilization.mx" ,HGTV FHD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/126561
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/HsZNtqzv/LTHD.jpg" tvg-id="lifetime.mx" ,LIFETIME HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/128338
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/MHYCxXyz/APSD.jpg" ,ANIMAL PLANET SD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/114382
+#EXTINF:-1 group-title="✴️CULTURA✴️" tvg-logo="https://i.postimg.cc/wvRNSmYs/FWHD.jpg" ,FOOD NETWORK HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/227677
+
 #EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/flag/Latinoflag.png" ,##### LATINO - GENERAL #####
 http://activefrance.net/W8MEP61/2X2H702/30681
 #EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Univision.png" tvg-id="univision23wltv.us" ,LATINO - UNIVISION (MIAMI) | HD ◉
