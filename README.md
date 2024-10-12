@@ -1,4 +1,1348 @@
 
+#EXTM3U
+#EXTINF:-1 group-title="✯EXCLUSIVØ #PPV✯" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" ,DISNEY + & STAR + 5 HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/161666
+#EXTINF:-1 group-title="✯EXCLUSIVØ #PPV✯" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" ,DISNEY + & STAR + 1 HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/116008
+#EXTINF:-1 group-title="✯EXCLUSIVØ #PPV✯" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" ,DISNEY + & STAR + 4 HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/161665
+#EXTINF:-1 group-title="✯EXCLUSIVØ #PPV✯" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" ,DISNEY + & STAR + 2 HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/161663
+#EXTINF:-1 group-title="✯EXCLUSIVØ #PPV✯" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" ,DISNEY + & STAR + 3 HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/161664
+
+
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,WHATSAPP +57 350 675 5451
+http://zuiowy.net:8080/live/Valencia3tv/nTyPVx07sc/125380.ts
+
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,ENTRETIEMPO CON VALLENATOS
+http://zuiowy.net:8080/live/Valencia3tv/nTyPVx07sc/90846.ts
+
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001484-b3dbbb3dbf/700/w1nP1us.webp?ph=348e8b9008" ,WIN SPORTS +
+http://activefrance.net/live/W8MEP61/2X2H702/190260.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001484-b3dbbb3dbf/700/w1nP1us.webp?ph=348e8b9008" ,WIN SPORTS + FHD
+http://tvmate.icu:8080/live/k4Svp2/645504/78717.ts
+
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001484-b3dbbb3dbf/700/w1nP1us.webp?ph=348e8b9008" ,WIN SPORTS + HD
+http://venuschiletv.lat:8880/live/ofmmepeiph/7hbetrPUAGbD/287807.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001484-b3dbbb3dbf/700/w1nP1us.webp?ph=348e8b9008" ,WIN SPORTS + SD1
+http://filex.tv:8080/live/tahirbutt/003092/302967.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001484-b3dbbb3dbf/700/w1nP1us.webp?ph=348e8b9008" ,WIN SPORTS + SD2
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/8512.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/700/winsportsMas.webp?ph=348e8b9008" ,WIN SPORT exclusivo
+http://activefrance.net/live/W8MEP61/2X2H702/190259.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001310-7a5a77a5a8/700/winsports-4.webp?ph=348e8b9008" ,WIN SPORTS VIP
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/2115.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001310-7a5a77a5a8/700/winsports-4.webp?ph=348e8b9008" ,WIN SPORTS FHD
+http://tvlatino.club:2082/live/Jonatan2024/yaDWd7M4A2Eg/209215.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/700/winsportsMas.webp?ph=348e8b9008" ,WIN SPORT SD
+http://filex.tv:8080/live/tahirbutt/003092/302966.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001498-90fab90faf/700/logoAmbWhatsapp.webp?ph=348e8b9008" , +573506755451 WhatsApp Infoᵛᶦᵖ
+http://filex.tv:8080/live/tahirbutt/003092/293006.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001468-d326bd326c/700/laLiga-1.webp?ph=348e8b9008" ,1 |LA LIGA | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1033362.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001468-d326bd326c/700/laLiga-1.webp?ph=348e8b9008" ,2 |LA LIGA | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1033358.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001468-d326bd326c/700/laLiga-1.webp?ph=348e8b9008" ,3 |LA LIGA | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1033357.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001468-d326bd326c/700/laLiga-1.webp?ph=348e8b9008" ,4 |LA LIGA | ⚽
+http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/110191.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001468-d326bd326c/700/laLiga-1.webp?ph=348e8b9008" ,5 |LA LIGA | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/76718.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001468-d326bd326c/700/laLiga-1.webp?ph=348e8b9008" ,6 |LA LIGA | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/655462.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" , LIVERPOOL FC
+http://filex.tv:8080/live/tahirbutt/003092/290373.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001466-000090000b/700/premierLeague-8.webp?ph=348e8b9008" , 1 |PREMIER LEAGUE | ⚽
+http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/134300.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001466-000090000b/700/premierLeague-8.webp?ph=348e8b9008" , 2 |PREMIER LEAGUE | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1015548.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001466-000090000b/700/premierLeague-8.webp?ph=348e8b9008" ,3 |PREMIER LEAGUE | ⚽
+http://filex.tv:8080/live/tahirbutt/003092/457208.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001466-000090000b/700/premierLeague-8.webp?ph=348e8b9008" , 5 |PREMIER LEAGUE | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1015551.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001466-000090000b/700/premierLeague-8.webp?ph=348e8b9008" , 7 |PREMIER LEAGUE | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1015553.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001474-3d7b63d7b8/700/serieA.webp?ph=348e8b9008" , 1 |SERIE A | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1018098.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001474-3d7b63d7b8/700/serieA.webp?ph=348e8b9008" , 2 |SERIE A | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1018099.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001474-3d7b63d7b8/700/serieA.webp?ph=348e8b9008" , 3 |SERIE A | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1018097.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001474-3d7b63d7b8/700/serieA.webp?ph=348e8b9008" , 4 |SERIE A | ⚽
+http://activefrance.net/live/W8MEP61/2X2H702/1018095.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001498-90fab90faf/700/logoAmbWhatsapp.webp?ph=348e8b9008" , +573506755451 WhatsApp ᵛᶦᵖ
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/85638.ts
+
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN DEPORTES
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/84668.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,ɆSPN COL ᵛᶦᵖ
+
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,ɆSPN COL SD
+http://tvmate.icu:8080/live/k4Svp2/645504/86765.ts
+
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96706.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,ɆSPN MEX ᵛᶦᵖ
+http://activefrance.net/live/W8MEP61/2X2H702/30737.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,ɆSPN ARG FHD
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/9520.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,E$PN  BRASIL
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96365.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,ɆSPN 2 FHD
+http://activefrance.net/live/W8MEP61/2X2H702/312516.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,ɆSPN 2 HD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/2095.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , E$PN 2 SD
+http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/401652.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,ɆSPN 3 HD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94807.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,Ɇ$PN 3 SD
+http://activefrance.net/live/W8MEP61/2X2H702/30735.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" , ESPN 3 HD off
+http://daleplay.club:80/play/bz2Cn4uIOfB9ySMxZn-dgJfNFoudTQanlpDOr-jDqjM4wsguliFSqMaGYGKRqfcE/m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,ɆSPN 4 HD
+http://activefrance.net/live/W8MEP61/2X2H702/69178.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,ɆSPN 4 SD
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/9537.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,ɆSPN 5 HD
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/9539.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,ɆSPN 6 HD
+http://daleplay.club:80/live/020524.020202.052424./mjkN8LDcJYvn/339552.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,ɆSPN 7 HD
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/9543.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,ɆSPN 7 SD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/2098.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,ɆSPN PREMIUM HD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96708.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001478-ca426ca428/EspnPack.webp?ph=348e8b9008" ,ɆSPN PREMIUM SD
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/9549.m3u8
+
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001498-90fab90faf/700/logoAmbWhatsapp.webp?ph=348e8b9008" , +573506755451 WhatsApp ᵛᶦᵖ
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/85611.ts
+
+
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001476-11e5211e55/700/foxSports-8.webp?ph=348e8b9008" ,Fox Deportes (HD)
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94813.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001476-11e5211e55/700/foxSports-8.webp?ph=348e8b9008" ,Fox Sports 1 LAT
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94808.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001476-11e5211e55/700/foxSports-8.webp?ph=348e8b9008" ,Fox Sports 2 LAT
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94809.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001476-11e5211e55/700/foxSports-8.webp?ph=348e8b9008" ,Fox Sports 2 MX
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94810.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001476-11e5211e55/700/foxSports-8.webp?ph=348e8b9008" ,Fox Sports 3
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/94812.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001476-11e5211e55/700/foxSports-8.webp?ph=348e8b9008" ,BRA-Fox Premium 1
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96368.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001476-11e5211e55/700/foxSports-8.webp?ph=348e8b9008" ,BRA-Fox Premium 2
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96369.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001476-11e5211e55/700/foxSports-8.webp?ph=348e8b9008" ,USA-FOX SOCCER PLUS
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96802.m3u8
+
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,VALLENATOS del ENTRETENIMIENTO 
+http://zuiowy.net:8080/live/Valencia3tv/nTyPVx07sc/90846.ts
+
+
+
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="http://zuiowy.net:8080/images/a6b8a304e4ad60a0f49a2b48e54cab30.png" ,VIX Sports 1 HD
+http://zuiowy.net:8080/Valencia3tv/nTyPVx07sc/123680
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="http://zuiowy.net:8080/images/a6b8a304e4ad60a0f49a2b48e54cab30.png" ,VIX Sports 2 HD
+http://zuiowy.net:8080/Valencia3tv/nTyPVx07sc/131599
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="http://zuiowy.net:8080/images/a6b8a304e4ad60a0f49a2b48e54cab30.png" ,VIX Sports 3 HD
+http://zuiowy.net:8080/Valencia3tv/nTyPVx07sc/131600
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="http://zuiowy.net:8080/images/a6b8a304e4ad60a0f49a2b48e54cab30.png" ,VIX Sports 4 HD
+http://zuiowy.net:8080/Valencia3tv/nTyPVx07sc/131601
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="http://zuiowy.net:8080/images/a6b8a304e4ad60a0f49a2b48e54cab30.png" ,VIX Sports 5 HD
+http://zuiowy.net:8080/Valencia3tv/nTyPVx07sc/131602
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="http://zuiowy.net:8080/images/95f31dd81f9b289c1bcb88a5c2e7c014.png" ,TUDN XTRA 01
+http://zuiowy.net:8080/Valencia3tv/nTyPVx07sc/151449
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="http://zuiowy.net:8080/images/95f31dd81f9b289c1bcb88a5c2e7c014.png" ,TUDN XTRA 02
+http://zuiowy.net:8080/Valencia3tv/nTyPVx07sc/151450
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="http://zuiowy.net:8080/images/95f31dd81f9b289c1bcb88a5c2e7c014.png" ,TUDN XTRA 03
+http://zuiowy.net:8080/Valencia3tv/nTyPVx07sc/151451
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="http://zuiowy.net:8080/images/95f31dd81f9b289c1bcb88a5c2e7c014.png" ,TUDN XTRA 04
+http://zuiowy.net:8080/Valencia3tv/nTyPVx07sc/151452
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="http://zuiowy.net:8080/images/95f31dd81f9b289c1bcb88a5c2e7c014.png" ,TUDN XTRA 05
+http://zuiowy.net:8080/Valencia3tv/nTyPVx07sc/151453
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="http://zuiowy.net:8080/images/95f31dd81f9b289c1bcb88a5c2e7c014.png" ,TUDN XTRA 06
+http://zuiowy.net:8080/Valencia3tv/nTyPVx07sc/151454
+
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DIRECTV SPORTS exclusivo
+http://activefrance.net/live/W8MEP61/2X2H702/197711.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DIRECTV SPORTS HD
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/1913.m3u8
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DIRECTV SPORTS SD
+http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/50724.ts
+
+
+
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS 2 exclusivo
+http://activefrance.net/live/W8MEP61/2X2H702/197712.ts
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS 2 VIP
+http://tv.iprotv.live:80/ProYeCtoX998/NuevaProyectoRw/96714.m3u8
+
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" ,DEP• DIRECTV SPORTS+ HD
+http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/62.ts
+
+
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DIRECTV SPORTS CL (HD)
+http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/481
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS CO (HD) »1«
+http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/482
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS PE (HD)
+http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/479
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS 2 CL (HD) »1«
+http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/464
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS 2 CO (HD)
+http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/476
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DirecTV_Sports_2_Latin_America_%282018%29.png" ,DEP• DIRECTV SPORTS 2 PE (HD)
+http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/477
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" ,DEP• DIRECTV SPORTS+ CL (HD) »2«
+http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/469
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" ,DEP• DIRECTV SPORTS+ CO (HD)
+http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/470
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://i.postimg.cc/7Lb92ddX/directvsports.png" ,DEP• DIRECTV SPORTS+ PE (HD)
+http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/471
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" ,DEP• GOL TV EC (HD) »2«
+http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/489
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://i.postimg.cc/zBpJHd9j/800px-GOLTV.png" ,DEP• GOL TV EC (HD) »4«
+http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/487
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" ,DEP• TNT SPORTS AR (HD) »1«
+http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/459
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" ,DEP• TNT SPORTS AR (HD) »2«
+http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/460
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://logodownload.org/wp-content/uploads/2021/01/tnt-sports-logo.png" ,DEP• TNT SPORTS AR (HD) »3«
+http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/461
+
+
+
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/1072750469e15c2f861461f4b1671183.jpg" , Los Pitufos
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398006
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/b4dbb7fe64e539dff4ff54862e6000c6.jpg" ,Bugs Bunny
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398020
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/cc138a8008848ecafa364854fcafca17.jpg" ,Dora La Exploradora
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398025
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/051b97f15e14283ca6ad93d748cf3d3c.jpg" ,Mickey Mouse
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398035
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/4c8f8d42fe7f32bc6de5f471871cbe30.jpg" , Kung Fu panda
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398041
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/3f2aa5470752a0e9e1da675c9a5851c8.jpg" ,Peppa Pig
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398045
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/0803a96448a8bbebf9eb0a43bba09555.jpg" ,PAWL PATROL
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398044
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/265dc507c35fe32dd08887f416b60900.jpg" ,Masha y el oso
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398050
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTtUgjx2Q5H6dBR7TSwUEvnjrbJiSL_1FAWg&s" ,La casa de muñecas de Gabby
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/39805
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/c8a992168e537e7e92d2fcb97a6ff60a.jpg" ,El chavo del 8
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/416453
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/3b3a23dcc02f40038cfc34d8c58c313f.png" ,KIDS | BABY FIRST
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321968
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/637e562dbf5fd427957eb42dcd838054.png" ,KIDS | BABY TV
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321969
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/c67ab172eb643fea7070b0a3514f4459.png" ,KIDS | CARTOON NETWORK
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321974
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/be37514186ea0e9928444db722509319.png" ,KIDS | CARTOONITO
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321975
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/9616dc155d8f864cd00ba06266376b5e.png" ,KIDS | DISCOVERY KIDS
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321976
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/69ee308370f166ebd34ee64895d1c9a8.png" ,KIDS | DISNEY JUNIOR
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321981
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/2c60790cd9470a61cf2e3c265f9589de.png" ,KIDS | NICKTOONS
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321985
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/be900df6e14f9e6979280757a0d836f2.png" ,KIDS | NICK JUNIOR
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321983
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/flag/Latinoflag.png" ,##### LATINO - GENERAL #####
+http://activefrance.net/W8MEP61/2X2H702/30681
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Univision.png" tvg-id="univision23wltv.us" ,LATINO - UNIVISION (MIAMI) | HD ◉
+http://activefrance.net/W8MEP61/2X2H702/194520
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Univision.png" tvg-id="unimas46kftr.us" ,LATINO - UNIVISION (Los Angeles) | HD
+http://activefrance.net/W8MEP61/2X2H702/194522
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Galavision.png" ,LATINO - GALAVISION ᵛᶦᵖ HD
+http://activefrance.net/W8MEP61/2X2H702/195243
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AMERICA/USA/UNIMAS.png" ,LATINO - UNIMAS | HD
+http://activefrance.net/W8MEP61/2X2H702/194524
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/WINSPORT.png" ,LATINO - WIN SPORT HD
+http://activefrance.net/W8MEP61/2X2H702/30647
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/WINSPORT.png" ,LATINO - WIN SPORT PLUS HD
+http://activefrance.net/W8MEP61/2X2H702/139331
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TUDN.png" ,LATINO - TUDN | HD : usa vs mexico
+http://activefrance.net/W8MEP61/2X2H702/200868
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AMERICA/USA/NBC.png" ,LATINO - NBC UNIVERSO
+http://activefrance.net/W8MEP61/2X2H702/194525
+#EXTINF:-1 group-title="AM | LATINO" tvg-id="univision.us" ,LATINO - UNIVISION
+http://activefrance.net/W8MEP61/2X2H702/30676
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/universal.png" ,LATINO - UNIVERSAL CHANNEL
+http://activefrance.net/W8MEP61/2X2H702/30677
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Univision.png" ,LATINO - UNIVISION TELENOVELAS
+http://activefrance.net/W8MEP61/2X2H702/69065
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Univision.png" tvg-id="univision.us" ,LATINO - UNIVISION DEPORTES
+http://activefrance.net/W8MEP61/2X2H702/69089
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Univision.png" tvg-id="univisiondeportes.us" ,LATINO - UNIVISION DEPORTES ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/200138
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TELENOVELAS.png" ,LATINO - TELENOVELAS  ◉
+http://activefrance.net/W8MEP61/2X2H702/73099
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CNN.png" ,LATINO - CNN
+http://activefrance.net/W8MEP61/2X2H702/30629
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/DISTRITOCOMEDIA.png" ,LATINO - DISTRITO COMEDIA
+http://activefrance.net/W8MEP61/2X2H702/69079
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Isat.png" ,LATINO - ISAT
+http://activefrance.net/W8MEP61/2X2H702/69097
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/GALATV.png" ,LATINO - GALA TV
+http://activefrance.net/W8MEP61/2X2H702/30655
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/fox deportes.png" tvg-id="foxdeportes.us" ,LATINO - FOX DEPORTES ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/200140
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/FOX.png" ,LATINO - FOX.
+http://activefrance.net/W8MEP61/2X2H702/30665
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/FOXMOVIESPREMUIM.png" ,LATINO - FOX MOVIES
+http://activefrance.net/W8MEP61/2X2H702/30664
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/FOXACTIONTV.png" ,LATINO - FOX ACTION
+http://activefrance.net/W8MEP61/2X2H702/30663
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/FOXMOVIESPREMUIM.png" ,LATINO - FOX CINEMA
+http://activefrance.net/W8MEP61/2X2H702/30662
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/FOXCLASSICS.png" ,LATINO - FOX CLASSIC
+http://activefrance.net/W8MEP61/2X2H702/30661
+#EXTINF:-1 group-title="AM | LATINO" ,LATINO - CINE LATINO
+http://activefrance.net/W8MEP61/2X2H702/30633
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CINECANAL.png" ,LATINO - CINECANAL
+http://activefrance.net/W8MEP61/2X2H702/30632
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CINEMAX.png" ,LATINO - CINEMAX
+http://activefrance.net/W8MEP61/2X2H702/30631
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CINEMADINAMITA.png" ,LATINO - CINEMA DINAMITA
+http://activefrance.net/W8MEP61/2X2H702/69069
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CLAROCINEMA.png" ,LATINO - CLARO CINEMA
+http://activefrance.net/W8MEP61/2X2H702/69071
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/AZTECACINEMA.png" ,LATINO  - AZTECA CINEMA
+http://activefrance.net/W8MEP61/2X2H702/30638
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/azcorazon.png" ,LATINO  - AZTECA CORAZON
+http://activefrance.net/W8MEP61/2X2H702/30637
+#EXTINF:-1 group-title="AM | LATINO" ,LATINO - TNT
+http://activefrance.net/W8MEP61/2X2H702/30668
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TNTSERIES.png" ,LATINO - TNT SERIES
+http://activefrance.net/W8MEP61/2X2H702/30667
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HBOTV.png" ,LATINO - HBO ESTE
+http://activefrance.net/W8MEP61/2X2H702/69064
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HBOTV.png" ,LATINO - HBO
+http://activefrance.net/W8MEP61/2X2H702/30601
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HBOTV2.png" ,LATINO - HBO 2
+http://activefrance.net/W8MEP61/2X2H702/30600
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/usa/HBO_Family_East_HD.png" ,LATINO - HBO FAMILY
+http://activefrance.net/W8MEP61/2X2H702/30599
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HBO+.png" ,LATINO - HBO PLUS
+http://activefrance.net/W8MEP61/2X2H702/30598
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HBOSIGNATURETV.png" ,LATINO - HBO SIGNATURE
+http://activefrance.net/W8MEP61/2X2H702/30597
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/pasiones.png" tvg-id="pasiones.us" ,LATINO - PASIONES ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/200135
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Studio-Universal.png" ,LATINO - STUDIO UNIVERSAL
+http://activefrance.net/W8MEP61/2X2H702/30652
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PARAMOUNTTV.png" ,LATINO - PARAMOUNT
+http://activefrance.net/W8MEP61/2X2H702/30621
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/pasiones.png" tvg-id="pasiones.co" ,LATINO - PASIONES ◉
+http://activefrance.net/W8MEP61/2X2H702/69101
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/e! entertainement.png" ,LATINO - E! ENTERTAINMENT
+http://activefrance.net/W8MEP61/2X2H702/30659
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/GOLDEN.png" ,LATINO - GOLDEN
+http://activefrance.net/W8MEP61/2X2H702/30654
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/GOLDENEDGE.png" ,LATINO - GOLDEN EDGE
+http://activefrance.net/W8MEP61/2X2H702/30653
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CANALDELASESTRELLAS.png" ,LATINO - CANAL DE LAS ESTRELLAS.
+http://activefrance.net/W8MEP61/2X2H702/30675
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HONDURAS/Canal11.png" ,LATINO - CANAL 11
+http://activefrance.net/W8MEP61/2X2H702/30636
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CANAL5.png" ,LATINO - CANAL 5
+http://activefrance.net/W8MEP61/2X2H702/30634
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CentroAmericaTV.png" ,LATINO - CENTROAMERICA ᵛᶦᵖ TV
+http://activefrance.net/W8MEP61/2X2H702/195245
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/WARNERCHANNEL.png" ,LATINO - WARNER CHANNEL
+http://activefrance.net/W8MEP61/2X2H702/30674
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/estrella.png" ,LATINO - ESTRELLA ᵛᶦᵖ TV
+http://activefrance.net/W8MEP61/2X2H702/195246
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/unicable.png" ,LATINO - UNICABLE
+http://activefrance.net/W8MEP61/2X2H702/30678
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/COMEDYCENTRALTV.png" ,LATINO - COMEDY CENTRAL
+http://activefrance.net/W8MEP61/2X2H702/30615
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/FOROTV.png" ,LATINO - FORO TV
+http://activefrance.net/W8MEP61/2X2H702/30672
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/SYFY.png" ,LATINO - SYFY
+http://activefrance.net/W8MEP61/2X2H702/30671
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TCM.png" ,LATINO - TCM
+http://activefrance.net/W8MEP61/2X2H702/30670
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TLC.png" ,LATINO - TLC
+http://activefrance.net/W8MEP61/2X2H702/30669
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/AXNTV.png" ,LATINO - AXN
+http://activefrance.net/W8MEP61/2X2H702/30666
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/AZTECACLIC.png" ,LATINO - AZTECA CLIC
+http://activefrance.net/W8MEP61/2X2H702/69066
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/azteca7.png" ,LATINO - AZTECA 7
+http://activefrance.net/W8MEP61/2X2H702/30640
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/LIFETIME.png" ,LATINO - LIFETIME
+http://activefrance.net/W8MEP61/2X2H702/30658
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/sony.png" ,LATINO - SONY
+http://activefrance.net/W8MEP61/2X2H702/30657
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Caracol_Novelas_2017 (1).png" ,LATINO - CARACOL NOVELAS
+http://activefrance.net/W8MEP61/2X2H702/213025
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/AETV.png" ,LATINO - A&E
+http://activefrance.net/W8MEP61/2X2H702/30645
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/AMCTV.png" ,LATINO - AMC
+http://activefrance.net/W8MEP61/2X2H702/30644
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/arts.png" ,LATINO - ARTS
+http://activefrance.net/W8MEP61/2X2H702/30643
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/AZUNO.png" ,LATINO - AZ UNO
+http://activefrance.net/W8MEP61/2X2H702/30641
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CLARO.png" ,LATINO - CLARO
+http://activefrance.net/W8MEP61/2X2H702/30630
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/ALBANIA/15.png" ,LATINO - HISTORY
+http://activefrance.net/W8MEP61/2X2H702/30628
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/holatv.png" ,LATINO - HOLA TV
+http://activefrance.net/W8MEP61/2X2H702/30627
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/MelinioTV.png" ,LATINO - MILENIO TV
+http://activefrance.net/W8MEP61/2X2H702/30623
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/MASCHICTV.png" ,LATINO - MASCHIC
+http://activefrance.net/W8MEP61/2X2H702/69098
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/GOURMET.png" ,LATINO - GOURMET
+http://activefrance.net/W8MEP61/2X2H702/69093
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/UNIMAS.png" ,LATINO - UNIMAS
+http://activefrance.net/W8MEP61/2X2H702/69088
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TRUTVCHANNEL.png" ,LATINO - TRU TV
+http://activefrance.net/W8MEP61/2X2H702/69087
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TDN.png" ,LATINO - TDN
+http://activefrance.net/W8MEP61/2X2H702/69085
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ONCE.png" ,LATINO - ONCE
+http://activefrance.net/W8MEP61/2X2H702/69083
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/GLITZ.png" ,LATINO - GLITZ
+http://activefrance.net/W8MEP61/2X2H702/69080
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/ASIA/TURKEY/FX.png" ,LATINO - FX
+http://activefrance.net/W8MEP61/2X2H702/30656
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/DISNEYCHANNEL.png" ,LATINO - DISNEY CHANNEL.
+http://activefrance.net/W8MEP61/2X2H702/30616
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/NICKJR.png" ,LATINO - NICK JR
+http://activefrance.net/W8MEP61/2X2H702/30618
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/NICKELODEON.png" ,LATINO - NICKELODEON
+http://activefrance.net/W8MEP61/2X2H702/30617
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CARTOONNETWORK.png" ,LATINO - CARTOON NETWORK.
+http://activefrance.net/W8MEP61/2X2H702/30614
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/SPACE.png" ,LATINO - SPACE
+http://activefrance.net/W8MEP61/2X2H702/30619
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/BOOMERANG.png" ,LATINO - BOOMERANG
+http://activefrance.net/W8MEP61/2X2H702/30613
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/CANADA/Disney_Junior.png" ,LATINO - DISNEY JR
+http://activefrance.net/W8MEP61/2X2H702/30612
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/NICKELODEON.png" ,LATINO - NICK 2
+http://activefrance.net/W8MEP61/2X2H702/69100
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/EUROPE/POLONIA/ANIMALPLANETHD.png" ,LATINO - ANIMAL PLANET.
+http://activefrance.net/W8MEP61/2X2H702/30608
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/NATGEOWILD.png" ,LATINO - NATGEO WILD
+http://activefrance.net/W8MEP61/2X2H702/30610
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/NATIONAL.png" ,LATINO - NATIONAL GEOGRAPHIC.
+http://activefrance.net/W8MEP61/2X2H702/30609
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/DISCOVERYCHANNELTV.png" ,LATINO - DISCOVERY CHANNEL
+http://activefrance.net/W8MEP61/2X2H702/30606
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/DISCOVERYHOME&HEALTH.png" ,LATINO - DISCOVERY  HOME & HEALTH
+http://activefrance.net/W8MEP61/2X2H702/30607
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/DISCOVERYKIDS.png" ,LATINO - DISCOVERY KIDS
+http://activefrance.net/W8MEP61/2X2H702/30605
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/EUROPE/FRANCE/DISCOVERYFHD.png" ,LATINO - DISCOVERY SCIENCE
+http://activefrance.net/W8MEP61/2X2H702/30604
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/DISCOVERYTURBO.png" ,LATINO - DISCOVERY TURBO.
+http://activefrance.net/W8MEP61/2X2H702/30603
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/MEXICO/discovery-theater.png" ,LATINO - DISCOVERY THEATER
+http://activefrance.net/W8MEP61/2X2H702/69090
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/DiscoveryInv.png" ,LATINO - INVESTIGATION DISCOVERY
+http://activefrance.net/W8MEP61/2X2H702/30602
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/DiscoveryInv.png" ,LATINO - ID
+http://activefrance.net/W8MEP61/2X2H702/69068
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/DiscoveryInv.png" ,LATINO - ID
+http://activefrance.net/W8MEP61/2X2H702/69067
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AMERICA/USA/ESPN.png" tvg-id="espndeportes.us" ,LATINO - ESPN Deportes ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/200139
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ESPN.png" ,LATINO - ESPN
+http://activefrance.net/W8MEP61/2X2H702/30583
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ESPN2.png" ,LATINO - ESPN 2.
+http://activefrance.net/W8MEP61/2X2H702/30582
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ESPN3.png" ,LATINO - ESPN 3
+http://activefrance.net/W8MEP61/2X2H702/30581
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/FOXSPORTHD.png" tvg-id="foxsports.mx" ,LATINO - FOX SPORT
+http://activefrance.net/W8MEP61/2X2H702/30580
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/FOXSPORT2.png" tvg-id="foxsports2.mx" ,LATINO - FOX SPORT 2
+http://activefrance.net/W8MEP61/2X2H702/30579
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TUDN.png" ,LATINO - TUDN XTRA 1
+http://activefrance.net/W8MEP61/2X2H702/303544
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TUDN.png" ,LATINO - TUDN XTRA 2
+http://activefrance.net/W8MEP61/2X2H702/303545
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TUDN.png" ,LATINO - TUDN XTRA 3
+http://activefrance.net/W8MEP61/2X2H702/303546
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TUDN.png" ,LATINO - TUDN XTRA 4
+http://activefrance.net/W8MEP61/2X2H702/303547
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TUDN.png" ,LATINO - TUDN XTRA 5
+http://activefrance.net/W8MEP61/2X2H702/303548
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TUDN.png" ,LATINO - TUDN XTRA 6
+http://activefrance.net/W8MEP61/2X2H702/303549
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CLAROSPORT.png" ,LATINO - CLARO SPORT 2
+http://activefrance.net/W8MEP61/2X2H702/69074
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CLAROSPORT.png" ,LATINO - CLARO SPORT
+http://activefrance.net/W8MEP61/2X2H702/69073
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/VH1.png" ,LATINO - VH1
+http://activefrance.net/W8MEP61/2X2H702/30648
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/EXYU/htv.png" ,LATINO - HTV
+http://activefrance.net/W8MEP61/2X2H702/30626
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/MTV..png" ,LATINO - MTV.
+http://activefrance.net/W8MEP61/2X2H702/30622
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AFRICA/CANAL+/TRACECARIBBEAN.png" ,LATINO - TRACE CARIBBEAN
+http://activefrance.net/W8MEP61/2X2H702/195578
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AFRICA/CANAL+/TRACELATINA.png" ,LATINO - TRACE LATINA
+http://activefrance.net/W8MEP61/2X2H702/195579
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/flag/ARGENTINA0.png" ,##### ARGENTINA - GENERAL #####
+http://activefrance.net/W8MEP61/2X2H702/30759
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/AMERICANTV.png" tvg-id="americatv.ar" ,ARG - AMERICA TV HD ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/197715
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/ELTRECE.png" tvg-id="el13.ar" ,ARG - EL TRECE HD ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/197719
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/elnueve.png" ,ARG - EL NUEVE HD ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/197718
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CHILE/A24.png" tvg-id="america24.ar" ,ARG - A24 HD ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/197726
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/TELEFETV.png" tvg-id="telefe.ar" ,ARG - TELEFE HD ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/197716
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/TVP.png" ,ARG - TVP HD ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/197717
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/TN.png" tvg-id="tn.ar" ,ARG - TN HD ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/197729
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AMERICA/USA/TYCSPORTSCHANNEL.png" tvg-id="tycsports.ar" ,ARG - TYC SPORTS HD ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/197732
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/TNt.png" tvg-id="tntsports.ar" ,ARG - TNT SPORTS HD ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/197733
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/AMERICANTV.png" tvg-id="americatv.ar" ,ARG - AMERICA TV
+http://activefrance.net/W8MEP61/2X2H702/30755
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/canal ciudad.png" ,ARG - CANAL CIUDAD ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/197721
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/canal ciudad.png" tvg-id="canaldelaciudad.ar" ,ARG - CANAL DE LA CIUDAD
+http://activefrance.net/W8MEP61/2X2H702/69173
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/C26.png" ,ARG - CANAL 26
+http://activefrance.net/W8MEP61/2X2H702/30752
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/CANAL4.png" ,ARG - CANAL 4
+http://activefrance.net/W8MEP61/2X2H702/30751
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/Ciudadmagazine.png" ,ARG - CIUDAD MAGAZINE ◉
+http://activefrance.net/W8MEP61/2X2H702/30747
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/ELTRECE.png" tvg-id="el13.ar" ,ARG - EL TRECE
+http://activefrance.net/W8MEP61/2X2H702/30740
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/elnueve.png" ,ARG - ELNUEVE
+http://activefrance.net/W8MEP61/2X2H702/30739
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CHILE/c5n.png" tvg-id="c5n.ar" ,ARG - C5N ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/197725
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/C5N.png" tvg-id="c5n.ar" ,ARG - C5N
+http://activefrance.net/W8MEP61/2X2H702/30754
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/A24.png" tvg-id="america24.ar" ,ARG - A24
+http://activefrance.net/W8MEP61/2X2H702/30756
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/tv publica.png" tvg-id="tvpublica.ar" ,ARG - TV PUBLICA ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/216084
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/tv publica.png" tvg-id="tvpublica.ar" ,ARG - TV PUBLICA
+http://activefrance.net/W8MEP61/2X2H702/30721
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/TELEFETV.png" tvg-id="telefe.ar" ,ARG - TELEFE
+http://activefrance.net/W8MEP61/2X2H702/30727
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/C26.png" tvg-id="channel26.ar" ,ARG - 26TV ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/197728
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/TN.png" tvg-id="tn.ar" ,ARG - TN
+http://activefrance.net/W8MEP61/2X2H702/30724
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/LNPLUS.png" ,ARG - LN+
+http://activefrance.net/W8MEP61/2X2H702/30731
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/CRONICATV.png" ,ARG - CRONICA
+http://activefrance.net/W8MEP61/2X2H702/30745
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/FOXSPOTSPREMUIM.png" tvg-id="foxsports.ar" ,ARG - ESPN PREMIUM ◉
+http://activefrance.net/W8MEP61/2X2H702/30758
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ESPN.png" tvg-id="espn.ar" ,ARG - ESPN
+http://activefrance.net/W8MEP61/2X2H702/30737
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/ESPNEXTRA.png" tvg-id="espnxtra.ar" ,ARG - ESPN+
+http://activefrance.net/W8MEP61/2X2H702/69178
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ESPN2.png" tvg-id="espn2.ar" ,ARG - ESPN 2
+http://activefrance.net/W8MEP61/2X2H702/30736
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ESPN3.png" tvg-id="espn3.ar" ,ARG - ESPN 3
+http://activefrance.net/W8MEP61/2X2H702/30735
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/DTVSPORTS.png" tvg-id="directvsportmix.ar" ,ARG - DIRECT TV SPORTS
+http://activefrance.net/W8MEP61/2X2H702/30743
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/DTVSPORTS.png" ,ARG - DIRECT TV SPORTS 2
+http://activefrance.net/W8MEP61/2X2H702/30742
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/DirectTVsport+.png" tvg-id="directtvsportplus.ar" ,ARG - DIRECT TV SPORTS PLUS
+http://activefrance.net/W8MEP61/2X2H702/30741
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/FOXSPORTS.png" tvg-id="foxsports.ar" ,ARG - FOX SPORT
+http://activefrance.net/W8MEP61/2X2H702/149797
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/FOXSPORTS2arg.png" tvg-id="foxsports2.ar" ,ARG - FOX SPORT 2
+http://activefrance.net/W8MEP61/2X2H702/30733
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/FOXSPORTs3arg.png" tvg-id="foxsports3.ar" ,ARG - FOX SPORT 3
+http://activefrance.net/W8MEP61/2X2H702/30732
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/TNt.png" tvg-id="tnt.ar" ,ARG - TNT
+http://activefrance.net/W8MEP61/2X2H702/30723
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AMERICA/USA/TYCSPORTSCHANNEL.png" tvg-id="tycsports.ar" ,ARG - TYC
+http://activefrance.net/W8MEP61/2X2H702/30720
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ENCUENTRO.png" tvg-id="encuentro.ar" ,ARG - ENCUENTRO
+http://activefrance.net/W8MEP61/2X2H702/69169
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/MUSICTOP.png" ,ARG - MUSIC TOP
+http://activefrance.net/W8MEP61/2X2H702/30730
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/CINEAR.png" tvg-id="cine.ar" ,ARG - CINE AR
+http://activefrance.net/W8MEP61/2X2H702/69174
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/Pakapaka.png" tvg-id="pakapaka.ar" ,ARG - PAKAPAKA
+http://activefrance.net/W8MEP61/2X2H702/69176
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/MAGFLAGS/CHELI.png" ,##### CHILE - GENERAL #####
+http://activefrance.net/W8MEP61/2X2H702/30719
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/13C.png" tvg-id="antena3.cl" ,CHI - CANAL13HD ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/187656
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CHILE/MEGATV.png" tvg-id="mega.cl" ,CHI - MEGA HD ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/187657
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/tnt-sports.png" ,CHI - TNT SPORTS 1 HD
+http://activefrance.net/W8MEP61/2X2H702/335502
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/tnt-sports.png" tvg-id="tntsport2.cl" ,CHI - TNT SPORTS 2 HD
+http://activefrance.net/W8MEP61/2X2H702/335503
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/tnt-sports.png" tvg-id="tntsport3.cl" ,CHI - TNT SPORTS 3 HD
+http://activefrance.net/W8MEP61/2X2H702/335504
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CHILE/TVN.png" tvg-id="tvnchile.cl" ,CHI - TVN ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/187658
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CHILE/TVN.png" tvg-id="tvnchile.cl" ,CHI - TVN
+http://activefrance.net/W8MEP61/2X2H702/30711
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/13C.png" tvg-id="13c.cl" ,CHI - 13C ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/187661
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/13C.png" tvg-id="antena3.cl" ,CHI - 13 CABLE
+http://activefrance.net/W8MEP61/2X2H702/30718
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/13C.png" tvg-id="antena3.cl" ,CHI - CANAL13
+http://activefrance.net/W8MEP61/2X2H702/30717
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CHILE/cnn-chile.png" tvg-id="cnnchile.cl" ,CHI - CNN CHILE ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/197741
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CHILE/cnn-chile.png" tvg-id="cnnchile.cl" ,CHI - CNN
+http://activefrance.net/W8MEP61/2X2H702/30714
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CHILE/LARED.png" tvg-id="lared.cl" ,CHI - LARED ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/187660
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CHILE/LARED.png" tvg-id="lared.cl" ,CHI - LA RED
+http://activefrance.net/W8MEP61/2X2H702/30713
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CHILE/MEGATV.png" tvg-id="mega.cl" ,CHI - MEGA
+http://activefrance.net/W8MEP61/2X2H702/30712
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/chilevision.png" tvg-id="chilevision.cl" ,CHI - CHILEVISION
+http://activefrance.net/W8MEP61/2X2H702/187659
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CHILE/FOXSPORTS.png" tvg-id="fox.cl" ,CHI - FOX SPORTS
+http://activefrance.net/W8MEP61/2X2H702/69192
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/flag/COLOMBIANA.png" ,##### COLOMBIA GENERAL #####
+http://activefrance.net/W8MEP61/2X2H702/30709
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Rcn.png" tvg-id="rcnhd.co" ,CO - RCN HD
+http://activefrance.net/W8MEP61/2X2H702/30702
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal Capital.png" tvg-id="capitaltv.pe" ,CO - CAPITAL HD ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/187640
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CaracolTV.png" tvg-id="caracol.co" ,CO - CARACOL ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/190239
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CaracolTV.png" tvg-id="caracolhd.co" ,CO - CARACOL
+http://activefrance.net/W8MEP61/2X2H702/30706
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Caracol_HD2.png" tvg-id="caracolhd.co" ,CO - CARACOL 2 ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190240
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CaracolTV.png" tvg-id="caracolinternacional.co" ,CO - CARACOL INTERNACIONAL ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/192830
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CaracolTV.png" tvg-id="caracolinternacional.co" ,CO - CARACOL INTERNACIONAL
+http://activefrance.net/W8MEP61/2X2H702/69188
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Rcn.png" tvg-id="rcnhd.co" ,CO - RCN ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/190242
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Rcn.png" tvg-id="rcn.co" ,CO - RCN
+http://activefrance.net/W8MEP61/2X2H702/30703
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/COLOMBIA/RCNNOVELAS.png" tvg-id="rcnnovelas.co" ,CO - RCN NOVELAS ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/190244
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/COLOMBIA/RCNNOVELAS.png" tvg-id="rcnnovelas.co" ,CO - RCN NOVELAS
+http://activefrance.net/W8MEP61/2X2H702/30701
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal Uno.png" tvg-id="canal1.co" ,CO - CANAL UNO ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190248
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal Capital.png" tvg-id="canalcapital.co" ,CO - CANAL CAPITAL ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190255
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal Institucional.png" tvg-id="canalinstitucional.co" ,CO - CANAL INSTITUCIONAL ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190256
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/COLOMBIA/TELEMEDELLIN.png" tvg-id="telemedellin.co" ,CO - TELEMEDELLIN ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190253
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/COLOMBIA/TELEMEDELLIN.png" tvg-id="telemedellin.co" ,CO - TELE MEDELLIN
+http://activefrance.net/W8MEP61/2X2H702/30699
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/COLOMBIA/TELEMEDELLIN.png" tvg-id="telemedellin.co" ,CO - TELE MEDELLIN
+http://activefrance.net/W8MEP61/2X2H702/79037
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Telepacifico.png" tvg-id="telepacifico.co" ,CO - TELEPACIFICO ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190254
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Telepacifico.png" tvg-id="telepacifico.co" ,CO - TELEPACIFICO
+http://activefrance.net/W8MEP61/2X2H702/30697
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Teleislas.png" ,CO - TELEISLAS ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/330201
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Teleislas.png" ,CO - TELEISLAS
+http://activefrance.net/W8MEP61/2X2H702/79043
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/calitv.png" tvg-id="calitv.co" ,CO - CALI TV
+http://activefrance.net/W8MEP61/2X2H702/79020
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/calitv.png" tvg-id="calitv.co" ,CO - CALI TV
+http://activefrance.net/W8MEP61/2X2H702/79021
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/COLOMBIA/CITYTVVIP.png" tvg-id="citytv.co" ,CO - CITYTV ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190249
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/COLOMBIA/CITYTV.png" tvg-id="citytv.co" ,CO - CITY TV
+http://activefrance.net/W8MEP61/2X2H702/30705
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Trece2017.png" ,CO - EL TRECE PLUS ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/330200
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Trece2017.png" tvg-id="canaltrece.co" ,CO - TRECE
+http://activefrance.net/W8MEP61/2X2H702/69190
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Se%C3%B1al.png" tvg-id="senal.co" ,CO -  SEÑAL COLOMBIA ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/191361
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/COLOMBIA/SENALCOLOMBIA.png" tvg-id="senal.co" ,CO - SENAL COLOMBIA
+http://activefrance.net/W8MEP61/2X2H702/30700
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CABLENOTICIAS.png" tvg-id="cablenoticias.co" ,CO - CABLENOTICIAS
+http://activefrance.net/W8MEP61/2X2H702/30708
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/COLOMBIA/Teleantioquia.png" tvg-id="teleantioquia.co" ,CO - TELEANTIOQUIA ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190251
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/telecaribe.png" tvg-id="telecaribe.co" ,CO - TELECARIBE ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190252
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/COLOMBIA/NTN24tv.png" tvg-id="nuestratelenoticias24.co" ,CO - NTN24 ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/190246
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/El Tiempo.png" tvg-id="eltiempo.co" ,CO - EL TIEMPO ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190247
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Zoom.png" ,CO - ZOOM ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/192832
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TV-AGRO.png" ,CO - TV AGRO ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/213027
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/COLOMBIA/WinSports.png" tvg-id="winsports.co" ,CO - WINSPORTS ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/190259
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/COLOMBIA/WinSportsPlus.png" tvg-id="winsportsplus.co" ,CO - WINSPORTS PLUS ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/190260
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Cosmovisin.png" tvg-id="cosmovision.co" ,CO - COSMOVISION ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/192833
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/COLOMBIA/LaKalle.png" ,CO - LA KALLE ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190258
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/MAGFLAGS/CUBA.png" ,##### CUBA - GENERAL #####
+http://activefrance.net/W8MEP61/2X2H702/30696
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CUBAVISION.png" ,CUB - CUBAVISION ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/187616
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CUBAVISION.png" ,CUB - CUBAVISION
+http://activefrance.net/W8MEP61/2X2H702/30695
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CUBAVISIONINTER.png" ,CUB - CUBAVISIONINTER ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/187615
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Cuba-max-tv.png" ,CUB - CUBAMAX ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/195247
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CUBAVISIONINTER.png" ,CUB - CUBAVISION INTERNACIONAL
+http://activefrance.net/W8MEP61/2X2H702/30694
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/AMERICATELEVISION.png" ,CUB - AMERICATEVE
+http://activefrance.net/W8MEP61/2X2H702/69075
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/MAGFLAGS/IKIODOR.png" ,##### ECUADOR - GENERAL #####
+http://activefrance.net/W8MEP61/2X2H702/30691
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/EcuadorTV.png" ,EC - ECUADORTV ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190264
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/EcuadorTV.png" ,EC - ECUADOR TV
+http://activefrance.net/W8MEP61/2X2H702/30689
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Ecuavisa.png" ,EC - ECUAVISA ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190265
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/EQUADOR/Ecuavisa.png" ,EC - ECUAVISA
+http://activefrance.net/W8MEP61/2X2H702/30688
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Ecuador-TC.png" ,EC - ECUADOR TC ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190266
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Ecuador-TC.png" ,EC - TC ECUADOR
+http://activefrance.net/W8MEP61/2X2H702/30683
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/EQUADOR/Teleamazonas.png" ,EC - TELEAMAZONAS ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/190262
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal Uno.png" ,EC - CANAL UNO
+http://activefrance.net/W8MEP61/2X2H702/30690
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/RTS.png" ,EC - RTS
+http://activefrance.net/W8MEP61/2X2H702/30684
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/futbol.png" ,EC - CANAL DEL FUTBOL
+http://activefrance.net/W8MEP61/2X2H702/914911
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/MAGFLAGS/PANAMA.png" ,##### PANAMA - GENERAL #####
+http://activefrance.net/W8MEP61/2X2H702/30578
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HONDURAS/NEXCANAL.png" ,PN - NEX CANAL 21
+http://activefrance.net/W8MEP61/2X2H702/214645
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HONDURAS/RPC.png" ,PN - RPC TV
+http://activefrance.net/W8MEP61/2X2H702/214646
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HONDURAS/TELEMETRO.png" ,PN - TELEMETRO
+http://activefrance.net/W8MEP61/2X2H702/214648
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HONDURAS/TVN.png" ,PN - TVN
+http://activefrance.net/W8MEP61/2X2H702/214649
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/MAGFLAGS/PERO.png" ,##### PERU - GENERAL #####
+http://activefrance.net/W8MEP61/2X2H702/30575
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Latina.png" tvg-id="frecuencialatina.pe" ,PER - LATINA HD ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/187628
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PERU/TVPE.png" tvg-id="tvperu.pe" ,PER - TV PERU HD ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/187633
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PERU/EXITOSAHD.png" tvg-id="exitosa.pe" ,PER - EXITOSA HD ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/187653
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PERU/IPE.png" ,PER - IPE HD ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/187639
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CANAL N.png" tvg-id="canaln.pe" ,PER - CANAL N HD ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/187634
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PERU/MOVISTAR.png" ,PER - MOVISTAR DEPORTES HD ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/187629
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/GOL PERU.png" tvg-id="golperu.pe" ,PER - GOL PERU HD ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/187643
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PERU/DTVSPORTSTV.png" ,PER - DTV SPORTS PLUS HD  ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/197713
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PERU/DTVSPORTS.png" ,PER - DTV SPORTS 1 HD ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/197711
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PERU/DTVSPORTS.png" ,PER - DTV SPORTS 2 HD ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/197712
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AMERICA/BRASIL/ESPN-1.png" ,PER - ESPN EXTRA HD
+http://activefrance.net/W8MEP61/2X2H702/312518
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AUSTRALIA/espn.png" ,PER - ESPN HD
+http://activefrance.net/W8MEP61/2X2H702/312515
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/MEXICO/ESPN2.png" ,PER - ESPN 2 HD
+http://activefrance.net/W8MEP61/2X2H702/312516
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/MEXICO/ESPN3.png" ,PER - ESPN 3 HD
+http://activefrance.net/W8MEP61/2X2H702/312517
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AMERICA/USA/TYCSPORTSCHANNEL.png" ,PER - TYC SPORTS 1 HD
+http://activefrance.net/W8MEP61/2X2H702/312522
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AMERICA/USA/TYCSPORTSCHANNEL.png" ,PER - TYC SPORTS 2 HD
+http://activefrance.net/W8MEP61/2X2H702/312523
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AMERICA/USA/TYCSPORTSCHANNEL.png" ,PER - TYC SPORTS 3 HD
+http://activefrance.net/W8MEP61/2X2H702/312524
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/MEXICO/foxsport1.png" ,PER - FOX SPORTS 1 HD
+http://activefrance.net/W8MEP61/2X2H702/312519
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/MEXICO/FOXSPORT2.png" ,PER - FOX SPORTS 2 HD
+http://activefrance.net/W8MEP61/2X2H702/312520
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/MEXICO/Fox-Sports-3.png" ,PER - FOX SPORTS 3 HD
+http://activefrance.net/W8MEP61/2X2H702/312521
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PANAMERICANA.png" tvg-id="panamericanatv.pe" ,PER - PANAMERICANA ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/187631
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PANAMERICANA.png" tvg-id="panamericanatv.pe" ,PER - PANAMERICANA
+http://activefrance.net/W8MEP61/2X2H702/30568
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PERU/AMERICANTV.png" tvg-id="americatelevision.pe" ,PER - AMERICA ᵛᶦᵖ ◉
+http://activefrance.net/W8MEP61/2X2H702/187630
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PERU/AMERICANTV.png" tvg-id="americatelevision.pe" ,PER - AMERICA TELEVISION
+http://activefrance.net/W8MEP61/2X2H702/30574
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Latina.png" tvg-id="frecuencialatina.pe" ,PER - LATINA
+http://activefrance.net/W8MEP61/2X2H702/30570
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PERU/TVPERU.png" tvg-id="tvperu.pe" ,PER - TV PERU
+http://activefrance.net/W8MEP61/2X2H702/30567
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PERU/MAGICO.png" tvg-id="perumagico.pe" ,PER - PERUMAGICO ᵛᶦᵖ
+http://activefrance.net/W8MEP61/2X2H702/187632
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal Capital.png" tvg-id="capitaltv.pe" ,PER - CAPITAL TV
+http://activefrance.net/W8MEP61/2X2H702/30571
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PERU/ATV+.png" tvg-id="atvplus.pe" ,PER - ATV+
+http://activefrance.net/W8MEP61/2X2H702/69200
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PERU/ATV.png" tvg-id="atv.pe" ,PER - ATV
+http://activefrance.net/W8MEP61/2X2H702/30572
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/LIGA1 MAX.png" ,PER - LIGA1 MAX
+http://activefrance.net/W8MEP61/2X2H702/792865
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/MAGFLAGS/URUGUAY.png" ,##### URUGUAY - GENERAL #####
+http://activefrance.net/W8MEP61/2X2H702/30560
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/vtv.png" ,UY - VTV HD
+http://activefrance.net/W8MEP61/2X2H702/30554
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal 2 SanC.png" ,UY - CANAL 2 HD SAN CARLOS
+http://activefrance.net/W8MEP61/2X2H702/273244
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/NBA_TV.png" ,UY - NBA TV INTERNATIONAL HD
+http://activefrance.net/W8MEP61/2X2H702/273324
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/LN+.png" ,UY - LN+ HD
+http://activefrance.net/W8MEP61/2X2H702/273330
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/El-Nueve-HD.png" ,UY - EL NUEVE HD
+http://activefrance.net/W8MEP61/2X2H702/273351
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ESPN_logo.png" ,UY - ESPN 2 -ANDINA HD
+http://activefrance.net/W8MEP61/2X2H702/273350
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/vtv.png" ,UY - VTV PLUS
+http://activefrance.net/W8MEP61/2X2H702/30555
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/URUGUAY/TV_Ciudad.png" ,UY - TV CIUDAD
+http://activefrance.net/W8MEP61/2X2H702/69171
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/URUGUAY/canal10.png" ,UY - CANAL 10
+http://activefrance.net/W8MEP61/2X2H702/30559
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal 2 VisiónC.png" ,UY - CANAL 2 VISIÓN CANARIA
+http://activefrance.net/W8MEP61/2X2H702/273246
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal 2 SanC.png" ,UY - CANAL 2 SAN CARLOS
+http://activefrance.net/W8MEP61/2X2H702/273247
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal 4 P.png" ,UY - CANAL 4 PAYSANDU
+http://activefrance.net/W8MEP61/2X2H702/273248
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal 4 JuanL.png" ,UY - CANAL 4 JUAN LACAZE
+http://activefrance.net/W8MEP61/2X2H702/273250
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal 4 Salto.png" ,UY - CANAL 4 SALTO
+http://activefrance.net/W8MEP61/2X2H702/273251
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/EUROPE/ITALY/CANALE5-1.png" ,UY - CANAL 5
+http://activefrance.net/W8MEP61/2X2H702/273253
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal 6 Durazno.png" ,UY - CANAL 6 DURAZNO
+http://activefrance.net/W8MEP61/2X2H702/273254
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal 7 Punta.png" ,uy - canal 7 punta
+http://activefrance.net/W8MEP61/2X2H702/273255
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal 7 Punta.png" ,UY - CANAL 7 PUNTA
+http://activefrance.net/W8MEP61/2X2H702/273256
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal77.png" ,UY - CANAL 8 ARTIGAS
+http://activefrance.net/W8MEP61/2X2H702/273258
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal77.png" ,UY - CANAL 8 DURAZNO
+http://activefrance.net/W8MEP61/2X2H702/273259
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal 8 Rivera.png" ,UY - CANAL 8 RIVERA
+http://activefrance.net/W8MEP61/2X2H702/273260
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal 8 Salto.png" ,UY - CANAL 8 SALTO
+http://activefrance.net/W8MEP61/2X2H702/273261
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Canal 9 Telerocha.png" ,UY - CANAL 9 TELEROCHA
+http://activefrance.net/W8MEP61/2X2H702/273262
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/GUATIMALA/canal11.png" ,UY - CANAL 11 LAS PIEDRAS
+http://activefrance.net/W8MEP61/2X2H702/273263
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/GUATIMALA/canal11.png" ,UY - CANAL 11 TREINTA Y TRES
+http://activefrance.net/W8MEP61/2X2H702/273264
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ARGENTINA/C26.png" ,UY - CANAL 26
+http://activefrance.net/W8MEP61/2X2H702/273268
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CamaradeRepr.png" ,UY - CÁMARA DE REPRESENTANTES
+http://activefrance.net/W8MEP61/2X2H702/273270
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Logo-France-24.png" ,UY - FRANCE 24
+http://activefrance.net/W8MEP61/2X2H702/273272
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Al-Jazeera.png" ,UY - ALJAZEERA
+http://activefrance.net/W8MEP61/2X2H702/273294
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Al-Jazeera.png" ,UY - AL JAZEERA
+http://activefrance.net/W8MEP61/2X2H702/273297
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/RIO-URUGUAY.png" ,UY - RIO URUGUAY TV
+http://activefrance.net/W8MEP61/2X2H702/273273
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Uruguay-Presidencia.png" ,UY - URUGUAY PRESIDENCIA
+http://activefrance.net/W8MEP61/2X2H702/273276
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ArtigasTV_11.png" ,UY - ARTIGAS TELEVISION
+http://activefrance.net/W8MEP61/2X2H702/273280
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Durazno-tV.png" ,UY - DURAZNO TV
+http://activefrance.net/W8MEP61/2X2H702/273281
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Plazacanal.jpg" ,UY - PLAZACANAL TREINTA Y TRES
+http://activefrance.net/W8MEP61/2X2H702/273283
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TeleSUR.png" ,UY - TELESUR
+http://activefrance.net/W8MEP61/2X2H702/273285
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Maronas-Entertainment.png" ,UY - MARONAS ENTERTAINMENT
+http://activefrance.net/W8MEP61/2X2H702/273286
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Florida Televisora Color.png" ,UY - FLORIDA TELEVISORA COLOR
+http://activefrance.net/W8MEP61/2X2H702/273287
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/anpi-logo.png" ,UY - ANPI TV
+http://activefrance.net/W8MEP61/2X2H702/273288
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/RDTV-24HS.jpg" ,UY - RDTV 24HS
+http://activefrance.net/W8MEP61/2X2H702/273289
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/RT-Espanol.png" ,UY - RT ESPANOL
+http://activefrance.net/W8MEP61/2X2H702/273290
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/INDONESIA/DW1.png" ,UY - DW ESPANOL
+http://activefrance.net/W8MEP61/2X2H702/273291
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/A&V.png" ,UY - A&V
+http://activefrance.net/W8MEP61/2X2H702/273292
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/1000XHora TV.png" ,UY - 1000 X HORA TV
+http://activefrance.net/W8MEP61/2X2H702/273293
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Latina.png" ,UY - LATINA TV PAYSANDU
+http://activefrance.net/W8MEP61/2X2H702/273296
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TELE-R.png" ,UY - TELE R
+http://activefrance.net/W8MEP61/2X2H702/273300
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/USA/CNN.png" ,UY - CNN INTERNACIONAL
+http://activefrance.net/W8MEP61/2X2H702/273370
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/USA/CNN.png" ,UY - CNN EN ESPAÑOL
+http://activefrance.net/W8MEP61/2X2H702/273371
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/e! entertainement.png" ,UY - E! ENTERTAINMENT
+http://activefrance.net/W8MEP61/2X2H702/273353
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/1000XHora TV.png" ,UY - 1000XHORA TV
+http://activefrance.net/W8MEP61/2X2H702/273301
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/EUROPE/FRANCE/WARNER.png" ,UY - WARNER CHANNEL
+http://activefrance.net/W8MEP61/2X2H702/273303
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/universal.png" ,UY - UNIVERSAL CHILE
+http://activefrance.net/W8MEP61/2X2H702/273304
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Tru-tv.png" ,UY - TRU TV
+http://activefrance.net/W8MEP61/2X2H702/273305
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TNT-Series.png" ,UY - TNT SERIES
+http://activefrance.net/W8MEP61/2X2H702/273306
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/MEXICO/TNT.png" ,UY - TNT
+http://activefrance.net/W8MEP61/2X2H702/273307
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TLC.png" ,UY - TLC
+http://activefrance.net/W8MEP61/2X2H702/273309
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AMERICA/BRASIL/CINEMAX-HD-1.png" ,UY - CINEMAX
+http://activefrance.net/W8MEP61/2X2H702/273372
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/cine latino.png" ,UY - CINE LATINO
+http://activefrance.net/W8MEP61/2X2H702/273374
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/SPAIN/SERIES.png" ,UY - Atreseries
+http://activefrance.net/W8MEP61/2X2H702/273379
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TCM.png" ,UY - TCM
+http://activefrance.net/W8MEP61/2X2H702/273311
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/SyFy.png" ,UY - SYFY
+http://activefrance.net/W8MEP61/2X2H702/273313
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Studio-Universal.png" ,UY - STUDIO UNIVERSAL
+http://activefrance.net/W8MEP61/2X2H702/273314
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Star-Channel.png" ,UY - STAR CHANNEL (SOUTH)
+http://activefrance.net/W8MEP61/2X2H702/273316
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Space.png" ,UY - SPACE
+http://activefrance.net/W8MEP61/2X2H702/273317
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/sony-logo.png" ,UY - SONY
+http://activefrance.net/W8MEP61/2X2H702/273318
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Paramount_Network.png" ,UY - PARAMOUNT NETWORK
+http://activefrance.net/W8MEP61/2X2H702/273321
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/NATIONAL.png" ,UY - NATIONAL GEOGRAPHIC
+http://activefrance.net/W8MEP61/2X2H702/273325
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/maschic.png" ,UY - MAS CHIC
+http://activefrance.net/W8MEP61/2X2H702/273329
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/I-SAT.png" ,UY - I-SAT
+http://activefrance.net/W8MEP61/2X2H702/273333
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HOLATV.jpg" ,UY - HOLATV
+http://activefrance.net/W8MEP61/2X2H702/273335
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/ALBANIA/15.png" ,UY - HISTORY CHANNEL
+http://activefrance.net/W8MEP61/2X2H702/273336
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/H2-History.png" ,UY - H2 HISTORY
+http://activefrance.net/W8MEP61/2X2H702/273337
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Glitz.png" ,UY - GLITZ
+http://activefrance.net/W8MEP61/2X2H702/273339
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/EUROPE/EXYU/EXYO/FOODNETWORK-1.png" ,UY - FOOD NETWORK
+http://activefrance.net/W8MEP61/2X2H702/273344
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/E-Gourmet.png" ,UY - EL GOURMET
+http://activefrance.net/W8MEP61/2X2H702/273352
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Nick-Jr.png" ,UY - NICK JR
+http://activefrance.net/W8MEP61/2X2H702/273323
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/EUROPE/ROMANIA/DISNEYJR.png" ,UY - DISNEY JUNIOR
+http://activefrance.net/W8MEP61/2X2H702/273355
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Disney-Channel-Sur.png" ,UY - DISNEY CHANNEL SUR
+http://activefrance.net/W8MEP61/2X2H702/273356
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Cartoonito.png" ,UY - CARTOONITO
+http://activefrance.net/W8MEP61/2X2H702/273375
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/carton.png" ,UY - CARTOON NETWORK
+http://activefrance.net/W8MEP61/2X2H702/273376
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Bloomberg.png" ,UY - BLOOMBERG
+http://activefrance.net/W8MEP61/2X2H702/273377
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Discovery-Kids.png" ,UY - DISCOVERY KIDS
+http://activefrance.net/W8MEP61/2X2H702/273358
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Discovery-Turbo.png" ,UY - DISCOVERY TURBO
+http://activefrance.net/W8MEP61/2X2H702/273357
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AMERICA/BRASIL/DISCOVERY-IDHD-1.png" ,UY - DISCOVERY ID
+http://activefrance.net/W8MEP61/2X2H702/273359
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/DISCOVERYHOME&HEALTH.png" ,UY - DISCOVERY HOME & HEALTH
+http://activefrance.net/W8MEP61/2X2H702/273360
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/EUROPE/FRANCE/DISCOVERYFHD.png" ,UY - DISCOVERY CHANNEL
+http://activefrance.net/W8MEP61/2X2H702/273361
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Comedy-Central.png" ,UY - COMEDY CENTRAL
+http://activefrance.net/W8MEP61/2X2H702/273369
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/AXN.png" ,UY - AXN
+http://activefrance.net/W8MEP61/2X2H702/273378
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AMERICA/USA/A%26E.png" ,UY - A&E
+http://activefrance.net/W8MEP61/2X2H702/273384
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/FOX-Sports-3.png" ,UY - FOX SPORTS 3
+http://activefrance.net/W8MEP61/2X2H702/273342
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Golf_Channel_Logo_2018.png" ,UY - GOLF CHANNEL
+http://activefrance.net/W8MEP61/2X2H702/273338
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ESPN_logo.png" ,UY - ESPN
+http://activefrance.net/W8MEP61/2X2H702/273347
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ESPN_logo.png" ,UY - ESPN3
+http://activefrance.net/W8MEP61/2X2H702/273346
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ESPN_logo.png" ,UY - ESPN 4 SUR
+http://activefrance.net/W8MEP61/2X2H702/273349
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/DirectTVsport+.png" ,UY - DIRECTV SPORTS PLUS
+http://activefrance.net/W8MEP61/2X2H702/273362
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/DIRECTV-eventos.png" ,UY - DIRECTV SPORTS (URU)
+http://activefrance.net/W8MEP61/2X2H702/273363
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/DIRECTV-eventos.png" ,UY - DIRECTV SPORTS (ARG)
+http://activefrance.net/W8MEP61/2X2H702/273364
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/DIRECTV-eventos.png" ,UY - DIRECTV SPORTS 2
+http://activefrance.net/W8MEP61/2X2H702/273365
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/MTV.png" ,UY - MTV
+http://activefrance.net/W8MEP61/2X2H702/273328
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/EXYU/htv.png" ,UY - HTV
+http://activefrance.net/W8MEP61/2X2H702/273334
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/Fanduel.png" , UY - FANDUEL
+http://activefrance.net/W8MEP61/2X2H702/456064
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/FX_international.png" ,UY - FX AMERICA COLOMBIA
+http://activefrance.net/W8MEP61/2X2H702/273341
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/MAGFLAGS/VENEZUELA.png" ,##### VENEZUELA - GENERAL #####
+http://activefrance.net/W8MEP61/2X2H702/30553
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/VENEZUILA/TELESUR.png" ,VE - TELESUR
+http://activefrance.net/W8MEP61/2X2H702/30549
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/VENEZUILA/TELESUR.png" ,VE - TELESUR
+http://activefrance.net/W8MEP61/2X2H702/69195
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/VENEZUILA/TELEVEN.png" ,VE - TELEVEN
+http://activefrance.net/W8MEP61/2X2H702/30552
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/FLAGS/flag_puerto_rico.png" ,##### PUERTO RICO ######
+http://activefrance.net/W8MEP61/2X2H702/188893
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/FLAGS/flag_puerto_rico.png" tvg-id="WIRS2.us" ,PUERTO RICO - WAPA DEPORTES UHD
+http://activefrance.net/W8MEP61/2X2H702/174789
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/FLAGS/flag_puerto_rico.png" ,PUERTO RICO - ESPERANZA TV HD
+http://activefrance.net/W8MEP61/2X2H702/174785
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PERU/Buena_Vista.png" ,PUERTO RICO - BUENA TV
+http://activefrance.net/W8MEP61/2X2H702/271775
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PERU/Wapa.2.png" tvg-id="WIRS2.us" ,PUERTO RICO - WAPA
+http://activefrance.net/W8MEP61/2X2H702/271772
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PERU/CDM%20Internacional.png" ,PUERTO RICO - CDM INTERNACIONAL
+http://activefrance.net/W8MEP61/2X2H702/271769
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PERU/Univision.png" tvg-id="WIRS2.us" ,PUERTO RICO - UNIViSION
+http://activefrance.net/W8MEP61/2X2H702/271767
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PUERTO RICO/Teleonce.png" ,PUERTO RICO - TELEONCE 11 (WLII)
+http://activefrance.net/W8MEP61/2X2H702/277106
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/FLAGS/flag_puerto_rico.png" ,PUERTO RICO - CDM (PR)
+http://activefrance.net/W8MEP61/2X2H702/174791
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/FLAGS/flag_puerto_rico.png" tvg-id="WIRS2.us" ,PUERTO RICO - TELEMUNDO
+http://activefrance.net/W8MEP61/2X2H702/174783
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/flag/BOLIVIA.png" ,##### BOLIVIA - GENERAL #####
+http://activefrance.net/W8MEP61/2X2H702/191373
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HONDURAS/honduras.png" ,##### HONDURAS - GENERAL######
+http://activefrance.net/W8MEP61/2X2H702/214628
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HONDURAS/Canal_5.png" ,HOND - CANAL 5 HD
+http://activefrance.net/W8MEP61/2X2H702/214633
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HONDURAS/Canal6hd.png" ,HOND - CANAL 6 HD
+http://activefrance.net/W8MEP61/2X2H702/214635
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HONDURAS/Canal11.png" ,HOND - CANAL 11 HD
+http://activefrance.net/W8MEP61/2X2H702/214631
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HONDURAS/Canal10.png" ,HOND - CANAL 10
+http://activefrance.net/W8MEP61/2X2H702/214642
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HONDURAS/TSICHANNEL.png" ,HOND - AME 47 TV
+http://activefrance.net/W8MEP61/2X2H702/214639
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/HONDURAS/TVAzteca_Honduras.png" ,HOND - AZTECA HONDURAS
+http://activefrance.net/W8MEP61/2X2H702/214629
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/flag/Guatemala.png" ,##### GUATEMALA - GENERAL #####
+http://activefrance.net/W8MEP61/2X2H702/175012
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/GUATIMALA/Canal3.png" ,GT - CANAL 3
+http://activefrance.net/W8MEP61/2X2H702/215607
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/GUATIMALA/canal11.png" ,GT - CANAL 11
+http://activefrance.net/W8MEP61/2X2H702/215606
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/GUATIMALA/CANALANTIGUA.png" ,GT - CANAL ANTIGUA
+http://activefrance.net/W8MEP61/2X2H702/215609
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/GUATEVISION.png" ,GT - GUATEVISION
+http://activefrance.net/W8MEP61/2X2H702/215610
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/GUATIMALA/RETROTV.png" ,GT - RETRO TV
+http://activefrance.net/W8MEP61/2X2H702/215611
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="https://lo1.in/us/lextr.png" ,US - LATIN TUDN EXTRA 1
+http://activefrance.net/W8MEP61/2X2H702/524326
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="https://lo1.in/us/tdx2.png" ,US - LATIN TUDN EXTRA 2
+http://activefrance.net/W8MEP61/2X2H702/524327
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="https://lo1.in/us/tudx.png" ,US - LATIN TUDN EXTRA 3
+http://activefrance.net/W8MEP61/2X2H702/524328
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="https://lo1.in/us/tdxa4.png" ,US - LATIN TUDN EXTRA 4
+http://activefrance.net/W8MEP61/2X2H702/524329
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="https://lo1.in/us/tdx5.png" ,US - LATIN TUDN EXTRA 5
+http://activefrance.net/W8MEP61/2X2H702/524330
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="https://lo1.in/us/tdx6.png" ,US - LATIN TUDN EXTRA 6
+http://activefrance.net/W8MEP61/2X2H702/524331
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="https://lo1.in/us/tdxt7.png" ,US - LATIN TUDN EXTRA 7
+http://activefrance.net/W8MEP61/2X2H702/524333
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="https://lo1.in/us/tdx18.png" ,US - LATIN TUDN EXTRA 8
+http://activefrance.net/W8MEP61/2X2H702/524334
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="https://lo1.in/us/tudtr32.png" ,US - LATIN TUDN EXTRA 9
+http://activefrance.net/W8MEP61/2X2H702/524335
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="https://lo1.in/us/tud.png" ,US - LATIN TUDN EXTRA 10
+http://activefrance.net/W8MEP61/2X2H702/524336
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="https://lo1.in/us/ltxtr11.png" ,US - LATIN TUDN EXTRA 11
+http://activefrance.net/W8MEP61/2X2H702/524337
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CR.png" ,###### COSTA RICA ######
+http://activefrance.net/W8MEP61/2X2H702/900896
+#EXTINF:-1 group-title="AM | LATINO" ,LAT - TNT SPORT CHILE UHD
+http://activefrance.net/W8MEP61/2X2H702/1028552
+#EXTINF:-1 group-title="AM | LATINO" ,LAT - CNN UHD
+http://activefrance.net/W8MEP61/2X2H702/1028554
+#EXTINF:-1 group-title="AM | LATINO" ,LAT - FOX SPORTS CHILE UHD
+http://activefrance.net/W8MEP61/2X2H702/1028555
+#EXTINF:-1 group-title="AM | LATINO" ,LAT - LA RED UHD
+http://activefrance.net/W8MEP61/2X2H702/1028556
+#EXTINF:-1 group-title="AM | LATINO" ,LAT - TV CHILE UHD
+http://activefrance.net/W8MEP61/2X2H702/1028561
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/CARIBBIEAN/TELETICA 7 HD.png" ,CR - TELETICA 7 HD
+http://activefrance.net/W8MEP61/2X2H702/901126
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/CARIBBIEAN/REPRETEL 11 HD.png" ,CR - REPRETEL 11 HD
+http://activefrance.net/W8MEP61/2X2H702/901127
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/futv.png" ,CR - FUTV
+http://activefrance.net/W8MEP61/2X2H702/901123
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/CARIBBIEAN/88 STEREO.png" ,CR - 88 STEREO
+http://activefrance.net/W8MEP61/2X2H702/901124
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/CARIBBIEAN/TELEUNO.png" ,CR - TELEUNO
+http://activefrance.net/W8MEP61/2X2H702/901125
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/CARIBBIEAN/CANAL 14 TV SUR.png" ,CR - CANAL 14 TV SUR
+http://activefrance.net/W8MEP61/2X2H702/901128
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/SALVADOR/Canal_12.png" ,UY - CANAL 12
+http://activefrance.net/W8MEP61/2X2H702/934113
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TELE-R.png" ,UY - TELE R
+http://activefrance.net/W8MEP61/2X2H702/934114
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="MAX UP.pngcinecanal.png" ,UY - CINECANAL SUR
+http://activefrance.net/W8MEP61/2X2H702/934116
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/DHE.png" ,LATINO - DHE
+http://activefrance.net/W8MEP61/2X2H702/935966
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/MAX UP.png" ,LATINO - MAX UP
+http://activefrance.net/W8MEP61/2X2H702/935967
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AMERICA/BRASIL/HISTORY-2-1.png" ,LATINO - H2
+http://activefrance.net/W8MEP61/2X2H702/935968
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/PBCJAMAICA.png" ,LAT - PBC JAMAICA SD
+http://activefrance.net/W8MEP61/2X2H702/983884
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/AFIZZIONADOS.png" ,LAT - AFIZZIONADOS
+http://activefrance.net/W8MEP61/2X2H702/983885
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ADRENALINA SPORTS NETWORK.png" ,LAT - ADRENALINA SPORTS NETWORK
+http://activefrance.net/W8MEP61/2X2H702/983886
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/AUSTRALIA/Bein Sports Xtra.png" ,LAT - BEIN SPORTS XTRA N
+http://activefrance.net/W8MEP61/2X2H702/983887
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/_CDN DEPORTES.png" ,LAT - CDN DEPORTES
+http://activefrance.net/W8MEP61/2X2H702/983888
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/CDO BASICO.png" ,LAT - CDO BASICO
+http://activefrance.net/W8MEP61/2X2H702/983889
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/DEPORTV.png" ,LAT - DEPORTV
+http://activefrance.net/W8MEP61/2X2H702/983890
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/EUROPE/GERMANY/ESPN_4_.png" ,LAT - ESPN 4 (BRASIL)
+http://activefrance.net/W8MEP61/2X2H702/983891
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/ESPORT3.png" ,LAT - ESPORT3
+http://activefrance.net/W8MEP61/2X2H702/983892
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/CARIBBIEAN/FLOW SPORTS.png" ,LAT - FLOW SPORTS
+http://activefrance.net/W8MEP61/2X2H702/983893
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/GOL PLAY.png" ,LAT - GOL PLAY
+http://activefrance.net/W8MEP61/2X2H702/983894
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/SNY.png" ,LAT - SNY
+http://activefrance.net/W8MEP61/2X2H702/983895
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/SPORTDIGITAL.png" ,LAT - SPORTDIGITAL
+http://activefrance.net/W8MEP61/2X2H702/983896
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/TRACE SPORTS.png" ,LAT - TRACE SPORTS
+http://activefrance.net/W8MEP61/2X2H702/983897
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/_TNT SPORTS.png" ,LAT - TNT SPORTS [BRASIL]
+http://activefrance.net/W8MEP61/2X2H702/983898
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/LATINO/UNIVERSO.png" ,LAT - UNIVERSO
+http://activefrance.net/W8MEP61/2X2H702/983899
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/CARIBBIEAN/ZONA TUDN.png" ,LAT - ZONA TUDN
+http://activefrance.net/W8MEP61/2X2H702/983900
+#EXTINF:-1 group-title="AM | LATINO" ,CHILE - TV Chile
+http://activefrance.net/W8MEP61/2X2H702/1017490
+#EXTINF:-1 group-title="AM | LATINO" ,COLOMBIA - Cosmovision
+http://activefrance.net/W8MEP61/2X2H702/1017491
+#EXTINF:-1 group-title="AM | LATINO" ,LATINO - Enlace
+http://activefrance.net/W8MEP61/2X2H702/1017492
+#EXTINF:-1 group-title="AM | LATINO" ,CAR - AMC
+http://activefrance.net/W8MEP61/2X2H702/1017493
+#EXTINF:-1 group-title="AM | LATINO" tvg-logo="http://go4.pw/EUROPE/SPAIN/CANA24HORAS.png" ,LAT - 24 HORAS
+http://activefrance.net/W8MEP61/2X2H702/1028550
+#EXTINF:-1 group-title="AM | LATINO" ,LAT - TNT SPORT CHILE
+http://activefrance.net/W8MEP61/2X2H702/1028551
+#EXTINF:-1 group-title="AM | LATINO" ,LAT - CHILEVISION
+http://activefrance.net/W8MEP61/2X2H702/1028553
+#EXTINF:-1 group-title="AM | LATINO" ,LAT - MEGA
+http://activefrance.net/W8MEP61/2X2H702/1028557
+#EXTINF:-1 group-title="AM | LATINO" ,LAT - REC TV
+http://activefrance.net/W8MEP61/2X2H702/1028558
+#EXTINF:-1 group-title="AM | LATINO" ,LAT - T13 MOVIL
+http://activefrance.net/W8MEP61/2X2H702/1028559
+#EXTINF:-1 group-title="AM | LATINO" ,LAT - TELETRAK
+http://activefrance.net/W8MEP61/2X2H702/1028560
+#EXTINF:-1 group-title="AM | LATINO" ,LAT - CABLE NOTICIAS
+http://activefrance.net/W8MEP61/2X2H702/1028562
+#EXTINF:-1 group-title="AM | LATINO" ,LAT - CANAL CAPITAL
+http://activefrance.net/W8MEP61/2X2H702/1028563
+#EXTINF:-1 group-title="AM | LATINO" ,LATIN - Sur Peru HD
+http://activefrance.net/W8MEP61/2X2H702/1051673
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , A GIRL KNOWS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159953.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , ADULT TIME
+http://cord-cutter.net:8080/live/4wVQA7/625159/159954.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , ALL BLACK X
+http://cord-cutter.net:8080/live/4wVQA7/625159/159955.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , ALL GROUP SEX
+http://cord-cutter.net:8080/live/4wVQA7/625159/159956.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , BLACKED
+http://cord-cutter.net:8080/live/4wVQA7/625159/159962.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , BANG BROS NETWORK
+http://cord-cutter.net:8080/live/4wVQA7/625159/159960.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , BRATTY SIS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159965.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,BRAZZERS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159966.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , CASTING COUCH
+http://cord-cutter.net:8080/live/4wVQA7/625159/159968.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , DAGFS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159970.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , DORCEL CLUB
+http://cord-cutter.net:8080/live/4wVQA7/625159/159975.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FAMILY STROKES
+http://cord-cutter.net:8080/live/4wVQA7/625159/159981.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FAMILY SWAP XXX
+http://cord-cutter.net:8080/live/4wVQA7/625159/159982.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FILTHY POV
+http://cord-cutter.net:8080/live/4wVQA7/625159/159984.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FIRST ANAL QUEST
+http://cord-cutter.net:8080/live/4wVQA7/625159/159985.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FIT 18
+http://cord-cutter.net:8080/live/4wVQA7/625159/159986.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,HENTAINED
+http://cord-cutter.net:8080/live/4wVQA7/625159/159988.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , HER LIMIT
+http://cord-cutter.net:8080/live/4wVQA7/625159/159989.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , HOLED
+http://cord-cutter.net:8080/live/4wVQA7/625159/159990.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , HUSSIE PASS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159992.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , INTERRACIAL PASS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159993.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , JOI BABES
+http://cord-cutter.net:8080/live/4wVQA7/625159/159996.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , LOVE HER FEET
+http://cord-cutter.net:8080/live/4wVQA7/625159/160005.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , LUBED
+http://cord-cutter.net:8080/live/4wVQA7/625159/160007.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MAMACITAZ
+http://cord-cutter.net:8080/live/4wVQA7/625159/160009.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MODEL MEDIA ASIA
+http://cord-cutter.net:8080/live/4wVQA7/625159/160011.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MOFOS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160012.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MOM TEACH SEX
+http://cord-cutter.net:8080/live/4wVQA7/625159/160013.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MY DIRTY HOBBY
+http://cord-cutter.net:8080/live/4wVQA7/625159/160017.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MY FAMILY PIES
+http://cord-cutter.net:8080/live/4wVQA7/625159/160018.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MY TINY WISH
+http://cord-cutter.net:8080/live/4wVQA7/625159/160021.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , NEW SENSATIONS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160023.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , NF BUSTY
+http://cord-cutter.net:8080/live/4wVQA7/625159/160024.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , NUBILE FILMS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160025.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PASSION
+http://cord-cutter.net:8080/live/4wVQA7/625159/160027.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PERV MOM
+http://cord-cutter.net:8080/live/4wVQA7/625159/160029.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PRIVATE
+http://cord-cutter.net:8080/live/4wVQA7/625159/160034.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PROPERTY SEX
+http://cord-cutter.net:8080/live/4wVQA7/625159/160035.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PUBLIC AGENT
+http://cord-cutter.net:8080/live/4wVQA7/625159/160036.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PURE MATURE
+http://cord-cutter.net:8080/live/4wVQA7/625159/160037.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , REAL DIRTY VIDEOS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160038.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , REALITY JUNKIES
+http://cord-cutter.net:8080/live/4wVQA7/625159/160040.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , SLIM 4K
+http://cord-cutter.net:8080/live/4wVQA7/625159/160042.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , STROKIES
+http://cord-cutter.net:8080/live/4wVQA7/625159/160043.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , SUGAR BABES TV
+http://cord-cutter.net:8080/live/4wVQA7/625159/160044.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , SWEET SINNER
+http://cord-cutter.net:8080/live/4wVQA7/625159/160045.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,THROATED
+http://cord-cutter.net:8080/live/4wVQA7/625159/160046.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , TRUE AMATUERS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160047.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,PORNHOCHIC
+http://cord-cutter.net:8080/live/4wVQA7/625159/160031.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PERV CITY
+http://cord-cutter.net:8080/live/4wVQA7/625159/160028.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PORN WORLD HARDCORE
+http://cord-cutter.net:8080/live/4wVQA7/625159/160030.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MY PERVY FAMILY
+http://cord-cutter.net:8080/live/4wVQA7/625159/160020.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,MY LIFE IN MIAMI
+http://cord-cutter.net:8080/live/4wVQA7/625159/160019.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MUST NOT FAP
+http://cord-cutter.net:8080/live/4wVQA7/625159/160016.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MOMMY BLOWS BEST
+http://cord-cutter.net:8080/live/4wVQA7/625159/160015.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MOM XXX
+http://cord-cutter.net:8080/live/4wVQA7/625159/160014.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MASSAGE ROOMS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160010.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , LUXURE
+http://cord-cutter.net:8080/live/4wVQA7/625159/160008.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , LETHAL HARDCORE
+http://cord-cutter.net:8080/live/4wVQA7/625159/160001.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , JULES JORDAN
+http://cord-cutter.net:8080/live/4wVQA7/625159/159997.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , KINKY FAMILY
+http://cord-cutter.net:8080/live/4wVQA7/625159/159998.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , KINKY INLAWS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159999.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , JESH BY JESH
+http://cord-cutter.net:8080/live/4wVQA7/625159/159995.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , HOT WIFE XXX
+http://cord-cutter.net:8080/live/4wVQA7/625159/159991.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FAPADOO
+http://cord-cutter.net:8080/live/4wVQA7/625159/159983.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FAKE TAXI
+http://cord-cutter.net:8080/live/4wVQA7/625159/159980.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FAKE HOSTEL
+http://cord-cutter.net:8080/live/4wVQA7/625159/159979.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,DREAMROOM
+http://cord-cutter.net:8080/live/4wVQA7/625159/159976.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , DOGFART NETWORK
+http://cord-cutter.net:8080/live/4wVQA7/625159/159974.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , CUM 4K
+http://cord-cutter.net:8080/live/4wVQA7/625159/159969.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,BOX OF PORN
+http://cord-cutter.net:8080/live/4wVQA7/625159/159964.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,BABES
+http://cord-cutter.net:8080/live/4wVQA7/625159/159959.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,TRANS ANGELS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159951.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,TRANS EROTICA
+http://cord-cutter.net:8080/live/4wVQA7/625159/159952.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" ,BABES
+http://cord-cutter.net:8080/live/4wVQA7/625159/159959.m3u8
+
+
 
 #EXTINF:-1 group-title="*VOD | *ESTRENOS 2023 *" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/hoB5pA88k1s9e8HXWDj5JHOF3ZV.jpg" tvg-name="Disconnect: El organizador de bodas" ,Disconnect: El organizador de bodas
 http://daleplay.club:8080/movie/020524.020202.052424./mjkN8LDcJYvn/57cd5049-ce0d-4dc5-b362-295e7f0f13f6.mkv
