@@ -3,15 +3,16 @@
 
 #lista n3u8 de uso publico#
 
-#EXTINF:-1 group-title="✯EXCLUSIVØ #PPV✯" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" ,DISNEY + & STAR + 5 HD
-http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/161666
+#EXTINF:-1 group-title="✯EXCLUSIVØ #PPV✯" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" ,DISNEY + & STAR + en Vivo
+http://stklatino.dynns.com:2082/live/stkalval/7409/56934.ts
+
 #EXTINF:-1 group-title="✯EXCLUSIVØ #PPV✯" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" ,DISNEY + & STAR + 1 HD
 http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/116008
-#EXTINF:-1 group-title="✯EXCLUSIVØ #PPV✯" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" ,DISNEY + & STAR + 4 HD
-http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/161665
 #EXTINF:-1 group-title="✯EXCLUSIVØ #PPV✯" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" ,DISNEY + & STAR + 2 HD
-http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/161663
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/161665
 #EXTINF:-1 group-title="✯EXCLUSIVØ #PPV✯" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" ,DISNEY + & STAR + 3 HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/161663
+#EXTINF:-1 group-title="✯EXCLUSIVØ #PPV✯" tvg-logo="https://i.postimg.cc/N0bV1P0C/DISNEY-STAR.png" ,DISNEY + & STAR + 4 HD
 http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/161664
 
 
