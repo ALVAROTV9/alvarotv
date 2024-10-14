@@ -237,23 +237,24 @@ http://defitv.fun/Hockey123/Hockey123/393600
 
 #EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://i.ibb.co/PhDxWnk/TUDN.jpg" tvg-id="FUTBOL2" ,Zona TUDN
 http://defitv.fun/Hockey123/Hockey123/440668
-#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://i.ibb.co/PhDxWnk/TUDN.jpg" tvg-id="tudn.mx" ,TUDN
-http://defitv.fun/Hockey123/Hockey123/351365
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://i.ibb.co/PhDxWnk/TUDN.jpg" tvg-id="tudnZona" ,TUDN ZONA
+http://activefrance.net/live/W8MEP61/2X2H702/983900.ts
+
+
 #EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://i.ibb.co/PhDxWnk/TUDN.jpg" tvg-id="TUDNX1" ,TUDN Xtra 01
-http://defitv.fun/Hockey123/Hockey123/207497
+http://activefrance.net/live/W8MEP61/2X2H702/200868.ts
+
+
 #EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://i.ibb.co/PhDxWnk/TUDN.jpg" tvg-id="TUDNX1" ,TUDN Xtra 02
 http://defitv.fun/Hockey123/Hockey123/207498
 #EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://i.ibb.co/PhDxWnk/TUDN.jpg" tvg-id="TUDNX1" ,TUDN Xtra 03
-http://defitv.fun/Hockey123/Hockey123/207499
+http://activefrance.net/live/W8MEP61/2X2H702/303545.ts
+
+
 #EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://i.ibb.co/PhDxWnk/TUDN.jpg" tvg-id="TUDNX1" ,TUDN Xtra 04
-http://defitv.fun/Hockey123/Hockey123/207500
+http://activefrance.net/live/W8MEP61/2X2H702/303547.ts
 
 
-
-#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="http://zuiowy.net:8080/images/95f31dd81f9b289c1bcb88a5c2e7c014.png" ,TUDN XTRA 1a
-http://zuiowy.net:8080/Valencia3tv/nTyPVx07sc/151449
-#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="http://zuiowy.net:8080/images/95f31dd81f9b289c1bcb88a5c2e7c014.png" ,TUDN XTRA 2a
-http://zuiowy.net:8080/Valencia3tv/nTyPVx07sc/151450
 
 #EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png" ,DIRECTV SPORTS exclusivo
 http://activefrance.net/live/W8MEP61/2X2H702/197711.ts
