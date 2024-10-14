@@ -217,6 +217,62 @@ http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/460
 http://ultrapremium.cloud/93kepu73we23me47/29wuma93weme45/461
 
 
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="https://www.izzigo.tv/images/repository/680/16482680-LOGO-m.png" ,SKY sports 1 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/215099
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="https://www.izzigo.tv/images/repository/683/16482683-LOGO-m.png" ,SKY sports 2 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/215095
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="https://www.izzigo.tv/images/repository/680/16482680-LOGO-m.png" ,SKY sports 3 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/215097
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="https://www.izzigo.tv/images/repository/680/16482680-LOGO-m.png" ,SKY sports 4 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/215098
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="https://www.izzigo.tv/images/repository/680/16482680-LOGO-m.png" ,SKY sports multi 1 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/215093
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="https://www.izzigo.tv/images/repository/680/16482680-LOGO-m.png" ,SKY sports multi 2 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/215096
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="https://www.izzigo.tv/images/repository/683/16482683-LOGO-m.png" ,SKY sports multi 3 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/215090
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="https://www.izzigo.tv/images/repository/683/16482683-LOGO-m.png" ,SKY sports multi 4 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/215089
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="https://www.izzigo.tv/images/repository/683/16482683-LOGO-m.png" ,SKY sports multi 5 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/215091
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="https://www.izzigo.tv/images/repository/680/16482680-LOGO-m.png" ,Sky sports multi 6 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/215094
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="https://www.izzigo.tv/images/repository/683/16482683-LOGO-m.png" ,Sky sports multi 7 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/215092
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="https://www.izzigo.tv/images/repository/683/16482683-LOGO-m.png" ,Sky sports multi 8 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/215088
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="http://picon.tvparanosotros.ru/picon2023/09_dazn/dazn1hd.png" tvg-id="DAZN 1 HD" ,DAZN 1 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/566
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="http://picon.tvparanosotros.ru/picon2023/09_dazn/dazn2fhd.png" tvg-id="DAZN 2 HD" ,DAZN 2 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/855
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="http://picon.tvparanosotros.ru/picon2023/09_dazn/dazn3fhd.png" tvg-id="DAZN 3 HD" ,DAZN 3 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/86455
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="http://picon.tvparanosotros.ru/picon2023/09_dazn/dazn4fhd.png" tvg-id="DAZN 4 HD" ,DAZN 4 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/86456
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="http://picon.tvparanosotros.ru/picon2023/08_campeones/mplusligadecampeonesfhd.png" tvg-id="M+ Liga de Campeones HD" ,M+ Liga de Campeones HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/327
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="http://picon.tvparanosotros.ru/picon2023/08_campeones/mplusligadecampeones2fhd.png" tvg-id="Bajo demanda" ,M+ Liga de Campeones 2 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/324
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="http://picon.tvparanosotros.ru/picon2023/08_campeones/mplusligadecampeones3fhd.png" tvg-id="M+ Liga de Campeones 3 HD" ,M+ Liga de Campeones 3 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/321
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="http://picon.tvparanosotros.ru/picon2023/08_campeones/mplusligadecampeones4sd.png" tvg-id="M+ Liga de Campeones 4" ,M+ Liga de Campeones 4 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/127934
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="http://picon.tvparanosotros.ru/picon2023/dazn_tv_laliga/dazn_tv_laliga.png" tvg-id="DAZN LaLiga HD" ,DAZN LaLiga HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/370
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="http://picon.tvparanosotros.ru/picon2023/dazn_tv_laliga/dazn_tv_laliga_2.png" tvg-id="DAZN LaLiga 2 HD" ,DAZN LaLiga 2 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/8944
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="http://picon.tvparanosotros.ru/picon2023/dazn_tv_laliga/dazn_tv_laliga_3.png" tvg-id="La 1 HD" ,DAZN LaLiga 3 SD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/128632
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="http://picon.tvparanosotros.ru/picon2023/dazn_tv_laliga/dazn_tv_laliga_4.png" tvg-id="La 1 HD" ,DAZN LaLiga 4 SD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/111914
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="http://picon.tvparanosotros.ru/picon2023/06_deportes/mdeportesfhd.png" tvg-id="M. DEPORTES HD" ,M. DEPORTES HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/727
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="http://picon.tvparanosotros.ru/picon2023/06_deportes/mplusdeportes2fhd.png" tvg-id="M+ Deportes 2 HD" ,M+ Deportes 2 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/358
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽"" tvg-logo="http://picon.tvparanosotros.ru/picon2023/06_deportes/mplusdeportes3fhd.png" tvg-id="M+ Deportes 3" ,M+ Deportes 3 HD
+http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/843
+
+
 #EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/CINECANAL.png" ,LATINO - CINECANAL
 http://activefrance.net/W8MEP61/2X2H702/30632
 #EXTINF:-1 group-title="⭐CINE PREMIUM⭐" tvg-logo="http://go4.pw/LATINO/CINEMAX.png" ,LATINO - CINEMAX
