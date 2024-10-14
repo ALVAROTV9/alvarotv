@@ -3,10 +3,10 @@
 
 #l1sta gratu1ta Publ1ca#
 
-#EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL TV (1)
+#EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL SPORTS
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/69251.ts
 
-#EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL TV (2)
+#EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL
 http://live.budtvlight.com:25461/live/diana10/b53ad085/279386.ts
 
 
