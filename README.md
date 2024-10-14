@@ -16,9 +16,9 @@ http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/161664
 
 
 #EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,WHATSAPP +57 350 675 5451
-http://zuiowy.net:8080/live/Valencia3tv/nTyPVx07sc/125380.ts
+http://stklatino.dynns.com:2082/live/stkalval/7409/74754.ts
 
-#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,ENTRETIEMPO CON VALLENATOS
+#EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,WWW.BIT.LY/alvarotv9
 http://zuiowy.net:8080/live/Valencia3tv/nTyPVx07sc/90846.ts
 
 #EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001484-b3dbbb3dbf/700/w1nP1us.webp?ph=348e8b9008" ,WIN SPORTS +
