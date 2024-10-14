@@ -1,4 +1,4 @@
-
+es
 #EXTM3U
 
 #l1sta gratu1ta Publ1ca#
@@ -372,3 +372,193 @@ http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/727
 http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/358
 #EXTINF:-1 group-title="⚽FULL🔵DEPORTES⚽" tvg-id="M+ Deportes 3" ,M+ Deportes 3 HD
 http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/843
+
+
+
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/1072750469e15c2f861461f4b1671183.jpg" , Los Pitufos
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398006
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/b4dbb7fe64e539dff4ff54862e6000c6.jpg" ,Bugs Bunny
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398020
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/cc138a8008848ecafa364854fcafca17.jpg" ,Dora La Exploradora
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398025
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/051b97f15e14283ca6ad93d748cf3d3c.jpg" ,Mickey Mouse
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398035
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/4c8f8d42fe7f32bc6de5f471871cbe30.jpg" , Kung Fu panda
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398041
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/3f2aa5470752a0e9e1da675c9a5851c8.jpg" ,Peppa Pig
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398045
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/0803a96448a8bbebf9eb0a43bba09555.jpg" ,PAWL PATROL
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398044
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/265dc507c35fe32dd08887f416b60900.jpg" ,Masha y el oso
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398050
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTtUgjx2Q5H6dBR7TSwUEvnjrbJiSL_1FAWg&s" ,La casa de muñecas de Gabby
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/39805
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/c8a992168e537e7e92d2fcb97a6ff60a.jpg" ,El chavo del 8
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/416453
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/3b3a23dcc02f40038cfc34d8c58c313f.png" ,KIDS | BABY FIRST
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321968
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/637e562dbf5fd427957eb42dcd838054.png" ,KIDS | BABY TV
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321969
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/c67ab172eb643fea7070b0a3514f4459.png" ,KIDS | CARTOON NETWORK
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321974
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/be37514186ea0e9928444db722509319.png" ,KIDS | CARTOONITO
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321975
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/9616dc155d8f864cd00ba06266376b5e.png" ,KIDS | DISCOVERY KIDS
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321976
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/69ee308370f166ebd34ee64895d1c9a8.png" ,KIDS | DISNEY JUNIOR
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321981
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/2c60790cd9470a61cf2e3c265f9589de.png" ,KIDS | NICKTOONS
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321985
+#EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/be900df6e14f9e6979280757a0d836f2.png" ,KIDS | NICK JUNIOR
+http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/321983
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , A GIRL KNOWS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159953.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , ADULT TIME
+http://cord-cutter.net:8080/live/4wVQA7/625159/159954.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , ALL BLACK X
+http://cord-cutter.net:8080/live/4wVQA7/625159/159955.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , ALL GROUP SEX
+http://cord-cutter.net:8080/live/4wVQA7/625159/159956.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , BLACKED
+http://cord-cutter.net:8080/live/4wVQA7/625159/159962.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , BANG BROS NETWORK
+http://cord-cutter.net:8080/live/4wVQA7/625159/159960.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , BRATTY SIS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159965.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,BRAZZERS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159966.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , CASTING COUCH
+http://cord-cutter.net:8080/live/4wVQA7/625159/159968.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , DAGFS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159970.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , DORCEL CLUB
+http://cord-cutter.net:8080/live/4wVQA7/625159/159975.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FAMILY STROKES
+http://cord-cutter.net:8080/live/4wVQA7/625159/159981.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FAMILY SWAP XXX
+http://cord-cutter.net:8080/live/4wVQA7/625159/159982.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FILTHY POV
+http://cord-cutter.net:8080/live/4wVQA7/625159/159984.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FIRST ANAL QUEST
+http://cord-cutter.net:8080/live/4wVQA7/625159/159985.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FIT 18
+http://cord-cutter.net:8080/live/4wVQA7/625159/159986.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,HENTAINED
+http://cord-cutter.net:8080/live/4wVQA7/625159/159988.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , HER LIMIT
+http://cord-cutter.net:8080/live/4wVQA7/625159/159989.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , HOLED
+http://cord-cutter.net:8080/live/4wVQA7/625159/159990.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , HUSSIE PASS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159992.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , INTERRACIAL PASS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159993.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , JOI BABES
+http://cord-cutter.net:8080/live/4wVQA7/625159/159996.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , LOVE HER FEET
+http://cord-cutter.net:8080/live/4wVQA7/625159/160005.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , LUBED
+http://cord-cutter.net:8080/live/4wVQA7/625159/160007.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MAMACITAZ
+http://cord-cutter.net:8080/live/4wVQA7/625159/160009.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MODEL MEDIA ASIA
+http://cord-cutter.net:8080/live/4wVQA7/625159/160011.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MOFOS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160012.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MOM TEACH SEX
+http://cord-cutter.net:8080/live/4wVQA7/625159/160013.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MY DIRTY HOBBY
+http://cord-cutter.net:8080/live/4wVQA7/625159/160017.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MY FAMILY PIES
+http://cord-cutter.net:8080/live/4wVQA7/625159/160018.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MY TINY WISH
+http://cord-cutter.net:8080/live/4wVQA7/625159/160021.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , NEW SENSATIONS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160023.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , NF BUSTY
+http://cord-cutter.net:8080/live/4wVQA7/625159/160024.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , NUBILE FILMS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160025.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PASSION
+http://cord-cutter.net:8080/live/4wVQA7/625159/160027.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PERV MOM
+http://cord-cutter.net:8080/live/4wVQA7/625159/160029.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PRIVATE
+http://cord-cutter.net:8080/live/4wVQA7/625159/160034.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PROPERTY SEX
+http://cord-cutter.net:8080/live/4wVQA7/625159/160035.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PUBLIC AGENT
+http://cord-cutter.net:8080/live/4wVQA7/625159/160036.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PURE MATURE
+http://cord-cutter.net:8080/live/4wVQA7/625159/160037.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , REAL DIRTY VIDEOS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160038.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , REALITY JUNKIES
+http://cord-cutter.net:8080/live/4wVQA7/625159/160040.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , SLIM 4K
+http://cord-cutter.net:8080/live/4wVQA7/625159/160042.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , STROKIES
+http://cord-cutter.net:8080/live/4wVQA7/625159/160043.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , SUGAR BABES TV
+http://cord-cutter.net:8080/live/4wVQA7/625159/160044.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , SWEET SINNER
+http://cord-cutter.net:8080/live/4wVQA7/625159/160045.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,THROATED
+http://cord-cutter.net:8080/live/4wVQA7/625159/160046.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , TRUE AMATUERS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160047.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,PORNHOCHIC
+http://cord-cutter.net:8080/live/4wVQA7/625159/160031.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PERV CITY
+http://cord-cutter.net:8080/live/4wVQA7/625159/160028.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , PORN WORLD HARDCORE
+http://cord-cutter.net:8080/live/4wVQA7/625159/160030.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MY PERVY FAMILY
+http://cord-cutter.net:8080/live/4wVQA7/625159/160020.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,MY LIFE IN MIAMI
+http://cord-cutter.net:8080/live/4wVQA7/625159/160019.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MUST NOT FAP
+http://cord-cutter.net:8080/live/4wVQA7/625159/160016.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MOMMY BLOWS BEST
+http://cord-cutter.net:8080/live/4wVQA7/625159/160015.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MOM XXX
+http://cord-cutter.net:8080/live/4wVQA7/625159/160014.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MASSAGE ROOMS
+http://cord-cutter.net:8080/live/4wVQA7/625159/160010.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , LUXURE
+http://cord-cutter.net:8080/live/4wVQA7/625159/160008.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , LETHAL HARDCORE
+http://cord-cutter.net:8080/live/4wVQA7/625159/160001.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , JULES JORDAN
+http://cord-cutter.net:8080/live/4wVQA7/625159/159997.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , KINKY FAMILY
+http://cord-cutter.net:8080/live/4wVQA7/625159/159998.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , KINKY INLAWS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159999.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , JESH BY JESH
+http://cord-cutter.net:8080/live/4wVQA7/625159/159995.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , HOT WIFE XXX
+http://cord-cutter.net:8080/live/4wVQA7/625159/159991.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FAPADOO
+http://cord-cutter.net:8080/live/4wVQA7/625159/159983.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FAKE TAXI
+http://cord-cutter.net:8080/live/4wVQA7/625159/159980.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , FAKE HOSTEL
+http://cord-cutter.net:8080/live/4wVQA7/625159/159979.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,DREAMROOM
+http://cord-cutter.net:8080/live/4wVQA7/625159/159976.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , DOGFART NETWORK
+http://cord-cutter.net:8080/live/4wVQA7/625159/159974.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , CUM 4K
+http://cord-cutter.net:8080/live/4wVQA7/625159/159969.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,BOX OF PORN
+http://cord-cutter.net:8080/live/4wVQA7/625159/159964.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,BABES
+http://cord-cutter.net:8080/live/4wVQA7/625159/159959.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,TRANS ANGELS
+http://cord-cutter.net:8080/live/4wVQA7/625159/159951.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" ,TRANS EROTICA
+http://cord-cutter.net:8080/live/4wVQA7/625159/159952.m3u8
+#EXTINF:-1 group-title="🛑XXX🛑" ,BABES
+http://cord-cutter.net:8080/live/4wVQA7/625159/159959.m3u8
+
