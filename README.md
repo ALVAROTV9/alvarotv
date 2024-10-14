@@ -379,6 +379,114 @@ http://joker1373.toppanel.ru:8080/9US40327E16624931/XpQ4ErKitY/843
 
 
 
+
+
+
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/N0b2515y/CMHD.png" tvg-id="1509dtv.cl" ,CINE  | CINEMAX HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/8
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/dVF3PwFQ/HBO2HD.png" tvg-id="525dtv.cl" ,CINE  | HBO
+http://live.budtvlight.com:25461/live/diana10/b53ad085/278488.ts
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/dVF3PwFQ/HBO2HD.png" tvg-id="525dtv.cl" ,CINE  | HBO 2(1)
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/43
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/dVF3PwFQ/HBO2HD.png" tvg-id="525dtv.cl" ,CINE  | HBO 2 (2)
+http://live.budtvlight.com:25461/live/diana10/b53ad085/278492.ts
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSFTnuKd-uu1XQztepY5vFZUBhKCp8-Okbsg&usqp=CAU" tvg-id="526" ,CINE  | HBO PLUS(1)
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/49
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSFTnuKd-uu1XQztepY5vFZUBhKCp8-Okbsg&usqp=CAU" tvg-id="526" ,CINE  | HBO PLUS(2)
+http://live.budtvlight.com:25461/live/diana10/b53ad085/278489.ts
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/YCsbXpT0/HBOSSD.png" tvg-id="528" ,CINE | HBO SIGNATURE(1)
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/46
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/YCsbXpT0/HBOSSD.png" tvg-id="528" ,CINE | HBO SIGNATURE(2)
+http://live.budtvlight.com:25461/live/diana10/b53ad085/278504.ts
+
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/j2hP2KbT/HBOPHD.png" tvg-id="541dtv.cl" ,CINE  | HBO POP(1)
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/1242
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/j2hP2KbT/HBOPHD.png" tvg-id="541dtv.cl" ,CINE  | HBO POP(2)
+http://live.budtvlight.com:25461/live/diana10/b53ad085/278503.ts
+
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/R00dyGnG/CCFHD.png" tvg-id="507" ,CINE | CINECANAL  
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/1251
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/rs5FYrW8/SPHD.png" tvg-id="518dtv.ar" ,CINE | SPACE CHANEL
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/1282
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/50yY6q07/GHD.png" tvg-id="503dtv.cl" ,CINE | GOLDEN
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/1287
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" tvg-id="517dtv.cl" ,CINE | GOLDEN EDG
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/1290
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" tvg-id="1503dtv.cl" ,CINE GOLDEN PLUS
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53940
+
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/TYgWKvgB/UPREHD.png" tvg-id="576" ,P | UNIVERSAL PREMIER
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/111419
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/8CPfscB9/DC.png" ,Discovery Channel
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53457
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/ryZBMDFD/photo-output.jpg" ,Discovery Investigation HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53462
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/Hn3ghYFD/DW.png" ,DISCOVERY World HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53470
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/J4DzLVmW/photo-output.jpg" tvg-id="DiscoveryFamilia.us" ,Discovery Familia HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53472
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/tgYp5dFW/HHD.jpg" ,HISTORY HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53481
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/sxRzstq4/HC2-HD.jpg" ,History 2 HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53483
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/66dwYp4j/NGHD.jpg" tvg-id="nationalgeographic.co" ,NAT Geo HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53491
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/JhDCJrWQ/NGFHD.jpg" tvg-id="nationalgeographic.co" ,NATIONAL Geographic FHD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/53489
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/D0h9t14C/APHD.jpg" ,ANIMAL Planet HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/54172
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://i.postimg.cc/G3Jwvg66/e-entertainment-television-logo-EF3-AA17-F85-seeklogo.png" tvg-id="eentertainment.mx" ,E! Eⓝtretainment HD
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/126151
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" ,HISTORY CHANNEL (1)
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/394291
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://cablego.com.pe/cache/logos/HISTORYCHANNEL.png" ,HISTORY CHANNEL (2)
+http://live.budtvlight.com:25461/live/diana10/b53ad085/278630.ts
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://cablego.com.pe/cache/logos/HISTORY2.png" ,HISTORY 2 (1)
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/394290
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://cablego.com.pe/cache/logos/HISTORY2.png" ,HISTORY 2 (2)
+http://live.budtvlight.com:25461/live/diana10/b53ad085/278629.ts
+
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://cablego.com.pe/cache/logos/ID.png" ,ID
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/394293
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://cablego.com.pe/cache/logos/NATGEO.png" ,NATGEO (1)
+http://daleplaygo.vip:8080/020524.020202.052424./mjkN8LDcJYvn/394301
+
+#EXTINF:-1 group-title="🛑VARIADA⭐PREMIUM🔵" tvg-logo="https://cablego.com.pe/cache/logos/NATGEO.png" ,NATGEO (2)
+http://live.budtvlight.com:25461/live/diana10/b53ad085/158863.ts
+
+
 #EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/1072750469e15c2f861461f4b1671183.jpg" , Los Pitufos
 http://venuschiletv.lat:8880/ofmmepeiph/7hbetrPUAGbD/398006
 #EXTINF:-1 group-title="💢INFANTILES💢" tvg-logo="http://goldfull.pro:8880/images/b4dbb7fe64e539dff4ff54862e6000c6.jpg" ,Bugs Bunny
