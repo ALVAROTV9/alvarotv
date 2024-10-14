@@ -10,6 +10,10 @@ http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/69251.ts
 http://live.budtvlight.com:25461/live/diana10/b53ad085/279386.ts
 
 
+#EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL NOTICIAS
+http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/394306.ts
+
+
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" ,RCN (1)
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/69266.ts
 
