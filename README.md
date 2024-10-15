@@ -2,6 +2,11 @@
 
 #16oct2024 Lista Publica de uso Personal y Gratis#
 
+
+#EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" ,ALVAROTV INFO
+https://d3v55qvjb2v012.cloudfront.net/BH9q/2024/10/01/06/06/cZ6V11VSLg2/sc.mp4?srcid=cZ6V11VSLg2&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kM3Y1NXF2amIydjAxMi5jbG91ZGZyb250Lm5ldC9CSDlxLzIwMjQvMTAvMDEvMDYvMDYvY1o2VjExVlNMZzIvc2MubXA0P3NyY2lkPWNaNlYxMVZTTGcyIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNzI5MDY4MTc1fX19XX0_&Signature=M3tt4EpjRDwIM97uZcSgoq1NJ-zUYL7oBsQtW8z1-2A5JWpkBqmd00tKjYWr0oehklUa7PRgM1mjx4dIfPOugG95zc-W01GqhgBqTmkiLi9V-8oMHAsSDI4Bzj-yhOT8K7xLiTm7dLTYXyAz8Pyf2qu8~TgQlMwrP35IqyZwmUg_&Key-Pair-Id=APKAI4E2RN57D46ONMEQ
+
+
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL SPORTS
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/69251.ts
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL
