@@ -9,6 +9,11 @@
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" tvg-name="ALVAROTV INFO" ,AL1VAR0TV
 http://cdn2.mywave.video/embed/670f248a74d08f4a0b6d98e8/670f248a74d08f4a0b6d98e6.mp4
 
+
+#EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" tvg-name="FUTBOL COLOMBIA EVENTOS" ,AL1VAR0TV FUT COLOMBIA
+http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/95122.ts
+
+
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL SPORTS
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/69251.ts
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL SPORTS
