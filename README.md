@@ -13,8 +13,10 @@ http://cdn2.mywave.video/embed/670f248a74d08f4a0b6d98e8/670f248a74d08f4a0b6d98e6
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/69251.ts
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL SPORTS
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/69251.ts
-#EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL
-http://live.budtvlight.com:25461/live/diana10/b53ad085/279386.ts
+#EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL INTER
+http://streamsy.online:8080/Jaley1990/L6KomjzBxv/284
+
+
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL NOTICIAS
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/394306.ts
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" ,RCN (1)
@@ -27,10 +29,17 @@ http://zuiowy.net:8080/live/Valencia3tv/nTyPVx07sc/90846.ts
 http://activefrance.net/live/W8MEP61/2X2H702/190260.ts
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS + (2)
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/1383.ts
-#EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS ++ (3)
+#EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS + (3)
 http://zuiowy.net:8080/live/Valencia3tv/nTyPVx07sc/461.ts
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS + (4)
 http://filex.tv:8080/live/tahirbutt/003092/302967.ts
+
+
+
+#EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS + (5)
+http://streamsy.online:8080/Jaley1990/L6KomjzBxv/1417
+
+
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/700/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS (1)
 http://activefrance.net/live/W8MEP61/2X2H702/190259.ts
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001310-7a5a77a5a8/700/winsports-4.webp?ph=348e8b9008" ,WIN SPORTS (2)
