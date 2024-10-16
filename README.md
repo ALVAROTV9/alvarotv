@@ -13,10 +13,8 @@ http://cdn2.mywave.video/embed/670f248a74d08f4a0b6d98e8/670f248a74d08f4a0b6d98e6
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/69251.ts
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL SPORTS
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/69251.ts
-#EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL INTER
-http://streamsy.online:8080/Jaley1990/L6KomjzBxv/284
-
-
+#EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL
+http://live.budtvlight.com:25461/live/diana10/b53ad085/279386.ts
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL NOTICIAS
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/394306.ts
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0b/Logo_RCN_Televisi%C3%B3n.png" ,RCN (1)
@@ -29,17 +27,10 @@ http://zuiowy.net:8080/live/Valencia3tv/nTyPVx07sc/90846.ts
 http://activefrance.net/live/W8MEP61/2X2H702/190260.ts
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS + (2)
 http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/1383.ts
-#EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS + (3)
+#EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS ++ (3)
 http://zuiowy.net:8080/live/Valencia3tv/nTyPVx07sc/461.ts
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS + (4)
 http://filex.tv:8080/live/tahirbutt/003092/302967.ts
-
-
-
-#EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS + (5)
-http://streamsy.online:8080/Jaley1990/L6KomjzBxv/1417
-
-
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001308-cff9fcffa1/700/winsportsMas.webp?ph=348e8b9008" ,WIN SPORTS (1)
 http://activefrance.net/live/W8MEP61/2X2H702/190259.ts
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001310-7a5a77a5a8/700/winsports-4.webp?ph=348e8b9008" ,WIN SPORTS (2)
@@ -1441,6 +1432,27 @@ http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9850
 http://tv.proyectox.vip:8080/AliceA8977/LSQMzQcvIv/9852
 
 
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://lonewolftvpr.com/logos/18mas.png" ,Adult 01
+http://streamsy.online:8080/Jaley1990/L6KomjzBxv/750
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://lonewolftvpr.com/logos/18mas.png" tvg-id="playboy.us" ,Adult 02
+http://streamsy.online:8080/Jaley1990/L6KomjzBxv/1035
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://lonewolftvpr.com/logos/18mas.png" ,Adult 03
+http://streamsy.online:8080/Jaley1990/L6KomjzBxv/1036
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://lonewolftvpr.com/logos/18mas.png" tvg-id="playboy.us" ,Adult 04
+http://streamsy.online:8080/Jaley1990/L6KomjzBxv/276
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://lonewolftvpr.com/logos/18mas.png" ,Adult 05
+http://streamsy.online:8080/Jaley1990/L6KomjzBxv/1037
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://lonewolftvpr.com/logos/18mas.png" ,Adult 06
+http://streamsy.online:8080/Jaley1990/L6KomjzBxv/751
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://lonewolftvpr.com/logos/18mas.png" ,Adult 07
+http://streamsy.online:8080/Jaley1990/L6KomjzBxv/479
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://lonewolftvpr.com/logos/18mas.png" ,Adult 08
+http://streamsy.online:8080/Jaley1990/L6KomjzBxv/468
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://lonewolftvpr.com/logos/18mas.png" ,Adult 09
+http://streamsy.online:8080/Jaley1990/L6KomjzBxv/1297
+#EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://lonewolftvpr.com/logos/18mas.png" ,Adult 10
+http://streamsy.online:8080/Jaley1990/L6KomjzBxv/1298
+
 
 
 #EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001374-2e13a2e13c/700/AddText_09-17-07.05.14-8.webp?ph=348e8b9008" tvg-name="ALVAROTV INFO" ,AL1VAR0TV
@@ -1532,7 +1544,6 @@ http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/10114.ts
 
 #EXTINF:-1 group-title="🛑XXX🛑" tvg-logo="https://348e8b9008.cbaul-cdnwnd.com/1bc410ba4499513b76e0eb8d24043412/200001482-66a4b66a4d/700/packAdult.webp?ph=348e8b9008" , MOM TEACH SEX
 http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/10115.ts
-
 
 
 
