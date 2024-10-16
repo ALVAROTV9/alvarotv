@@ -14,7 +14,8 @@ http://cdn2.mywave.video/embed/670f248a74d08f4a0b6d98e8/670f248a74d08f4a0b6d98e6
 http://tv.proyectox.vip:8080/live/AliceA8977/LSQMzQcvIv/95122.ts
 
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL SPORTS
-http://daleplaygo.vip:8080/live/020524.020202.052424./mjkN8LDcJYvn/69251.ts
+http://hdhd.tk:80/133/133/352351
+
 
 #EXTINF:-1 group-title="⚽ESPN🔵WINSPORTS⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png" ,CARACOL
 http://live.budtvlight.com:25461/live/diana10/b53ad085/279386.ts
