@@ -27,3 +27,18 @@ http://bktv.xyz/070320/WerWcMP939/46729
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,TransTV 2
 http://bktv.xyz/070320/WerWcMP939/944190
 
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , BANG BROS
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/10095.ts
+
+
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , BLACKED
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/10096.ts
+
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , GAY TV
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/10099.ts
+
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , TUSHY
+http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9518.ts
+
+
+
