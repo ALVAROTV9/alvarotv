@@ -42,4 +42,4 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9518.ts
 
 
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , prueba
-https://dl.dropboxusercontent.com/s/g5dbk70z8sy4bfx2377yv/Video_alvarotvinfo.mp4?rlkey=rpkujzldr4dvnyxvnye13nh5h&st=twp43nav&dl=0
+http://dl.dropboxusercontent.com/s/g5dbk70z8sy4bfx2377yv/Video_alvarotvinfo.mp4?rlkey=rpkujzldr4dvnyxvnye13nh5h&st=twp43nav&dl=0
