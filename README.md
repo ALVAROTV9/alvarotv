@@ -51,4 +51,4 @@ http://nxt.plus:8080/live/cablestream/uSgBFYRL78sA/169459.ts
 
 
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , prueba
-http://dl.dropboxusercontent.com/scl/fi/tu4y1b0vm1oaiesa8pzgx/GATORADE1.mp4?rlkey=nimtxajmvkirvj8wryht94tr1&st=5eyqm972&dl=0
+http://dl.dropboxusercontent.com/fi/tu4y1b0vm1oaiesa8pzgx/GATORADE1.mp4?rlkey=nimtxajmvkirvj8wryht94tr1&st=5eyqm972&dl=0
