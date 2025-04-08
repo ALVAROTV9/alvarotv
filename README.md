@@ -53,7 +53,7 @@ http://nxt.plus:8080/live/cablestream/uSgBFYRL78sA/169459.ts
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , Video Gay de prueba
 http://dl.dropboxusercontent.com/s/tu4y1b0vm1oaiesa8pzgx/GATORADE1.mp4?rlkey=nimtxajmvkirvj8wryht94tr1&st=5eyqm972&dl=0
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,Orgia Gay
-http://dl.dropboxusercontent.com/fi/1pyby6cv4713syaf7idhu/OrgiaGay1.mp4?rlkey=i3dwspprt5tx2ftie6ve96thw&st=mtv1mcrk&dl=0
+https://im-h.phncdn.com/MRNHdke_Ucdhb-vfDcFdYNljIK4=,1744159203/hls/videos/202410/16/459221291/720P_4000K_459221291.mp4/index-v1-a1.m3u8
 
 
 
