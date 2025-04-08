@@ -51,4 +51,4 @@ http://nxt.plus:8080/live/cablestream/uSgBFYRL78sA/169459.ts
 
 
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , prueba
-http://dl.dropboxusercontent.com/s/g5dbk70z8sy4bfx2377yv/Video_alvarotvinfo.mp4?rlkey=rpkujzldr4dvnyxvnye13nh5h&st=twp43nav&dl=0
+http://dl.dropboxusercontent.com/scl/fi/tu4y1b0vm1oaiesa8pzgx/GATORADE1.mp4?rlkey=nimtxajmvkirvj8wryht94tr1&st=5eyqm972&dl=0
