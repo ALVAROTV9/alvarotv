@@ -16,10 +16,14 @@ http://embed-cloudfront.wistia.com/deliveries/80c9c73aed3f00a41d47114bb1e379f871
 
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,Homossexuais 1
 http://bktv.xyz/070320/WerWcMP939/75835
+
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,Bisexual
 http://bktv.xyz/070320/WerWcMP939/61738
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,Lésbicas 
-http://bktv.xyz/070320/WerWcMP939/62084
+
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY G 
+http://nxt.plus:8080/live/cablestream/uSgBFYRL78sA/203475.ts
+
+
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,Homossexuais 2
 http://bktv.xyz/070320/WerWcMP939/51048
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,TransTV HD
