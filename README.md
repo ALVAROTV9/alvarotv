@@ -50,5 +50,5 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9518.ts
 http://nxt.plus:8080/live/cablestream/uSgBFYRL78sA/169459.ts
 
 
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , prueba
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , Video Gay de prueba
 http://dl.dropboxusercontent.com/scl/tu4y1b0vm1oaiesa8pzgx/GATORADE1.mp4?rlkey=nimtxajmvkirvj8wryht94tr1&st=5eyqm972&dl=0
