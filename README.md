@@ -17,8 +17,8 @@ http://embed-cloudfront.wistia.com/deliveries/80c9c73aed3f00a41d47114bb1e379f871
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,Homossexuales 1
 http://bktv.xyz/070320/WerWcMP939/75835
 
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,Bisexuales
-http://bktv.xyz/070320/WerWcMP939/61738
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY TV 1
+http://monstertv.site:8080/live/53809909/80485729/999090.ts
 
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY G 
 http://nxt.plus:8080/live/cablestream/uSgBFYRL78sA/203475.ts
@@ -50,8 +50,10 @@ http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/9518.ts
 http://nxt.plus:8080/live/cablestream/uSgBFYRL78sA/169459.ts
 
 
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , Video Gay de prueba
-https://dl.dropboxusercontent.com/s/tu4y1b0vm1oaiesa8pzgx/GATORADE1.mp4?rlkey=nimtxajmvkirvj8wryht94tr1&st=5eyqm972&dl=0
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , Gay tv
+http://monstertv.site:8080/live/53809909/80485729/999028.ts
+
+
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , MEMO
 http://170.39.192.130:2095/live/56930169418play/200224play/322946.ts
 
