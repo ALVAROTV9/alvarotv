@@ -20,17 +20,14 @@ http://bktv.xyz/070320/WerWcMP939/75835
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 2
 http://monstertv.site:8080/live/53809909/80485729/999090.ts
 
-#EXTINF:-1 group-title="" ,Gay
-http://nxt.plus:8080/live/cablestream/uSgBFYRL78sA/203475.ts
-
-
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 3
 http://bktv.xyz/070320/WerWcMP939/51048
+
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,TransTV
 http://bktv.xyz/070320/WerWcMP939/46729
 
 
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , GAY 4
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 4 (offline)
 http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/10099.ts
 
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , Gay 5
