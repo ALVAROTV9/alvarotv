@@ -49,7 +49,6 @@ http://master-update.miicrosoft.es:8080/live/AN2210152/Z1gmIORyYbzeu9l46OFPQwnLx
 http://master-update.miicrosoft.es:8080/live/AN2210152/Z1gmIORyYbzeu9l46OFPQwnLx6wuhv/75910.ts
 
 
-
-
-
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 24 7
+http://cdn77-vid.xvideos-cdn.com/St58y1QVYpHfTYbjhlDdgQ==,1744776987/videos/hls/55/53/47/5553472839eeeb209e184c8b71d14a5b-2/hls-480p.m3u8
 
