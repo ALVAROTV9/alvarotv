@@ -50,8 +50,8 @@ http://master-update.miicrosoft.es:8080/live/AN2210152/Z1gmIORyYbzeu9l46OFPQwnLx
 
 
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 24 7
-http://cdn77-vid.xvideos-cdn.com/St58y1QVYpHfTYbjhlDdgQ==,1744776987/videos/hls/55/53/47/5553472839eeeb209e184c8b71d14a5b-2/hls-480p.m3u8
+http://em-h.phncdn.com/hls/videos/202411/29/461201641/720P_4000K_461201641.mp4/index-v1-a1.m3u8?validfrom=1744815667&validto=1744822867&ipa=186.82.84.59&hdl=-1&hash=GI1n7dsaNng9K%2FhGzTiBepQ800w%3D
 
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 24 7 b
-http://gcore-vid.xvideos-cdn.com/or2s07DjcGAAhgT_3uyg3A==,1744777197/videos/hls/c7/84/62/c7846254beb9e829d0de94a86606e492-1/hls-250p.m3u8
+http://hm-h.phncdn.com/hls/videos/202209/01/414807741/240604_0331_720P_4000K_414807741.mp4/index-v1-a1.m3u8?h=KkuR0kz6wHmBit7Y%2FVMW0wUrj1Q%3D&e=1744822976&f=1
 
