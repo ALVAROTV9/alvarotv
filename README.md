@@ -47,8 +47,8 @@ http://master-update.miicrosoft.es:8080/live/AN2210152/Z1gmIORyYbzeu9l46OFPQwnLx
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY11
 http://master-update.miicrosoft.es:8080/live/AN2210152/Z1gmIORyYbzeu9l46OFPQwnLx6wuhv/75910.ts
 
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,VIKINGOS 24 7
-http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/94822.m3u8
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,VIKINGOS 1
+http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15291.mkv
 
 
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,
