@@ -4,32 +4,32 @@
 ************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************PROPIO ***************
 #https://bit.ly/alvarotv2025 | rentry org : alvarotvNotas#
 
-#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,WHATSAPP 3170905878🔵
+#EXTINF:-1 group-title="" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,WHATSAPP 3170905878🔵 alvaro
 http://embed-cloudfront.wistia.com/deliveries/80c9c73aed3f00a41d47114bb1e379f8717b965e.m3u8
 
 
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,RUDEBOYZ
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,RUDEBOYZ ch
 http://defaultgen.com:3050/live/glsjsph@yahoo.com/SvtQSmasij/682826.ts
 
 
 
 
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 1
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 1 memo
 http://bktv.xyz/070320/WerWcMP939/75835
 
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 2
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 2 memo
 http://monstertv.site:8080/live/53809909/80485729/999090.ts
 
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 3
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 3 memo
 http://bktv.xyz/070320/WerWcMP939/51048
 
 
 
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , Gay 4
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , Gay 4 memo
 http://monstertv.site:8080/live/53809909/80485729/999028.ts
 
 
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 5
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 5 memo
 http://master-update.miicrosoft.es:8080/live/AN2210152/Z1gmIORyYbzeu9l46OFPQwnLx6wuhv/75910.ts
 
 
