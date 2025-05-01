@@ -13,42 +13,24 @@ http://defaultgen.com:3050/live/glsjsph@yahoo.com/SvtQSmasij/682826.ts
 
 
 
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY1
-http://monstertv.site:8080/live/53809909/80485729
 
-
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY2
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 1
 http://bktv.xyz/070320/WerWcMP939/75835
 
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY3
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 2
 http://monstertv.site:8080/live/53809909/80485729/999090.ts
 
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY4
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 3
 http://bktv.xyz/070320/WerWcMP939/51048
 
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,Trans TV
-http://bktv.xyz/070320/WerWcMP939/46729
 
 
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY6
-http://tv.proyectox.vip:8080/live/Fernando2024/Fernando2024/10099.ts
-
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , Gay7
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , Gay 4
 http://monstertv.site:8080/live/53809909/80485729/999028.ts
 
 
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , GAY8
-http://170.39.192.130:2095/live/56930169418play/200224play/322946.ts
-
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY9
-http://master-update.miicrosoft.es:8080/live/AN2210152/Z1gmIORyYbzeu9l46OFPQwnLx6wuhv/76282.ts
-
-
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY11
+#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 5
 http://master-update.miicrosoft.es:8080/live/AN2210152/Z1gmIORyYbzeu9l46OFPQwnLx6wuhv/75910.ts
-
-#EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,VIKINGOS 1
-http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15291.mkv
 
 
 #EXTINF:-1 group-title="" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,
