@@ -3,6 +3,15 @@
 
 #EXTINF:-1 group-title="MEMO" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,WHATSAPP 3170905878🔵 alvaro
 http://embed-cloudfront.wistia.com/deliveries/80c9c73aed3f00a41d47114bb1e379f8717b965e.m3u8
+
+#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 15
+http://netgotvapp.website:8080/live/C992063503/CKXYH/577464.ts
+
+
+#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 17 
+http://netgotvapp.website:8080/live/C992063503/CKXYH/576736.ts
+
+
 #EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,RUDEBOYZ ch
 http://gc.tensiga.com:8080/live/KreshnikIlazi/CNjsUneb9P&output=ts/104816.ts
 
