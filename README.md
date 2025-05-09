@@ -15,56 +15,84 @@ http://netgotvapp.website:8080/live/C992063503/CKXYH/576736.ts
 #EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,RUDEBOYZ ch
 http://gc.tensiga.com:8080/live/KreshnikIlazi/CNjsUneb9P&output=ts/104816.ts
 
-#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 1 memo
+#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 1
 http://bktv.xyz/070320/WerWcMP939/75835
-#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 2 memo
+
+#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 2
 http://monstertv.site:8080/live/53809909/80485729/999090.ts
-#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 3 memo
+
+#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 3
 http://bktv.xyz/070320/WerWcMP939/51048
-#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , Gay 4 memo
+
+#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" , Gay 4
 http://monstertv.site:8080/live/53809909/80485729/999028.ts
-#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 5 memo
+
+#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 5
 http://master-update.miicrosoft.es:8080/live/AN2210152/Z1gmIORyYbzeu9l46OFPQwnLx6wuhv/75910.ts
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S01 E01" ,Vikingos S01 E01
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15288.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S01 E02" ,Vikingos S01 E02
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15289.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S01 E03" ,Vikingos S01 E03
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15290.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S01 E04" ,Vikingos S01 E04
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15291.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S01 E05" ,Vikingos S01 E05
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15292.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S01 E06" ,Vikingos S01 E06
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15293.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S01 E07" ,Vikingos S01 E07
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15294.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S01 E08" ,Vikingos S01 E08
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15295.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S01 E09" ,Vikingos S01 E09
+
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15296.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S02 E01" ,Vikingos S02 E01
+
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15297.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S02 E02" ,Vikingos S02 E02
+
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15298.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S02 E03" ,Vikingos S02 E03
+
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15299.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S02 E04" ,Vikingos S02 E04
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15300.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S02 E05" ,Vikingos S02 E05
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15301.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S02 E06" ,Vikingos S02 E06
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15302.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S02 E07" ,Vikingos S02 E07
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15303.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S02 E08" ,Vikingos S02 E08
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15304.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S02 E09" ,Vikingos S02 E09
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15305.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S02 E10" ,Vikingos S02 E10
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15306.mkv
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S03 E01" ,Vikingos S03 E01
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15307.mkv
+
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S03 E02" ,Vikingos S03 E02
 http://tv.proyectox.vip:8080/series/aarcila/8KqMg4kAWM/15308.mkv
 #EXTINF:-1 group-title="MEMO" tvg-name="Vikingos S03 E03" ,Vikingos S03 E03
