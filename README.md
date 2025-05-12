@@ -4,6 +4,9 @@
 #EXTINF:-1 group-title="MEMO" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,WHATSAPP 3170905878🔵 alvaro
 http://embed-cloudfront.wistia.com/deliveries/80c9c73aed3f00a41d47114bb1e379f8717b965e.m3u8
 
+title="MEMO" tvg-logo="https://i.ibb.co/PMSSWX9/Canal-Prueba.jpg" ,GARGANTA PROFUNDA
+https://cdnst.serviporno.com/videos/f/2/3/4/d/f234d0afd5fc87d0dd98915c9eb43fa8.mp4?secure=6PKLcrG3NTl6QexeKPpntw%3D%3D%2C1747120210
+
 #EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 15
 http://netgotvapp.website:8080/live/C992063503/CKXYH/577464.ts
 
