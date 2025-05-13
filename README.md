@@ -23,8 +23,6 @@ http://eszeada.top:8080/live/es741734761387002/0b82f9f6a58c/32382.ts
 
 
 
-
-
 #EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,G tv5
 http://eszeada.top:8080/live/es741734761387002/0b82f9f6a58c/32383.ts
 
@@ -34,6 +32,15 @@ http://eszeada.top:8080/live/es741734761387002/0b82f9f6a58c/32386.ts
 
 #EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,G tv7
 http://eszeada.top:8080/live/es741734761387002/0b82f9f6a58c/32387.ts
+
+
+
+#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,G tv8
+http://loboplay.shop/live/61946164108514/23853224995804/223737.ts
+
+
+
+
 
 
 
