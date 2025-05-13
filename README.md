@@ -1,27 +1,27 @@
 
 #EXTM3U:
 
-#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,PELICULA GARGANTA PROFUNDA
-http://cdnst.serviporno.com/videos/f/2/3/4/d/f234d0afd5fc87d0dd98915c9eb43fa8.mp4?secure=6PKLcrG3NTl6QexeKPpntw%3D%3D%2C1747120210
+#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,
 
 
-#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 1
+#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,G tv1
 http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/10091.ts
 
 
 
-#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 2
+#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,G tv2
 http://fcrnuhadr.pro:8080/live/isot35sgr/sagir35ist/397369.ts
 
 
-#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 1
-
-
-#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 1
-
-
-
-
-
-#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 5
+#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,G tv3
 http://master-update.miicrosoft.es:8080/live/AN2210152/Z1gmIORyYbzeu9l46OFPQwnLx6wuhv/75910.ts
+
+
+#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,G tv4
+
+
+
+
+
+#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,G tv5
+
