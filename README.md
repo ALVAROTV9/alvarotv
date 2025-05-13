@@ -10,7 +10,8 @@ http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/10091.ts
 
 
 
-#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 1
+#EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 2
+http://fcrnuhadr.pro:8080/live/isot35sgr/sagir35ist/397369.ts
 
 
 #EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 1
