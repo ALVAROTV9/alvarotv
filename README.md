@@ -6,10 +6,12 @@ http://cdnst.serviporno.com/videos/f/2/3/4/d/f234d0afd5fc87d0dd98915c9eb43fa8.mp
 
 
 #EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 1
+http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/10091.ts
 
 
 
 #EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 1
+
 
 #EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 1
 
