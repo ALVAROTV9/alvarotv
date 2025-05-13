@@ -1,4 +1,8 @@
-.com.br/server/Canal%20Adulto.png" , Gay 4
+
+
+#EXTM3U:
+
+title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 1
 http://monstertv.site:8080/live/53809909/80485729/999028.ts
 
 #EXTINF:-1 group-title="MEMO" tvg-logo="http://prinplay.com.br/server/Canal%20Adulto.png" ,GAY 5
