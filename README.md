@@ -48,10 +48,27 @@ http://esfamous.top:8080/es5731734206772002/422ea0555bdd/32382
 http://esfamous.top:8080/es5731734206772002/422ea0555bdd/32386
 #EXTINF:-1 group-title="memo" ,XXX: PHub LGBTQ Dante Colle Gay
 http://esfamous.top:8080/es5731734206772002/422ea0555bdd/32384
+
 #EXTINF:-1 group-title="memo" ,XXX: PHub LGBTQ Max Konnor Gay
 http://esfamous.top:8080/es5731734206772002/422ea0555bdd/32388
 #EXTINF:-1 group-title="memo" ,XXX: PHub LGBTQ Deangelo Jackson Gay
 http://esfamous.top:8080/es5731734206772002/422ea0555bdd/32385
+
+
+
+#EXTINF:-1 group-title="memo" ,XXX:vid 1Gay
+http://new-tv.cloud:25461/MemoB124/q4SvPRG7YJSb/758521
+
+
+
+#EXTINF:-1 group-title="memo" ,XXX:2Gay
+http://new-tv.cloud:25461/movie/MemoB124/q4SvPRG7YJSb/732763.mp4
+
+
+
+#EXTINF:-1 group-title="memo" ,XXX:3Gay
+http://new-tv.cloud:25461/movie/MemoB124/q4SvPRG7YJSb/732779.mp4
+
 
 
 
