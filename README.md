@@ -1,5 +1,33 @@
 #EXTM3U:
 
+
+#EXTINF:-1 group-title="memo" ,HBO CHANNEL
+http://tv.proyectox.vip:8080/live/Juan1/DPDNFED9Xr/9666.ts
+
+
+#EXTINF:-1 group-title="memo" ,HBO 2
+http://tv.proyectox.vip:8080/live/Juan1/DPDNFED9Xr/9673.ts
+
+
+#EXTINF:-1 group-title="memo" ,HBO FAMILY
+http://tv.proyectox.vip:8080/live/Juan1/DPDNFED9Xr/9678.ts
+
+
+#EXTINF:-1 group-title="memo" ,HBO MUNDI
+http://tv.proyectox.vip:8080/live/Juan1/DPDNFED9Xr/9682.ts
+
+#EXTINF:-1 group-title="memo" ,HBO PLUS
+http://tv.proyectox.vip:8080/live/Juan1/DPDNFED9Xr/9685.ts
+
+
+#EXTINF:-1 group-title="memo" ,HBO POP
+http://tv.proyectox.vip:8080/live/Juan1/DPDNFED9Xr/9689.ts
+
+#EXTINF:-1 group-title="memo" ,HBO  EXTREME
+http://tv.proyectox.vip:8080/live/Juan1/DPDNFED9Xr/9700.ts
+
+
+
 #EXTINF:-1 group-title="memo" ,XXX: Neo Gay 1
 http://esfamous.top:8080/es5731734206772002/422ea0555bdd/32420
 #EXTINF:-1 group-title="memo" ,gay Video 2a
