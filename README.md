@@ -32,14 +32,19 @@ http://tv.proyectox.vip:8080/live/Juan1/DPDNFED9Xr/9700.ts
 http://esfamous.top:8080/es5731734206772002/422ea0555bdd/32420
 #EXTINF:-1 group-title="memo" ,gay Video 2a
 http://loboplay.shop/movie/61946164108514/23853224995804/546347.mp4
-#EXTINF:-1 group-title="memo" ,gay Video 3a
-http://loboplay.shop/movie/61946164108514/23853224995804/546349.mp4
-#EXTINF:-1 group-title="memo" ,gay Video 4a
-http://loboplay.shop/movie/61946164108514/23853224995804/546348.mp4
-#EXTINF:-1 group-title="memo" ,gay tv a
-http://eszeada.top:8080/live/es741734761387002/0b82f9f6a58c/32385.ts
-#EXTINF:-1 group-title="memo" ,G gay a
-http://tv.proyectox.vip:8080/live/aarcila/8KqMg4kAWM/10091.ts
+#EXTINF:-1 group-title="memo" ,gay VIP1
+http://legendstv.com.mx:8080/live/Victormanuel123/Victormanuel123/331126.ts
+#EXTINF:-1 group-title="memo" ,gay Vip2
+http://legendstv.com.mx:8080/live/Victormanuel123/Victormanuel123/331127.ts
+
+
+#EXTINF:-1 group-title="memo" ,gay VIP3
+http://legendstv.com.mx:8080/live/Victormanuel123/Victormanuel123/331128.ts
+
+
+#EXTINF:-1 group-title="memo" ,gay VIP4
+http://legendstv.com.mx:8080/live/Victormanuel123/Victormanuel123/331129.ts
+
 #EXTINF:-1 group-title="memo" ,G tv3 a
 http://master-update.miicrosoft.es:8080/live/AN2210152/Z1gmIORyYbzeu9l46OFPQwnLx6wuhv/75910.ts
 #EXTINF:-1 group-title="memo" ,G tv4 a
